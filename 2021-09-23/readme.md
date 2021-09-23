@@ -14,4 +14,4 @@ print(remove_adjacent_dup("cabba"))
 # print c
 ```
 
-# [Solution](solution)
+# [Solution](solution.md)
