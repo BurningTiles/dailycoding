@@ -1,5 +1,5 @@
 # Daily Coding
-## Solving one problem everyday.
+
 
 Day | Problem
 --- | -------
