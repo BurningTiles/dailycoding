@@ -1,6 +1,6 @@
 # Remove Adjacent Duplicate Characters
 
-# CPP
+## CPP
 ```cpp
 /**
  * Author  : BurningTiles
