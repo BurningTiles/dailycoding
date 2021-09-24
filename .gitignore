@@ -1,6 +1,4 @@
-*.cpp
-*.py
-*.java
+*.cph
 *.bin
 *.exe
 *.class
