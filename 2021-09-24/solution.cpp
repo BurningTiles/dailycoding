@@ -33,7 +33,7 @@ string add(string num1, string num2) {
 		ans = toChar(tmp) + ans;
 		i--;
 	}
-	while(i>=0) {
+	while(j>=0) {
 		tmp = toInt(num2[j]) + carry;
 		carry = 0;
 		ans = toChar(tmp) + ans;
