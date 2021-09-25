@@ -6,15 +6,17 @@
 
 def common_characters(a):
 	ans = []
-	flag = [True]*26
+	flag = [[False]*26 for _ in range(len(a))]
 	for i in range(len(a)):
-		flagStr = [False]*26
 		for j in range(len(a[i])):
-			if flag[ord(a[i][j])-97]:
-				flagStr[ord(a[i][j])-97] = True
-		flag = flagStr
+			flag[i][ord(a[i][j])-97] = True
 	for i in range(26):
-		if flag[i]:
+		ch = True
+		for j in range(len(a)):
+			if not flag[j][i]:
+				ch = False
+				break
+		if ch:
 			ans.append(chr(i+97))
 	return ans
 

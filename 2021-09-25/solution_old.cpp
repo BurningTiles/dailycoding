@@ -10,17 +10,20 @@ using namespace std;
 
 vector<char> common_characters(vector<string> v) {
 	vector<char> ans;
-	vector<bool> flag(26,true);
+	bool flag[v.size()][26]={false};
 	for(int i=0; i<v.size(); i++){
-		vector<bool> flagStr(26, false);
 		for(int j=0; j<v[i].size(); j++)
-			if(flag[v[i][j]-97])
-				flagStr[v[i][j]-97] = true;
-		flag = flagStr;
+			flag[i][v[i][j]-97] = 1;
 	}
-	for(int i=0; i<26; i++)
-		if(flag[i])
-			ans.push_back(i+97);
+	for(int i=0; i<26; i++){
+		bool ch = true;
+		for(int j=0; j<v.size(); j++)
+			if(!flag[j][i]){
+				ch = false;
+				break;
+			}
+		if(ch) ans.push_back(i+97);
+	}
 	return ans;
 }
 
