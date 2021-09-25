@@ -9,9 +9,9 @@ def common_characters(a):
 	flag = [True]*26
 	for i in range(len(a)):
 		flagStr = [False]*26
-		for j in range(len(a[i])):
-			if flag[ord(a[i][j])-97]:
-				flagStr[ord(a[i][j])-97] = True
+		for ch in a[i]:
+			if flag[ord(ch)-97]:
+				flagStr[ord(ch)-97] = True
 		flag = flagStr
 	for i in range(26):
 		if flag[i]:
