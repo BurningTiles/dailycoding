@@ -3,6 +3,7 @@
 
 Day | Problem
 --- | -------
+30 Sep 2021 | **[Pascal's Triangle](2021-09-30)**
 29 Sep 2021 | **[Shortest Distance to Character](2021-09-29)**
 28 Sep 2021 | **[Minimum Number of Operations](2021-09-28)**
 27 Sep 2021 | **[Intersection of Lists](2021-09-27)**
