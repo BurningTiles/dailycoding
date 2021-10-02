@@ -2,7 +2,10 @@ import java.util.Arrays;
 
 public class solution {
 	public static void main(String args[]) {
-		int a[][] = {{1, 2}, {3, 4}};
+		int a[][] = {
+			{1, 2}, 
+			{3, 4}
+		};
 		System.out.println(Arrays.deepToString(reshape_matrix(a, 1, 4)));
 		System.out.println(Arrays.deepToString(reshape_matrix(a, 2, 3)));
 	}

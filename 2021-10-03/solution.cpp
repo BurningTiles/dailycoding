@@ -38,7 +38,10 @@ void print(vector<vector<int>> a) {
 }
 
 signed main() {
-	vector<vector<int>> a = {{1, 2}, {3, 4}};
+	vector<vector<int>> a = {
+		{1, 2}, 
+		{3, 4}
+	};
 	print(reshapre_matrix(a, 1, 4));
 	print(reshapre_matrix(a, 2, 3));
 	return 0;
