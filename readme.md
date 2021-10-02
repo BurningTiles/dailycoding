@@ -3,6 +3,7 @@
 
 Day | Problem
 --- | -------
+02 Oct 2021 | **[Sum Binary Numbers](2021-10-02)**
 01 Oct 2021 | **[Closest to 3 Sum](2021-10-01)**
 30 Sep 2021 | **[Pascal's Triangle](2021-09-30)**
 29 Sep 2021 | **[Shortest Distance to Character](2021-09-29)**
