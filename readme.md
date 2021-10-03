@@ -3,6 +3,7 @@
 
 Day | Problem
 --- | -------
+04 Oct 2021 | **[Reverse Integer](2021-10-04)**
 03 Oct 2021 | **[Reshaping Matrix](2021-10-03)**
 02 Oct 2021 | **[Sum Binary Numbers](2021-10-02)**
 01 Oct 2021 | **[Closest to 3 Sum](2021-10-01)**
