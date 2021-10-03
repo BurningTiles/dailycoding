@@ -1,5 +1,8 @@
 # Daily Coding
-### Solving one problem everyday.
+## Welcome my friend...
+I decided to solve one programming question everyday also upload it so others can learn from it. So here it is.
+
+### Let's solve one programming question everyday...
 
 Day | Problem
 --- | -------
