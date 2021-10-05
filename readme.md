@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+05 Oct 2021 | **[Decimal to Roman](2021-10-05)**
 04 Oct 2021 | **[Reverse Integer](2021-10-04)**
 03 Oct 2021 | **[Reshaping Matrix](2021-10-03)**
 02 Oct 2021 | **[Sum Binary Numbers](2021-10-02)**
