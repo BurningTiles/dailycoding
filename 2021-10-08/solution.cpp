@@ -1,14 +1,24 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+void backtrack(vector<string> &ans, string cur, int open, int close, int max) {
+	if(cur.size()==max*2){
+		ans.push_back(cur);
+		return;
+	}
+	if(open<max)
+		cur.push_back('('),
+		backtrack(ans, cur, open+1, close, max),
+		cur.pop_back();
+	if(close<open)
+		cur.push_back(')'),
+		backtrack(ans, cur, open, close+1, max),
+		cur.pop_back();
+}
+
 vector<string> generate_brackets(int n){
 	vector<string> ans;
-	if(n==0)
-		return {""};
-	for(int i=0; i<n; i++)
-		for(string left: generate_brackets(i))
-			for(string right: generate_brackets(n-1-i))
-				ans.push_back("(" + left + ")" + right);
+	backtrack(ans, "", 0, 0, n);
 	return ans;
 }
 

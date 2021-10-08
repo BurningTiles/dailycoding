@@ -14,7 +14,7 @@ print(generate_brackets(1))
 # ['()']
 
 print(generate_brackets(3))
-# ['()()()', '()(())', '(())()', '(()())', '((()))']
+# ['((()))', '(()())', '(())()', '()(())', '()()()']
 ```
 
 # [Solution](solution.md)

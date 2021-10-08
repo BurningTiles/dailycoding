@@ -8,15 +8,25 @@ public class solution {
 	}
 
 	public static List<String> generate_brackets(int n) {
-        List<String> ans = new ArrayList<String>();
-        if (n == 0) {
-            ans.add("");
-        } else {
-            for (int c = 0; c < n; ++c)
-                for (String left: generate_brackets(c))
-                    for (String right: generate_brackets(n-1-c))
-                        ans.add("(" + left + ")" + right);
-        }
-        return ans;
-    }
+		List<String> ans = new ArrayList<String>();
+		backtrack(ans, new StringBuilder(), 0, 0, n);
+		return ans;
+	}
+	
+	public static void backtrack(List<String> ans, StringBuilder cur, int open, int close, int max){
+		if (cur.length() == max * 2) {
+			ans.add(cur.toString());
+			return;
+		}
+		if (open < max) {
+			cur.append("(");
+			backtrack(ans, cur, open+1, close, max);
+			cur.deleteCharAt(cur.length() - 1);
+		}
+		if (close < open) {
+			cur.append(")");
+			backtrack(ans, cur, open, close+1, max);
+			cur.deleteCharAt(cur.length() - 1);
+		}
+	}
 }
