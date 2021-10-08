@@ -182,5 +182,3 @@ public class solution {
     }
 }
 ```
-
-# [Referance](https://leetcode.com/problems/4sum/solution/)
