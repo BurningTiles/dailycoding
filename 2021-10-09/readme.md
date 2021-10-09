@@ -8,7 +8,7 @@ Here's an example and some starter code.
 
 ```python
 def remove_dups(nums):
-	# Fill this in.
+  # Fill this in.
 
 nums = [1, 1, 2, 3, 4, 4, 4, 4, 4, 5, 5, 6, 7, 9]
 print(remove_dups(nums))
