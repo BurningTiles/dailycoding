@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+10 Oct 2021 | **[Unique Sum Combinations](2021-10-10)**
 09 Oct 2021 | **[Remove Duplicates From Sorted List](2021-10-09)**
 08 Oct 2021 | **[Generate Brackets](2021-10-08)**
 07 Oct 2021 | **[4 Sum](2021-10-07)**
