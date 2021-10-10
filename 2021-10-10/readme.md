@@ -11,7 +11,7 @@ def sum_combinations(nums, target):
   # Fill this in.
 
 print(sum_combinations([10, 1, 2, 7, 6, 1, 5], 8))
-# [(2, 6), (1, 1, 6), (1, 2, 5), (1, 7)]
+# [[2, 6], [1, 1, 6], [1, 2, 5], [1, 7]]
 ```
 
 # [Solution](solution.md)
