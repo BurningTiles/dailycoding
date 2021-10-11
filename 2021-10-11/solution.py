@@ -1,21 +1,26 @@
 def find_num(a, val):
+	ans = (-1, -1)
 	l, mid, r = 0, 0, len(a)-1
-	while l<=r:
+	while l<r:
 		mid = (l+r)//2
-		if a[mid]==val:
-			break
-		elif a[mid]<val:
+		if a[mid]<val:
 			l = mid+1
 		else:
+			r = mid
+	if a[l]!=val:
+		return ans
+	else:
+		ans = (l, -1)
+	r = len(a)-1
+	while l<r:
+		mid = (l+r)//2+1
+		if a[mid]>val:
 			r = mid-1
-	if l>r:
-		return (-1, -1)
-	l = r = mid
-	while l>=0 and a[l]==val:
-		l -= 1
-	while r<len(a) and a[r]==val:
-		r += 1
-	return (l+1, r-1)
+		else:
+			l = mid
+	ans = (ans[0], r)
+	return ans
+	
 
 print(find_num([1, 1, 3, 5, 7], 1))
 print(find_num([1, 2, 3, 4], 5))

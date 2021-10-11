@@ -1,19 +1,24 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> find_num(vector<int> v, int val){
-	int l=0, r=v.size()-1, mid;
-	while(l<=r){
-		mid = l+r/2;
-		if(v[mid]==val) break;
-		else if(v[mid]<val) l=mid+1;
-		else r=mid-1;
+vector<int> find_num(vector<int> a, int val){
+	vector<int> ans={-1, -1};
+	int l=0, r=a.size()-1, mid;
+	while(l<r){
+		mid = (l+r)/2;
+		if(a[mid]<val) l=mid+1;
+		else r=mid;
 	}
-	if(l>r) return {-1, -1};
-	l = r = mid;
-	while(l>=0 && v[l]==val) --l;
-	while(r<v.size() && v[r]==val) ++r;
-	return {l+1, r-1};
+	if(a[l]!=val) return ans;
+	else ans[0]=l;
+	r = a.size()-1;
+	while(l<r){
+		mid = (l+r)/2+1;
+		if(a[mid]>val) r=mid-1;
+		else l=mid;
+	}
+	ans[1] = r;
+	return ans;
 }
 
 signed main() {
