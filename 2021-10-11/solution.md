@@ -2,34 +2,32 @@
 
 ### Python
 ```python
-def backtrack(comb, target, cur, counter, ans):
-	if target==0:
-		ans.append(list(comb))
-	if target<=0:
-		return
-	for i in range(cur, len(counter)):
-		val, n = counter[i]
-		if n<=0:
-			continue
-		comb.append(val)
-		counter[i] = (val, n-1)
-		backtrack(comb, target-val, i, counter, ans)
-		counter[i] = (val, n)
-		comb.pop()
-
-def sum_combinations(nums, target):
-	ans = []
-	tmp = {}
-	for n in nums:
-		tmp[n] = 0
-	for n in nums:
-		tmp[n] += 1
-	counter = [(x, tmp[x]) for x in tmp]
-	backtrack([], target, 0, counter, ans)
+def find_num(a, val):
+	ans = (-1, -1)
+	l, mid, r = 0, 0, len(a)-1
+	while l<r:
+		mid = (l+r)//2
+		if a[mid]<val:
+			l = mid+1
+		else:
+			r = mid
+	if a[l]!=val:
+		return ans
+	else:
+		ans = (l, -1)
+	r = len(a)-1
+	while l<r:
+		mid = (l+r)//2+1
+		if a[mid]>val:
+			r = mid-1
+		else:
+			l = mid
+	ans = (ans[0], r)
 	return ans
+	
 
-print(sum_combinations([10, 1, 2, 7, 6, 1, 5], 8))
-print(sum_combinations([2, 5, 2, 1, 2], 5))
+print(find_num([1, 1, 3, 5, 7], 1))
+print(find_num([1, 2, 3, 4], 5))
 ```
 
 ### C++
@@ -37,45 +35,32 @@ print(sum_combinations([2, 5, 2, 1, 2], 5))
 #include <bits/stdc++.h>
 using namespace std;
 
-void backtrack(vector<int> &comb, int target, int cur, vector<vector<int>> &counter, vector<vector<int>> &ans){
-	if(target==0) ans.push_back(comb);
-	if(target<=0) return;
-	for(int i=cur; i<counter.size(); i++){
-		int val = counter[i][0], n = counter[i][1];
-		if(n<=0)
-			continue;
-		comb.push_back(val);
-		counter[i][1]--;
-		backtrack(comb, target-val, i, counter, ans);
-		counter[i][1]++;
-		comb.pop_back();
+vector<int> find_num(vector<int> a, int val){
+	vector<int> ans={-1, -1};
+	int l=0, r=a.size()-1, mid;
+	while(l<r){
+		mid = (l+r)/2;
+		if(a[mid]<val) l=mid+1;
+		else r=mid;
 	}
-}
-
-vector<vector<int>> sum_combinations(vector<int> a, int target){
-	vector<vector<int>> ans;
-	vector<int> comb;
-	map<int, int> m;
-	for(int value:a) m[value]++;
-	vector<vector<int>> counter;
-	for(auto x:m)
-		counter.push_back({x.first, x.second});
-	backtrack(comb, target, 0, counter, ans);
+	if(a[l]!=val) return ans;
+	else ans[0]=l;
+	r = a.size()-1;
+	while(l<r){
+		mid = (l+r)/2+1;
+		if(a[mid]>val) r=mid-1;
+		else l=mid;
+	}
+	ans[1] = r;
 	return ans;
 }
 
-void print(vector<vector<int>> a){
-	for(auto row:a){
-		cout << "[";
-		for(int i=0; i<row.size(); i++)
-			cout << row[i] << (i==row.size()-1 ? "] " : ", ");
-	}cout << endl;
-}
-
 signed main() {
-	print(sum_combinations({10, 1, 2, 7, 6, 1, 5}, 8));
-	print(sum_combinations({2, 5, 2, 1, 2}, 5));
-	
+	vector<int> ans = find_num({1, 1, 3, 5, 7}, 1);
+	cout << ans[0] << " " << ans[1] << endl;
+	ans = find_num({1, 2, 3, 4}, 5);
+	cout << ans[0] << " " << ans[1] << endl;
+
 	return 0;
 }
 ```
