@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+12 Oct 2021 | **[Minimum Depth of Binary Tree](2021-10-12)**
 11 Oct 2021 | **[Range Searching in a Sorted List](2021-10-11)**
 10 Oct 2021 | **[Unique Sum Combinations](2021-10-10)**
 09 Oct 2021 | **[Remove Duplicates From Sorted List](2021-10-09)**
