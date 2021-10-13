@@ -6,7 +6,7 @@ class Node:
 
 def target_sum_bst(root, target, cur=0):
 	if root==None:
-		return cur
+		return cur==target
 	cur += root.value
 	ans = False
 	if root.left!=None:
