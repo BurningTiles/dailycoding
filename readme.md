@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+14 Oct 2021 | **[Majority Element](2021-10-14)**
 13 Oct 2021 | **[Target Sum from Root to Leaf](2021-10-13)**
 12 Oct 2021 | **[Minimum Depth of Binary Tree](2021-10-12)**
 11 Oct 2021 | **[Range Searching in a Sorted List](2021-10-11)**
