@@ -7,6 +7,9 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+17 Oct 2021 | **[Searching a Matrix](2021-10-17)**
+16 Oct 2021 | **[Maximum Non Adjacent Sum](2021-10-16)**
+15 Oct 2021 | **[Number of 1 bits](2021-10-15)**
 14 Oct 2021 | **[Majority Element](2021-10-14)**
 13 Oct 2021 | **[Target Sum from Root to Leaf](2021-10-13)**
 12 Oct 2021 | **[Minimum Depth of Binary Tree](2021-10-12)**
