@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+19 Oct 2021 | **[Flatten Binary Tree](2021-10-19)**
 18 Oct 2021 | **[Generate all subsets](2021-10-18)**
 17 Oct 2021 | **[Searching a Matrix](2021-10-17)**
 16 Oct 2021 | **[Maximum Non Adjacent Sum](2021-10-16)**
