@@ -7,6 +7,11 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+26 Oct 2021 | **[Connected colors in a grid](2021-10-26)**
+25 Oct 2021 | **[ZigZag Conversion](2021-10-25)**
+24 Oct 2021 | **[Find the K-th Largest Number](2021-10-24)**
+23 Oct 2021 | **[Concatenated Words](2021-10-23)**
+22 Oct 2021 | **[LRU Cache](2021-10-22)**
 21 Oct 2021 | **[Deep Copy Graph](2021-10-21)**
 20 Oct 2021 | **[Root to leaf numbers summed](2021-10-20)**
 19 Oct 2021 | **[Flatten Binary Tree](2021-10-19)**
