@@ -1,6 +1,6 @@
 # ZigZag Conversion
 
-The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows.
+The string should be written in a zigzag pattern on a given number of rows. Then read it line by line.
 
 ```
 Ex: s="INSTAGRAMISAWESOME", rows=4
