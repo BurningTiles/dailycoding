@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+27 Oct 2021 | **[Autocompletion](2021-10-27)**
 26 Oct 2021 | **[Connected colors in a grid](2021-10-26)**
 25 Oct 2021 | **[ZigZag Conversion](2021-10-25)**
 24 Oct 2021 | **[Find the K-th Largest Number](2021-10-24)**
