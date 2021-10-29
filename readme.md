@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+29 Oct 2021 | **[Closest points to origin](2021-10-29)**
 28 Oct 2021 | **[Ransom Note](2021-10-28)**
 27 Oct 2021 | **[Autocompletion](2021-10-27)**
 26 Oct 2021 | **[Connected colors in a grid](2021-10-26)**
