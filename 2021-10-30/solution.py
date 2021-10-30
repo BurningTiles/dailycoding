@@ -19,6 +19,6 @@ def findNode(a, b, node):
 #   4*  5
 a = Node(1, Node(2), Node(3, Node(4), Node(5)))
 
-b = Node(10, Node(20), Node(30, Node(40), Node(50)))
+b = Node(1, Node(2), Node(3, Node(4), Node(5)))
 
 print(findNode(a, b, a.right.left).value)
