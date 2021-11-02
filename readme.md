@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+02 Nov 2021 | **[Find Duplicates](2021-11-02)**
 01 Nov 2021 | **[Add Digits](2021-11-01)**
 31 Oct 2021 | **[Perfect Number](2021-10-31)**
 30 Oct 2021 | **[Clone Trees](2021-10-30)**
