@@ -4,20 +4,20 @@ This problem was recently asked by Microsoft:
 
 Given a tree, the leaves form a certain order from left to right. Two trees are considered "leaf-similar" if their leaf orderings are the same.
 
-For instance, the following two trees are considered leaf-similar because their leaves are [2, 1]:
+For instance, the following two trees are considered leaf-similar because their leaves are [6, 2, 1]:
 ```
-    3
-   / \ 
-  5   1
-   \
-    2 
+     3
+    / \ 
+   5   1
+  / \
+ 6   2 
 ```
 ```
-    7
-   / \ 
-  2   1
-   \
-    2 
+     7
+    / \ 
+   2   1
+  / \
+ 6   2 
 ```
 Our job is to determine, given two trees, whether they are "leaf similar."
 
