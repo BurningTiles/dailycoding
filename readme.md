@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+04 Nov 2021 | **[Valid Mountain Array](2021-11-04)**
 03 Nov 2021 | **[Leaf-Similar Trees](2021-11-03)**
 02 Nov 2021 | **[Find Duplicates](2021-11-02)**
 01 Nov 2021 | **[Add Digits](2021-11-01)**
