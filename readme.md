@@ -7,6 +7,8 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+06 Nov 2021 | **[Three Equal Sums](2021-11-06)**
+05 Nov 2021 | **[Array to Binary Search Tree](2021-11-05)**
 04 Nov 2021 | **[Valid Mountain Array](2021-11-04)**
 03 Nov 2021 | **[Leaf-Similar Trees](2021-11-03)**
 02 Nov 2021 | **[Find Duplicates](2021-11-02)**
