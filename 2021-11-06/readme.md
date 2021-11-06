@@ -15,8 +15,7 @@ class Solution(object):
     def canThreePartsEqualSum(self, A):
       # Fill this in.0
 
-print(Solution().canThreePartsEqualSum(
-    [0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1]))
+print(Solution().canThreePartsEqualSum([0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1]))
 # True
 ```
 
