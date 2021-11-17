@@ -7,6 +7,17 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+17 Nov 2021 | **[Three Equal Sums](2021-11-17)**
+16 Nov 2021 | **[Three Equal Sums](2021-11-16)**
+15 Nov 2021 | **[Three Equal Sums](2021-11-15)**
+14 Nov 2021 | **[Three Equal Sums](2021-11-14)**
+13 Nov 2021 | **[Three Equal Sums](2021-11-13)**
+12 Nov 2021 | **[Three Equal Sums](2021-11-12)**
+11 Nov 2021 | **[Three Equal Sums](2021-11-11)**
+10 Nov 2021 | **[Three Equal Sums](2021-11-10)**
+09 Nov 2021 | **[Three Equal Sums](2021-11-09)**
+08 Nov 2021 | **[Array of equal parts](2021-11-08)**
+07 Nov 2021 | **[Remove duplicates from Linked List](2021-11-07)**
 06 Nov 2021 | **[Three Equal Sums](2021-11-06)**
 05 Nov 2021 | **[Array to Binary Search Tree](2021-11-05)**
 04 Nov 2021 | **[Valid Mountain Array](2021-11-04)**
