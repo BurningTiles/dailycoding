@@ -52,7 +52,7 @@ int required_rooms(vector<pair<int, int>> lec){
 }
 
 signed main() {
-	cout << required_rooms({{30, 75}, {0, 50}, {60, 150}}) << endl;
+	cout << required_rooms({ {30, 75}, {0, 50}, {60, 150} }) << endl;
 	return 0;
 }
 ```
