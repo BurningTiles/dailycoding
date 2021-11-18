@@ -14,7 +14,7 @@ Day | Problem
 13 Nov 2021 | **[Three Equal Sums](2021-11-13)**
 12 Nov 2021 | **[Three Equal Sums](2021-11-12)**
 11 Nov 2021 | **[Three Equal Sums](2021-11-11)**
-10 Nov 2021 | **[Three Equal Sums](2021-11-10)**
+10 Nov 2021 | **[Room scheduling](2021-11-10)**
 09 Nov 2021 | **[Iterative In-Order Tree](2021-11-09)**
 08 Nov 2021 | **[Array of equal parts](2021-11-08)**
 07 Nov 2021 | **[Remove duplicates from Linked List](2021-11-07)**
