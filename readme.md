@@ -9,8 +9,8 @@ Day | Problem
 --- | -------
 17 Nov 2021 | **[Three Equal Sums](2021-11-17)**
 16 Nov 2021 | **[Three Equal Sums](2021-11-16)**
-15 Nov 2021 | **[Three Equal Sums](2021-11-15)**
-14 Nov 2021 | **[Three Equal Sums](2021-11-14)**
+15 Nov 2021 | **[Word Search](2021-11-15)**
+14 Nov 2021 | **[Determine If Linked List is Palindrome](2021-11-14)**
 13 Nov 2021 | **[Most Frequent Subtree Sum](2021-11-13)**
 12 Nov 2021 | **[Queens on a chessboard](2021-11-12)**
 11 Nov 2021 | **[Integer Break](2021-11-11)**
