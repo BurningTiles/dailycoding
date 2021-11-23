@@ -12,8 +12,8 @@ Day | Problem
 15 Nov 2021 | **[Three Equal Sums](2021-11-15)**
 14 Nov 2021 | **[Three Equal Sums](2021-11-14)**
 13 Nov 2021 | **[Three Equal Sums](2021-11-13)**
-12 Nov 2021 | **[Three Equal Sums](2021-11-12)**
-11 Nov 2021 | **[Three Equal Sums](2021-11-11)**
+12 Nov 2021 | **[Queens on a chessboard](2021-11-12)**
+11 Nov 2021 | **[Integer Break](2021-11-11)**
 10 Nov 2021 | **[Room scheduling](2021-11-10)**
 09 Nov 2021 | **[Iterative In-Order Tree](2021-11-09)**
 08 Nov 2021 | **[Array of equal parts](2021-11-08)**
