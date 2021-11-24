@@ -7,7 +7,14 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
-17 Nov 2021 | **[Add Digits](2021-11-17)**
+24 Nov 2021 | **[Add Digits](2021-11-24)**
+23 Nov 2021 | **[Add Digits](2021-11-23)**
+22 Nov 2021 | **[Add Digits](2021-11-22)**
+21 Nov 2021 | **[Add Digits](2021-11-21)**
+20 Nov 2021 | **[Add Digits](2021-11-20)**
+19 Nov 2021 | **[Add Digits](2021-11-19)**
+18 Nov 2021 | **[Add Digits](2021-11-18)**
+17 Nov 2021 | **[Validate Balanced Parentheses](2021-11-17)**
 16 Nov 2021 | **[Create a balanced binary search tree](2021-11-16)**
 15 Nov 2021 | **[Word Search](2021-11-15)**
 14 Nov 2021 | **[Determine If Linked List is Palindrome](2021-11-14)**
