@@ -1,21 +1,43 @@
-# Add Digits
+# Validate Balanced Parentheses
 
-This problem was recently asked by Amazon:
+This problem was recently asked by Uber:
 
-Given a number like 159, add the digits repeatedly until you get a single number.
+Imagine you are building a compiler. Before running any code, the compiler must check that the parentheses in the program are balanced. Every opening bracket must have a corresponding closing bracket. We can approximate this using strings.
 
-For instance, 1 + 5 + 9 = 15.
-1 + 5 = 6.
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+- Open brackets are closed by the same type of brackets.
+- Open brackets are closed in the correct order.
+- Note that an empty string is also considered valid.
 
-So the answer is 6.
+Example:
+```
+Input: "((()))"
+Output: True
+
+Input: "[()]{}"
+Output: True
+
+Input: "({[)]"
+Output: False
+```
 ```python
-class Solution(object):
-  # Fill this in.
+class Solution:
+  def isValid(self, s):
+    # Fill this in.
 
-print(Solution().addDigits(159))
-# 1 + 5 + 9 = 15
-# 1 + 5 = 6
-# 6
+# Test Program
+s = "()(){(())" 
+# should return False
+print(Solution().isValid(s))
+
+s = ""
+# should return True
+print(Solution().isValid(s))
+
+s = "([{}])()"
+# should return True
+print(Solution().isValid(s))
 ```
 
 # [Solution](solution.md)
