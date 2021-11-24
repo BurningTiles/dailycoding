@@ -12,7 +12,7 @@ Day | Problem
 22 Nov 2021 | **[Add Digits](2021-11-22)**
 21 Nov 2021 | **[Add Digits](2021-11-21)**
 20 Nov 2021 | **[Add Digits](2021-11-20)**
-19 Nov 2021 | **[Add Digits](2021-11-19)**
+19 Nov 2021 | **[String to Integer](2021-11-19)**
 18 Nov 2021 | **[Add Digits](2021-11-18)**
 17 Nov 2021 | **[Validate Balanced Parentheses](2021-11-17)**
 16 Nov 2021 | **[Create a balanced binary search tree](2021-11-16)**
