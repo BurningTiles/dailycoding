@@ -9,8 +9,8 @@ Day | Problem
 --- | -------
 24 Nov 2021 | **[Add Digits](2021-11-24)**
 23 Nov 2021 | **[Add Digits](2021-11-23)**
-22 Nov 2021 | **[Add Digits](2021-11-22)**
-21 Nov 2021 | **[Add Digits](2021-11-21)**
+22 Nov 2021 | **[Word Ordering in a Different Alphabetical Order](2021-11-22)**
+21 Nov 2021 | **[Determine If Singly Linked List is Palindrome](2021-11-21)**
 20 Nov 2021 | **[Level Order Traversal of Binary Tree](2021-11-20)**
 19 Nov 2021 | **[String to Integer](2021-11-19)**
 18 Nov 2021 | **[Add Digits](2021-11-18)**
