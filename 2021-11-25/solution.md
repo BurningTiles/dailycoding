@@ -2,58 +2,54 @@
 
 ### Python
 ```python
-def compare(s1, s2, x):
-	i=0
-	while i<len(s1) and i<len(s2):
-		if x[s1[i]]<x[s2[i]]: return -1
-		if x[s1[i]]>x[s2[i]]: return 1
-		i += 1
-	if len(s1)==len(s2): return 0
-	return -1 if len(s1)<len(s2) else 1
+def lengthOfLongestSubstring(s):
+	count = dict()
+	j, ans, curLen = 0, 0, 0
+	for i in range(len(s)):
+		if s[i] not in count:
+			count[s[i]] = 1
+			curLen += 1
+		else:
+			while s[i] in count:
+				del count[s[j]]
+				curLen -= 1
+				j += 1
+			count[s[i]] = 1
+			curLen += 1
+		ans = max([ans, curLen])
+	return ans
 
-def isSorted(words, order):
-	x = dict()
-	for i in range(len(order)):
-		x[order[i]] = i
-	for i in range(1, len(words)):
-		if compare(words[i-1], words[i], x)>0:
-			return False
-	return True
-
-print(isSorted(["abcd", "efgh"], "zyxwvutsrqponmlkjihgfedcba"))
-print(isSorted(["zyx", "zyxw", "zyxwy"], "zyxwvutsrqponmlkjihgfedcba"))
+print(lengthOfLongestSubstring('abrkaabcdefghijjxxx'))
 ```
 
 ### C++
 ```cpp
 #include <bits/stdc++.h>
-#define toBool(x) (x ? "true" : "false")
 using namespace std;
 
-int compare(string s1, string s2, int ord[]){
-	int i=0;
-	while(i<s1.size() && i<s2.size()){
-		if(ord[s1[i]]<ord[s2[i]]) return -1;
-		if(ord[s1[i]]>ord[s2[i]]) return 1;
-		i++;
+int lengthOfLongestSubstring(string s){
+	int count[128] = {0};
+	int j=0, len=0, curLen=0;
+	for(int i=0; i<s.size(); i++){
+		if(!count[s[i]])
+			count[s[i]]++,
+			curLen++;
+		else{
+			while(count[s[i]]){
+				count[s[j]]--;
+				curLen--;
+				j++;
+			}
+			count[s[i]] = 1;
+			curLen++;
+		}
+		len = max(len, curLen);
 	}
-	if(s1.size()==s2.size()) return 0;
-	return s1.size()<s2.size() ? -1 : 1;
-}
-
-bool isSorted(vector<string> v, string order){
-	int ord[128] = {0};
-	for(int i=0; i<order.size(); i++)
-		ord[order[i]] = i;
-	for(int i=1; i<v.size(); i++)
-		if(compare(v[i-1], v[i], ord)>0)
-			return false;
-	return true;
+	return len;
 }
 
 signed main() {
-	cout << toBool(isSorted({"abcd", "efgh"}, "zyxwvutsrqponmlkjihgfedcba")) << endl;
-	cout << toBool(isSorted({"zyx", "zyxw", "zyxwy"}, "zyxwvutsrqponmlkjihgfedcba")) << endl;
+	cout << lengthOfLongestSubstring("abrkaabcdefghijjxxx") << endl;
 	return 0;
 }
 ```

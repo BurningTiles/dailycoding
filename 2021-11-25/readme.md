@@ -1,37 +1,18 @@
 # Longest Substring Without Repeating Characters
 
-This problem was recently asked by Apple:
+This problem was recently asked by Microsoft:
 
-Given a list of words, and an arbitrary alphabetical order, The task is to check whether the given words are sorted lexicographically according to order of alphabets.
+Given a string, find the length of the longest substring without repeating characters.
 
-Example:
-```
-Input:
-words = ["abcd", "efgh"], order="zyxwvutsrqponmlkjihgfedcba"
+Here is an example solution in Python language.
 
-Output: False
-```
-Explanation: 'e' comes before 'a' so 'efgh' should come before 'abcd'
-
-Example 2:
-```
-Input:
-words = ["zyx", "zyxw", "zyxwy"],
-order="zyxwvutsrqponmlkjihgfedcba"
-
-Output: True
-```
-Explanation: The words are in increasing alphabetical order
-
-Here's a starting point:
 ```python
-def isSorted(words, order):
-  # Fill this in.
+class Solution:
+  def lengthOfLongestSubstring(self, s):
+    # Fill this in.
 
-print isSorted(["abcd", "efgh"], "zyxwvutsrqponmlkjihgfedcba")
-# False
-print isSorted(["zyx", "zyxw", "zyxwy"], "zyxwvutsrqponmlkjihgfedcba")
-# True
+print Solution().lengthOfLongestSubstring('abrkaabcdefghijjxxx')
+# 10
 ```
 
 # [Solution](solution.md)
