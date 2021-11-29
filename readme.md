@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+29 Nov 2021 | **[Ways to Traverse a Grid](2021-11-29)**
 28 Nov 2021 | **[Generate all subsets](2021-11-28)**
 27 Nov 2021 | **[Nth Fibonacci Number](2021-11-27)**
 26 Nov 2021 | **[Sudoku Check](2021-11-26)**
