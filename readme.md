@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+02 Dec 2021 | **[Circle of Chained Words](2021-12-02)**
 01 Dec 2021 | **[Rotate Linked List](2021-12-01)**
 30 Nov 2021 | **[Staying on a Chess Board](2021-11-30)**
 29 Nov 2021 | **[Ways to Traverse a Grid](2021-11-29)**
