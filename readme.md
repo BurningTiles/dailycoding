@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+04 Dec 2021 | **[Flatten Binary Tree](2021-12-04)**
 03 Dec 2021 | **[No Adjacent Repeating Characters](2021-12-03)**
 02 Dec 2021 | **[Circle of Chained Words](2021-12-02)**
 01 Dec 2021 | **[Rotate Linked List](2021-12-01)**
