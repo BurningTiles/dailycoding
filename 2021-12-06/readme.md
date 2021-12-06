@@ -1,9 +1,9 @@
 # Sort Integers by The Power Value
 
 The power of an integer ```x``` is defined as the number of steps needed to transform x into 1 using the following steps:
+- if ```x``` is even then ```x = x / 2```
+- if ```x``` is odd then ```x = 3 * x + 1```
 
-if ```x``` is even then ```x = x / 2```
-if ```x``` is odd then ```x = 3 * x + 1```
 For example, the power of x = 3 is 7 because 3 needs 7 steps to become 1 (3 --> 10 --> 5 --> 16 --> 8 --> 4 --> 2 --> 1).
 
 Given three integers lo, hi and k. The task is to sort all integers in the interval ```[lo, hi]``` by the power value in ascending order, if two or more integers have the same power value sort them by ascending order.
