@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+06 Dec 2021 | **[Sort Integers by The Power Value](2021-12-06)**
 05 Dec 2021 | **[Construct the Rectangle](2021-12-05)**
 04 Dec 2021 | **[Flatten Binary Tree](2021-12-04)**
 03 Dec 2021 | **[No Adjacent Repeating Characters](2021-12-03)**
