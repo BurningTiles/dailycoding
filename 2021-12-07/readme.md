@@ -7,7 +7,7 @@ You begin with a score of 0. You want to perform exactly m operations. On the it
 - Add `multipliers[i] * x` to your score.
 - Remove `x` from the array nums.
 
-Return the *maximum* score after performing `m` operations.
+Return the **maximum** score after performing `m` operations.
 
 Example 1:
 ```
