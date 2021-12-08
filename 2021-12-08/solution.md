@@ -2,48 +2,52 @@
 
 ### Python
 ```python
-dp = []
-def calculate(i, j, k, n, m):
-	if i>j or k>=len(m): return 0
-	if dp[i][k]!=-1: return dp[i][k]
-	dp[i][k]=max([
-		n[i]*m[k]+calculate(i+1, j, k+1, n, m),
-		n[j]*m[k]+calculate(i, j-1, k+1, n, m)
-	])
-	return dp[i][k]
-def max_score(n, m):
-	global dp
-	dp = [[-1]*1001 for i in range(1001)]
-	return calculate(0, len(n)-1, 0, n, m)
+def rotate(m):
+	rows= len(m)
+	for i in range(rows):
+		for j in range(i):
+			m[i][j], m[j][i] = m[j][i], m[i][j]
+	for i in range(rows):
+		m[i] = m[i][::-1]
+	return m
 
-print(max_score([1, 2, 3], [3, 2, 1]))
-print(max_score([-5, -3, -3, -2, 7, 1], [-10, -5, 3, 4, 6]))
+m = [
+	[1, 2, 3],
+	[4, 5, 6],
+	[7, 8, 9]]
+print(rotate(m))
 ```
 
 ### C++
 ```cpp
 #include <bits/stdc++.h>
+#define i2d vector<vector<int>>
 using namespace std;
 
-int dp[1001][1001];
-
-int calculate(int i, int j, int k, vector<int> &n, vector<int> &m){
-	if(i>j || k>=m.size()) return 0;
-	if(dp[i][k]!=-1) return dp[i][k];
-	return dp[i][k]=max(
-		n[i]*m[k]+calculate(i+1, j, k+1, n, m),
-		n[j]*m[k]+calculate(i, j-1, k+1, n, m)
-	);
+i2d rotate(i2d m){
+	int rows=m.size();;
+	for(int i=0; i<rows; i++)
+		for(int j=0; j<i; j++)
+			swap(m[i][j], m[j][i]);
+	for(int i=0; i<rows; i++)
+		reverse(m[i].begin(), m[i].end());
+	return m;
 }
 
-int max_score(vector<int> nums, vector<int> multipliers){
-	memset(dp, -1, sizeof(dp));
-	return calculate(0, nums.size()-1, 0, nums, multipliers);
+void print(i2d m){
+	for(auto row:m){
+		for(auto x:row)
+			cout << x << " ";
+		cout << endl;}
 }
 
 signed main() {
-	cout << max_score({1, 2, 3}, {3, 2, 1}) << endl;
-	cout << max_score({-5, -3, -3, -2, 7, 1}, {-10, -5, 3, 4, 6}) << endl;
+	i2d m = {
+		{1, 2, 3},
+		{4, 5, 6},
+		{7, 8, 9}
+	};
+	print(rotate(m));
 	return 0;
 }
 ```
