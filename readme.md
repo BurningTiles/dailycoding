@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+10 Dec 2021 | **[Tree Serialization](2021-12-10)**
 09 Dec 2021 | **[Minimum Difference Between Highest and Lowest of K Scores](2021-12-09)**
 08 Dec 2021 | **[Rotate Matrix](2021-12-08)**
 07 Dec 2021 | **[Maximum Score from Performing Multiplication Operations](2021-12-07)**
