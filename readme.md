@@ -7,6 +7,8 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+12 Dec 2021 | **[ZigZag Binary Tree](2021-12-12)**
+11 Dec 2021 | **[Unique Binary Search Trees II](2021-12-11)**
 10 Dec 2021 | **[Tree Serialization](2021-12-10)**
 09 Dec 2021 | **[Minimum Difference Between Highest and Lowest of K Scores](2021-12-09)**
 08 Dec 2021 | **[Rotate Matrix](2021-12-08)**
