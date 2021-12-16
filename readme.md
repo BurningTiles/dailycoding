@@ -7,8 +7,9 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
-15 Dec 2021 | **[ZigZag Binary Tree](2021-12-15)**
-14 Dec 2021 | **[ZigZag Binary Tree](2021-12-14)**
+16 Dec 2021 | **[ZigZag Binary Tree](2021-12-16)**
+15 Dec 2021 | **[Find Bottom Left Tree Value](2021-12-15)**
+14 Dec 2021 | **[Maximum Difference Between Increasing Elements](2021-12-14)**
 13 Dec 2021 | **[Minimum Index Sum of Two Lists](2021-12-13)**
 12 Dec 2021 | **[ZigZag Binary Tree](2021-12-12)**
 11 Dec 2021 | **[Unique Binary Search Trees II](2021-12-11)**
