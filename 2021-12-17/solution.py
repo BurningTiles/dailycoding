@@ -1,28 +1,18 @@
-from collections import deque
+def maxSquare(m):
+	ans = 0
+	for i in range(len(m)):
+		for j in range(len(m[0])):
+			if i==0 or j==0:
+				m[i][j] = int(m[i][j])
+			else:
+				m[i][j] = 1+min(m[i-1][j], m[i][j-1], m[i-1][j-1]) if m[i][j]=='1' else 0
+			ans = max(ans, m[i][j])
+	return ans**2
 
-class Node:
-	def __init__(self, value, left=None, right=None):
-		self.value = value
-		self.left = left
-		self.right = right
-
-def zigzag_order(n):
-	dq = deque()
-	dq.append(n)
-	ans = []
-	rev, s, e = False, 0, 1
-	while len(dq)>0:
-		tmp = dq.popleft()
-		ans.append(tmp.value)
-		if tmp.left: dq.append(tmp.left)
-		if tmp.right: dq.append(tmp.right)
-		if e==len(ans):
-			if rev:
-				ans[s:] = ans[s:][::-1]
-			rev = not rev
-			s = e
-			e = s+len(dq)
-	return ans
-
-n = Node(1, Node(2, Node(4), Node(5)), Node(3, Node(6), Node(7)))
-print(zigzag_order(n))
+print(maxSquare([
+	["1","0","1","0","0"],
+	["1","0","1","1","1"],
+	["1","1","1","1","1"],
+	["1","0","0","1","0"]]))
+print(maxSquare([["0","1"],["1","0"]]))
+print(maxSquare([["0"]]))

@@ -1,47 +1,26 @@
 #include <bits/stdc++.h>
-#define i2d vector<vector<int>>
 using namespace std;
 
-class Node{
-	public:
-	int value;
-	Node *left, *right;
-	Node(int v, Node *l=NULL, Node *r=NULL)
-		:value{v}, left{l}, right{r} {}
-};
-
-vector<int> zigzag_order(Node *n){
-	deque<Node*> dq;
-	dq.push_back(n);
-	vector<int> ans;
-	bool rev = false;
-	int s=0, e=1;
-	Node *tmp;
-	while(dq.size()){
-		tmp = dq.front();
-		dq.pop_front();
-		ans.push_back(tmp->value);
-		if(tmp->left) dq.push_back(tmp->left);
-		if(tmp->right) dq.push_back(tmp->right);
-		if(e==ans.size()){
-			if(rev) reverse(ans.begin()+s, ans.end());
-			rev = !rev;
-			s=e, e=s+dq.size();
-		}
-	}
-	return ans;
-}
-
-void print(vector<int> v){
-	cout << "[";
-	for(int i=0; i<v.size(); i++)
-		cout << v[i] << (i==v.size()-1 ? "" : ", ");
-	cout << "]";
+int maxSquare(vector<vector<char>> m){
+	int ans=0;
+	for(int i=0; i<m.size(); i++)
+		for(int j=0; j<m[0].size(); j++)
+			if(i==0 or j==0)
+				ans = max(ans, int(m[i][j] -= '0'));
+			else
+				m[i][j] = (m[i][j]=='1' ? 1+min({m[i-1][j], m[i][j-1], m[i-1][j-1]}) : 0),
+				ans = max(ans, int(m[i][j]));
+	return ans*ans;
 }
 
 signed main() {
-	Node *n = new Node(1, new Node(2, new Node(4), new Node(5)), new Node(3, new Node(6), new Node(7)));
-	print(zigzag_order(n));
+	cout << maxSquare({ 
+		{'1','0','1','0','0'},
+		{'1','0','1','1','1'},
+		{'1','1','1','1','1'},
+		{'1','0','0','1','0'}}) << endl;
+	cout << maxSquare({ {'0', '1'}, {'1', '0'}}) << endl;
+	cout << maxSquare({ {'0'}}) << endl;
 
 	return 0;
 }
