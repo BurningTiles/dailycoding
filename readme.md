@@ -7,7 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
-17 Dec 2021 | **[ZigZag Binary Tree](2021-12-17)**
+17 Dec 2021 | **[Maximal Square](2021-12-17)**
 16 Dec 2021 | **[Minimum Height Trees](2021-12-16)**
 15 Dec 2021 | **[Find Bottom Left Tree Value](2021-12-15)**
 14 Dec 2021 | **[Maximum Difference Between Increasing Elements](2021-12-14)**
