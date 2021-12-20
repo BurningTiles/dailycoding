@@ -7,7 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
-20 Dec 2021 | **[Maximal Square](2021-12-20)**
+20 Dec 2021 | **[Remove One Layer of Parenthesis](2021-12-20)**
 19 Dec 2021 | **[Decode String](2021-12-19)**
 18 Dec 2021 | **[Numbers At Most N Given Digit Set](2021-12-18)**
 17 Dec 2021 | **[Maximal Square](2021-12-17)**
