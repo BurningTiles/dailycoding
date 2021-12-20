@@ -1,23 +1,24 @@
-# Maximal Square
+# Remove One Layer of Parenthesis
 
-Given an `m x n` binary matrix filled with `0`'s and `1`'s, find the largest square containing only `1`'s and return its area.
+Hi, here's your problem today. This problem was recently asked by Microsoft:
 
-### Example 1:
-![Example 1](example1.jpg "Example 1")
-```
-Input: matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
-Output: 4
-```
-### Example 2:
-![Example 2](example2.jpg "Example 2")
-```
-Input: matrix = [["0","1"],["1","0"]]
-Output: 1
-```
-### Example 3:
-```
-Input: matrix = [["0"]]
-Output: 0
+Given a valid parenthesis string (with only `'('` and `')'`, an open parenthesis will always end with a close parenthesis, and a close parenthesis will never start first), remove the outermost layers of the parenthesis string and return the new parenthesis string.
+
+If the string has multiple outer layer parenthesis (ie `(())()`), remove all outer layers and construct the new string. So in the example, the string can be broken down into `(()) + ()`. By removing both components outer layer we are left with `() + ''` which is simply `()`, thus the answer for that input would be `()`.
+
+Here are some examples and some starter code.
+```python
+def remove_outermost_parenthesis(s):
+  # Fill this in.
+
+print(remove_outermost_parenthesis('(())()'))
+# ()
+
+print(remove_outermost_parenthesis('(()())'))
+# ()()
+
+print(remove_outermost_parenthesis('()()()'))
+# ' '
 ```
 
 # [Solution](solution.md)

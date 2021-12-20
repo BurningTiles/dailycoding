@@ -1,4 +1,4 @@
-# Maximal Square
+# Remove One Layer of Parenthesis
 
 ### Python
 ```python
