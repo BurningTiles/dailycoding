@@ -7,6 +7,9 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+20 Dec 2021 | **[Maximal Square](2021-12-20)**
+19 Dec 2021 | **[Decode String](2021-12-19)**
+18 Dec 2021 | **[Numbers At Most N Given Digit Set](2021-12-18)**
 17 Dec 2021 | **[Maximal Square](2021-12-17)**
 16 Dec 2021 | **[Minimum Height Trees](2021-12-16)**
 15 Dec 2021 | **[Find Bottom Left Tree Value](2021-12-15)**
