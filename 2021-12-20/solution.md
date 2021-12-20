@@ -2,24 +2,20 @@
 
 ### Python
 ```python
-def maxSquare(m):
-	ans = 0
-	for i in range(len(m)):
-		for j in range(len(m[0])):
-			if i==0 or j==0:
-				m[i][j] = int(m[i][j])
-			else:
-				m[i][j] = 1+min(m[i-1][j], m[i][j-1], m[i-1][j-1]) if m[i][j]=='1' else 0
-			ans = max(ans, m[i][j])
-	return ans**2
+def remove_outermost_parenthesis(s):
+	ans, op = "", 0
+	for ch in s:
+		if ch=='(':
+			if op: ans+=ch
+			op += 1
+		else:
+			op -= 1
+			if op: ans+=ch
+	return ans
 
-print(maxSquare([
-	["1","0","1","0","0"],
-	["1","0","1","1","1"],
-	["1","1","1","1","1"],
-	["1","0","0","1","0"]]))
-print(maxSquare([["0","1"],["1","0"]]))
-print(maxSquare([["0"]]))
+print(remove_outermost_parenthesis("(())()"))
+print(remove_outermost_parenthesis("(()())"))
+print(remove_outermost_parenthesis("()()()"))
 ```
 
 ### C++
@@ -27,27 +23,25 @@ print(maxSquare([["0"]]))
 #include <bits/stdc++.h>
 using namespace std;
 
-int maxSquare(vector<vector<char>> m){
-	int ans=0;
-	for(int i=0; i<m.size(); i++)
-		for(int j=0; j<m[0].size(); j++)
-			if(i==0 or j==0)
-				ans = max(ans, int(m[i][j] -= '0'));
-			else
-				m[i][j] = (m[i][j]=='1' ? 1+min({m[i-1][j], m[i][j-1], m[i-1][j-1]}) : 0),
-				ans = max(ans, int(m[i][j]));
-	return ans*ans;
+string remove_outermost_parenthesis(string s){
+	string ans="";
+	for(int i=0, open=0; i<s.size(); i++){
+		if(s[i]=='('){
+			if(open) ans+=s[i];
+			++open;
+		}
+		else{
+			--open;
+			if(open) ans+=s[i];
+		}
+	}
+	return ans;
 }
 
 signed main() {
-	cout << maxSquare({ 
-		{'1','0','1','0','0'},
-		{'1','0','1','1','1'},
-		{'1','1','1','1','1'},
-		{'1','0','0','1','0'}}) << endl;
-	cout << maxSquare({ {'0', '1'}, {'1', '0'}}) << endl;
-	cout << maxSquare({ {'0'}}) << endl;
-
+	cout << remove_outermost_parenthesis("(())()") << endl;
+	cout << remove_outermost_parenthesis("(()())") << endl;
+	cout << remove_outermost_parenthesis("()()()") << endl;
 	return 0;
 }
 ```
