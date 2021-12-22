@@ -7,6 +7,8 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+22 Dec 2021 | **[Squareroot](2021-12-22)**
+21 Dec 2021 | **[Swap Every Two Nodes in a Linked List](2021-12-21)**
 20 Dec 2021 | **[Remove One Layer of Parenthesis](2021-12-20)**
 19 Dec 2021 | **[Decode String](2021-12-19)**
 18 Dec 2021 | **[Numbers At Most N Given Digit Set](2021-12-18)**
