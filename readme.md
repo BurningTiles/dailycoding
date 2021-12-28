@@ -7,6 +7,12 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+28 Dec 2021 | **[Merge Intervals](2021-12-28)**
+27 Dec 2021 | **[Power Function](2021-12-27)**
+26 Dec 2021 | **[Find subtree](2021-12-26)**
+25 Dec 2021 | **[Inorder Successor](2021-12-25)**
+24 Dec 2021 | **[Reverse Words in a String](2021-12-24)**
+23 Dec 2021 | **[Character Map](2021-12-23)**
 22 Dec 2021 | **[Squareroot](2021-12-22)**
 21 Dec 2021 | **[Swap Every Two Nodes in a Linked List](2021-12-21)**
 20 Dec 2021 | **[Remove One Layer of Parenthesis](2021-12-20)**
