@@ -7,6 +7,8 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+30 Dec 2021 | **[Smallest Integer Divisible by K](2021-12-30)**
+29 Dec 2021 | **[Populating Next Right Pointers in Each Node](2021-12-29)**
 28 Dec 2021 | **[Merge Intervals](2021-12-28)**
 27 Dec 2021 | **[Power Function](2021-12-27)**
 26 Dec 2021 | **[Find subtree](2021-12-26)**
