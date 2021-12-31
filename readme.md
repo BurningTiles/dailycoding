@@ -7,6 +7,7 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+31 Dec 2021 | **[Maximum Difference Between Node and Ancestor](2021-12-31)**
 30 Dec 2021 | **[Smallest Integer Divisible by K](2021-12-30)**
 29 Dec 2021 | **[Populating Next Right Pointers in Each Node](2021-12-29)**
 28 Dec 2021 | **[Merge Intervals](2021-12-28)**
