@@ -7,6 +7,10 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 Day | Problem
 --- | -------
+04 Jan 2022 | **[Complement of Base 10 Integer](2022-01-04)**
+03 Jan 2022 | **[Find the Town Judge](2022-01-03)**
+02 Jan 2022 | **[Pairs of Songs With Total Durations Divisible by 60](2022-01-02)**
+01 Jan 2022 | **[Maximum Path Sum in Binary Tree](2022-01-01)**
 31 Dec 2021 | **[Maximum Difference Between Node and Ancestor](2021-12-31)**
 30 Dec 2021 | **[Smallest Integer Divisible by K](2021-12-30)**
 29 Dec 2021 | **[Populating Next Right Pointers in Each Node](2021-12-29)**
