@@ -1,68 +1,26 @@
-<!-- # Solution - 25 Apr
+# Solution - 27 Apr 2023
 
-### [Swap Adjacent Elements](https://workat.tech/problem-solving/practice/swap-adjacent/submissions)
+### [Cumulative Sum](https://workat.tech/problem-solving/practice/cumulative-sum)
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-	int n; cin >> n;
-	int a[n];
-	for(int i=0; i<n; i++)
-		cin >> a[i];
-	for(int i=0; i<n-1; i+=2)
-		cout << a[i+1] << " " << a[i] << " ";
-	if(n%2)
-		cout << a[n-1];
-	return 0;
+vector<int> getCumulativeSum(vector<int> &arr) {
+	vector<int> ans(arr.size());
+	ans[0] = arr[0];
+	for(int i=1; i<arr.size(); i++)
+		ans[i] = ans[i-1] + arr[i];
+	return ans;
 }
 ```
 
-### [Reverse Array](https://workat.tech/problem-solving/practice/reverse-array)
+### [Positive Cumulative Sum](https://workat.tech/problem-solving/practice/positive-cumulative-sum)
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-void reverse(int arr[], int n) {
-	for(int i=0; i<n/2; i++)
-		swap(arr[i], arr[n-i-1]);
-}
-
-int main() {
-	int n; cin >> n;
-	int arr[n];
-	for(auto &a: arr)
-		cin >> a;
-	reverse(arr, n);
-	for(auto &a: arr)
-		cout << a << " ";
-	return 0;
+vector<int> getPositiveCumulativeSum(vector<int> &arr) {
+	vector<int> ans;
+	int cur = 0;
+	for(int i=0; i<arr.size(); i++) {
+		cur += arr[i];
+		if(cur>0)
+			ans.push_back(cur);
+	}
+	return ans;
 }
 ```
-
-### [Is Sorted?](https://workat.tech/problem-solving/practice/is-sorted)
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-bool isSorted(int arr[], int n) {
-	for(int i=1; i<n; i++)
-		if(arr[i]<arr[i-1])
-			return false;
-	return true;
-}
-
-void solve() {
-	int n; cin >> n;
-	int arr[n];
-	for(auto &a : arr) cin >> a;
-	cout << (isSorted(arr, n) ? "Yes" : "No") << endl;
-}
-
-int main() {
-	int tt; cin >> tt;
-	while(tt--)
-		solve();
-	return 0;
-}
-``` -->
