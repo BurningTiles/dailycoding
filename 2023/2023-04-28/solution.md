@@ -1,26 +1,29 @@
-<!-- # Solution - 27 Apr 2023
+# Solution - 27 Apr 2023
 
-### [Cumulative Sum](https://workat.tech/problem-solving/practice/cumulative-sum)
+### [Identical Twins](https://workat.tech/problem-solving/practice/identical-twins)
 ```cpp
-vector<int> getCumulativeSum(vector<int> &arr) {
-	vector<int> ans(arr.size());
-	ans[0] = arr[0];
-	for(int i=1; i<arr.size(); i++)
-		ans[i] = ans[i-1] + arr[i];
-	return ans;
+int getIdenticalTwinsCount(vector<int> &arr) {
+    unordered_map<int, int> um;
+	int pairs = 0;
+	for(auto x:arr)
+		um[x]++, pairs += um[x]-1;
+	return pairs;
 }
 ```
 
-### [Positive Cumulative Sum](https://workat.tech/problem-solving/practice/positive-cumulative-sum)
+### [Even Number of Digits](https://workat.tech/problem-solving/practice/even-number-of-digits)
 ```cpp
-vector<int> getPositiveCumulativeSum(vector<int> &arr) {
-	vector<int> ans;
-	int cur = 0;
-	for(int i=0; i<arr.size(); i++) {
-		cur += arr[i];
-		if(cur>0)
-			ans.push_back(cur);
+vector<int> getEvenDigitNumbers(vector<int> &arr) {
+    vector<int> ans;
+	for(auto num: arr) {
+		int len = 0, n=num;
+		do {
+			++len;
+			n /= 10;
+		} while(n);
+		if(len%2 == 0)
+			ans.push_back(num);
 	}
 	return ans;
 }
-``` -->
+```
