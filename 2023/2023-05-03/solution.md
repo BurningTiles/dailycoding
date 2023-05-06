@@ -1,6 +1,7 @@
 # Solution - 3 May 2023
 
 ### [Implement Quicksort](https://workat.tech/problem-solving/practice/implement-quicksort)
+
 ```cpp
 int partition(vector<int> &arr, int left, int right, int pivot) {
 	while(left<=right) {
@@ -27,9 +28,10 @@ void quickSort(vector<int> &arr) {
 ```
 
 ### [Square sorted array](https://workat.tech/problem-solving/practice/square-sorted-array)
+
 ```cpp
 vector<int> getSquareSortedArray(vector<int> &arr) {
-    for(auto &a:arr)
+	for(auto &a:arr)
 		a *= a;
 	sort(arr.begin(), arr.end());
 	return arr;

@@ -1,9 +1,10 @@
 # Solution - 5 May 2023
 
 ### [Largest Contiguous Sum](https://workat.tech/problem-solving/practice/largest-contiguous)
+
 ```cpp
 int largestContiguousSum(vector <int> &arr){
-    int ans = INT_MIN, cur = 0;
+	int ans = INT_MIN, cur = 0;
 	for(int i=0; i<arr.size(); i++) {
 		cur += arr[i];
 		ans = max(cur, ans);
@@ -14,6 +15,7 @@ int largestContiguousSum(vector <int> &arr){
 ```
 
 ### [Pascal's Triangle](https://workat.tech/problem-solving/practice/pascals-triangle)
+
 ```cpp
 vector<int> pascalTriangleRow(int rowNo) {
 	vector<int> ans(rowNo);

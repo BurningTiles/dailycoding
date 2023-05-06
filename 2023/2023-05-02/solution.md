@@ -1,9 +1,10 @@
 # Solution - 2 May 2023
 
 ### [Merge Sorted Subarrays](https://workat.tech/problem-solving/practice/merge-sorted-subarrays)
+
 ```cpp
 void merge(vector<int> &arr, int endIndex) {
-    vector<int> sorted;
+	vector<int> sorted;
 	int i=0, j=endIndex+1;
 	while(i<=endIndex && j<arr.size())
 		sorted.push_back(arr[i]<arr[j] ? arr[i++] : arr[j++]);
@@ -17,6 +18,7 @@ void merge(vector<int> &arr, int endIndex) {
 ```
 
 ### [Implement Merge Sort](https://workat.tech/problem-solving/practice/implement-merge-sort)
+
 ```cpp
 void merge(vector<int> &arr, int start, int mid, int end) {
 	int n = end-start+1, tmp[n], k=0, i=start, j=mid+1;
