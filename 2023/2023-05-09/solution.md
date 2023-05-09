@@ -4,7 +4,7 @@
 
 ```cpp
 int getNegativeNumbersCount(vector<int> &arr) {
-    int l=0, r=arr.size()-1, mid, ans = -1;
+	int l=0, r=arr.size()-1, mid, ans = -1;
 	while(l<=r) {
 		mid = (l+r)/2;
 		if(arr[mid]<0) ans = mid, l = mid+1;
@@ -18,7 +18,7 @@ int getNegativeNumbersCount(vector<int> &arr) {
 
 ```cpp
 int getNextGreaterElement(vector<int> &arr, int key) {
-    int l=0, r=arr.size()-1, mid, ans = -1;
+	int l=0, r=arr.size()-1, mid, ans = -1;
 	while(l<=r) {
 		mid = (l+r)/2;
 		if(arr[mid] > key) ans = mid, r = mid-1;

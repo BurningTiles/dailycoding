@@ -4,7 +4,7 @@
 
 ```cpp
 bool containsElement(vector<int> &arr, int key) {
-    int l=0, r=arr.size()-1, mid;
+	int l=0, r=arr.size()-1, mid;
 	while(l<=r) {
 		mid = (l+r)/2;
 		if(key<arr[mid]) r = mid-1;
@@ -30,6 +30,6 @@ int find(vector<int> &arr, int key, bool first=true) {
 }
 
 vector<int> searchRange(vector<int> &arr, int key) {
-    return {find(arr, key), find(arr, key, false)};
+	return {find(arr, key), find(arr, key, false)};
 }
 ```
