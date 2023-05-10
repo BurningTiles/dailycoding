@@ -1,6 +1,6 @@
 # Solution - 10 May 2023
 
-### [Insert Position in Sorted Array](https://workat.tech/problem-solving/practice/insert-position-in-sorted-array)
+### [Insert Position in Sorted Array](https://workat.tech/problem-solving/practice/insert-position-in-sorted-array) [(LeetCode)](https://leetcode.com/problems/search-insert-position/)
 
 ```cpp
 int getInsertPosition(vector<int> &arr, int key) {
@@ -13,7 +13,7 @@ int getInsertPosition(vector<int> &arr, int key) {
 	return low;
 }
 ```
-### [LeetCode](https://leetcode.com/problems/search-insert-position/)
+
 ```cpp
 class Solution {
 public:
@@ -29,8 +29,8 @@ public:
 };
 ```
 
-### [Is Perfect Square](https://workat.tech/problem-solving/practice/is-perfect-square)
-### [LeetCode](https://leetcode.com/problems/valid-perfect-square/)
+### [Is Perfect Square](https://workat.tech/problem-solving/practice/is-perfect-square) [(LeetCode)](https://leetcode.com/problems/valid-perfect-square/)
+
 ```cpp
 bool isPerfectSquare(int num) {
 	long long ans = num;
