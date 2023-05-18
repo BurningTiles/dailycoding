@@ -39,7 +39,7 @@ def preprocess():
 		os.makedirs(folder)
 	global headers
 	with open(".headers.json", 'r') as file:
-		headers = json.loads(file)
+		headers = json.loads(file.read())
 
 def randomName():
 	return str(uuid.uuid4()).split("-")[0]
@@ -105,7 +105,7 @@ if len(sys.argv)>=3:
 		print(e)
 else:
 	folder = input("Enter folder name : ")
-	links = list(input("Paste links space separated").split())
+	links = list(input("Paste links space separated: ").split())
 	try:
 		toDate()
 		preprocess()
