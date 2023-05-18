@@ -36,7 +36,7 @@ public:
 */
 
 void printLinkedList (ListNode* head) {
-    while(head) {
+	while(head) {
 		cout << head->data << " ";
 		head = head->next;
 	}

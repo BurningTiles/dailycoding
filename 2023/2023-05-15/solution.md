@@ -5,7 +5,7 @@
 
 ```cpp
 int removeDuplicates(vector<int> &A) {
-    int ans = A.size() ? 1 : 0;
+	int ans = A.size() ? 1 : 0;
 	for(int i=1; i<A.size(); i++)
 		if(A[i]!=A[i-1]) ++ans;
 	return ans;

@@ -19,7 +19,7 @@ public:
 */
 
 vector<int> linkedListToArray (ListNode* head) {
-    vector<int> ans;
+	vector<int> ans;
 	while(head)
 		ans.push_back(head->data), head = head->next;
 	return ans;
@@ -45,7 +45,7 @@ public:
 */
 
 void printLinkedListReverse (ListNode* head) {
-    if(head) {
+	if(head) {
 		printLinkedListReverse(head->next);
 		cout << head->data << " ";
 	}

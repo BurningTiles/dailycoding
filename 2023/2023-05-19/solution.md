@@ -34,7 +34,7 @@ ListNode* removekthElement (ListNode* head, int k) {
 // Another solution with better memory management.
 ListNode* removekthElement (ListNode* head, int k) {
 	ListNode *tmp;
-    if(k==1) {
+	if(k==1) {
 		tmp = head;
 		head = head->next;
 		delete tmp;
@@ -72,7 +72,7 @@ public:
 
 ListNode* appendLists (ListNode* list1, ListNode* list2) {
 	if(!list1) return list2;
-    ListNode *ptr = list1;
+	ListNode *ptr = list1;
 	while(ptr->next)
 		ptr = ptr->next;
 	ptr->next = list2;

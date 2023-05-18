@@ -3,6 +3,7 @@ import sys
 import os
 import json
 import uuid
+import re
 from datetime import datetime
 
 
@@ -44,6 +45,9 @@ def preprocess():
 def randomName():
 	return str(uuid.uuid4()).split("-")[0]
 
+def format(code):
+	return re.sub(r'^( {4}|\t {4})*', lambda match: '\t' * (match.group(0).count('\t') + len(match.group(0).replace('\t', '')) // 4), code, flags=re.MULTILINE)
+
 def generate():
 	questions = ""
 	solutions = ""
@@ -72,7 +76,7 @@ def generate():
 			data = json.loads(res.text)
 			for lang in data['languages']:
 				solutions += f"```{languages[lang]}\n"
-				solutions += data['languages'][lang]['savedCode']
+				solutions += format(data['languages'][lang]['savedCode'])
 				solutions += "\n```"
 		else:
 			print(res)

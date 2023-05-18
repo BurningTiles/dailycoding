@@ -19,7 +19,7 @@ public:
 */
 
 ListNode* kthElement (ListNode* head, int k) {
-    while(--k && head)
+	while(--k && head)
 		head = head->next;
 	return head;
 }
@@ -44,7 +44,7 @@ public:
 */
 
 ListNode* addAtkthElement (ListNode* head, int k, ListNode* newElement) {
-    if(k==1) {
+	if(k==1) {
 		newElement->next = head;
 		return newElement;
 	}
