@@ -92,9 +92,9 @@ def generate():
 		print("Files already exist, saving files with random names.")
 		suffix = "_" + randomName()
 	
-	with open(folder + '/readme' + suffix+ '.md', 'w', encoding="utf-8") as file:
+	with open(folder + '/readme' + suffix+ '.md', 'w', encoding="utf-16") as file:
 		file.write(readme)
-	with open(folder + '/solution' + suffix + '.md', 'w', encoding="utf-8") as file:
+	with open(folder + '/solution' + suffix + '.md', 'w', encoding="utf-16") as file:
 		file.write(solution)
 	print("Files saved successfully.")
 
