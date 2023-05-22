@@ -60,6 +60,8 @@ def generate():
 			continue
 		if 'workat.tech' not in link:
 			continue
+		questions = questions.replace("${ExtraLink}", "")
+		solutions = solutions.replace("${ExtraLink}", "")
 		id = link.split("/")[-1]
 		url = api_url + id
 		res = requests.get(url, headers = headers)
