@@ -55,7 +55,7 @@ def generate():
 	for link in links:
 		if 'leetcode.com' in link:
 			leetLink = f'[(LeetCode)]({link})'
-			questions = questions.format(leetLink + " {}")
+			questions = questions.replace("${ExtraLink}", leetLink + " ${ExtraLink}")
 			solutions = solutions.replace("${ExtraLink}", leetLink + " ${ExtraLink}");
 			continue
 		if 'workat.tech' not in link:
@@ -66,7 +66,7 @@ def generate():
 		if res.status_code==200:
 			data = json.loads(res.text)
 			name = data['name']
-			questions += questionTmp.format(index, name, link) + " {}\n\n"
+			questions += questionTmp.format(index, name, link) + " ${ExtraLink}\n\n"
 			questions += data["content"]
 			solutions += questionSolutionTmp.format(index, name, link) + " ${ExtraLink}\n\n" 
 		
@@ -82,7 +82,7 @@ def generate():
 			print(res)
 		index += 1
 	
-	questions = questions.replace("{}", "")
+	questions = questions.replace("${ExtraLink}", "")
 	solutions = solutions.replace("${ExtraLink}", "")
 	readme = readmeTmp.format(date, questions)
 	solution = solutionTmp.format(date, solutions)
@@ -101,18 +101,22 @@ def generate():
 if len(sys.argv)>=3:
 	folder = sys.argv[1]
 	links = sys.argv[2:]
-	try:
-		toDate()
-		preprocess()
-		generate()
-	except Exception as e:
-		print(e)
+
+	toDate()
+	preprocess()
+	generate()
+	# try:
+	# 	toDate()
+	# 	preprocess()
+	# 	#generate()
+	# except Exception as e:
+	# 	print(e)
 else:
 	folder = input("Enter folder name : ")
 	links = list(input("Paste links space separated: ").split())
 	try:
 		toDate()
 		preprocess()
-		generate()
+		#generate()
 	except Exception as e:
 		print(e)
