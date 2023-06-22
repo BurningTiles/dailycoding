@@ -77,9 +77,9 @@ def generate():
 		if res.status_code==200:
 			data = json.loads(res.text)
 			for lang in data['languages']:
-				solutions += f"```{languages[lang]}\n"
+				solutions += f"### {languages[lang]}\n```{languages[lang]}\n"
 				solutions += format(data['languages'][lang]['savedCode'])
-				solutions += "\n```"
+				solutions += "\n```\n"
 		else:
 			print(res)
 		index += 1
