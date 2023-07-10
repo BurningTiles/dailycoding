@@ -113,14 +113,13 @@ if len(sys.argv)>=3:
 		generate()
 	except Exception as e:
 		print(e)
-		print(e.with_traceback)
 else:
 	folder = input("Enter folder name : ")
 	links = list(input("Paste links space separated: ").split())
+	
 	try:
 		toDate()
 		preprocess()
 		generate()
 	except Exception as e:
 		print(e)
-		print(e.with_traceback)
