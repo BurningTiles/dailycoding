@@ -104,21 +104,23 @@ if len(sys.argv)>=3:
 	folder = sys.argv[1]
 	links = sys.argv[2:]
 
-	toDate()
-	preprocess()
-	generate()
-	# try:
-	# 	toDate()
-	# 	preprocess()
-	# 	#generate()
-	# except Exception as e:
-	# 	print(e)
+	# toDate()
+	# preprocess()
+	# generate()
+	try:
+		toDate()
+		preprocess()
+		generate()
+	except Exception as e:
+		print(e)
+		print(e.with_traceback)
 else:
 	folder = input("Enter folder name : ")
 	links = list(input("Paste links space separated: ").split())
 	try:
 		toDate()
 		preprocess()
-		#generate()
+		generate()
 	except Exception as e:
 		print(e)
+		print(e.with_traceback)
