@@ -60,6 +60,8 @@ def generate():
 			continue
 		if 'workat.tech' not in link:
 			continue
+		if link[-1]=='/':
+			link = link[:-1]
 		questions = questions.replace("${ExtraLink}", "")
 		solutions = solutions.replace("${ExtraLink}", "")
 		id = link.split("/")[-1]
