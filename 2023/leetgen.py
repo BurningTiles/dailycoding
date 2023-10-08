@@ -74,8 +74,8 @@ def generate():
 		res = requests.post(url, headers = headers, json=queries['details'])
 		if res.status_code==200:
 			q = json.loads(res.text)['data']['question']
-			questions += templates['question'].format(q['questionFrontendId'], q['title'], url) + '\n\n'
-			solutions += templates['question'].format(q['questionFrontendId'], q['title'], url) + '\n\n'
+			questions += templates['question'].format(q['questionFrontendId'], q['title'], link) + '\n\n'
+			solutions += templates['question'].format(q['questionFrontendId'], q['title'], link) + '\n\n'
 		
 		res = requests.post(url, headers = headers, json=queries['content'])
 		if res.status_code==200:
