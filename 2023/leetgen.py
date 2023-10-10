@@ -59,13 +59,11 @@ def format(code):
 def generate():
 	questions = ''
 	solutions = ''
-	for link in links:
-		if 'leetcode.com' not in link:
+	for _ in links:
+		if not _.startswith("https://leetcode.com/problems/"):
 			continue
 
-		if link[-1]=='/':
-			link = link[:-1]
-		
+		link = '/'.join(_.split('/')[:5])
 		slug, url, q = link.split('/')[-1], api_url + 'graphql', dict()
 
 		queries['details']['variables']['titleSlug'] = slug;
