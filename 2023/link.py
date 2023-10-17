@@ -43,7 +43,7 @@ def updateFolder(name):
 		print(e)
 	
 	if index==-1: return
-	for i in range(index, min(index+8, len(data))):
+	for i in range(index, min(index+11, len(data))):
 		data[i] = data[i].replace(f" {date:<2} ", f" [**{date}**]({name}) ")
 
 def process():
