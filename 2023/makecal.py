@@ -26,7 +26,7 @@ def saveFile():
 	if os.path.exists("readme.md"):
 		print("\n\nFiles already exist, file not saved.")
 		return
-	with open('readme.md', 'w', encoding="utf-16") as file:
+	with open('readme.md', 'w', encoding="utf-8") as file:
 		file.write("\n".join(data))
 		print("\n\nCalendar generated successfully.")
 

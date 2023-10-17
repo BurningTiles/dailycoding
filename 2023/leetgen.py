@@ -4,6 +4,7 @@ import os
 import json
 import uuid
 import re
+import subprocess
 from datetime import datetime
 
 api_url = 'https://leetcode.com/'
@@ -91,6 +92,12 @@ def generate():
 		file.write(readme)
 	with open(folder + '/solution.md', 'w', encoding='utf-16') as file:
 		file.write(solution)
+
+	try: 
+		result = subprocess.run(f"python link.py {folder}", shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+	except Exception as e:
+		print(e)
+
 	print("Files saved successfully.")
 
 if len(sys.argv)>=3:

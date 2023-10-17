@@ -28,7 +28,7 @@ def preProcess():
 
 def readData():
 	global data
-	with open('readme.md', 'r', encoding="utf-16") as file:
+	with open('readme.md', 'r', encoding="utf-8") as file:
 		data = file.readlines()
 
 def updateFolder(name):
@@ -44,7 +44,7 @@ def updateFolder(name):
 	
 	if index==-1: return
 	for i in range(index, min(index+8, len(data))):
-		data[i] = data[i].replace(f" {date:<2} ", f"[**{date}**]({name})")
+		data[i] = data[i].replace(f" {date:<2} ", f" [**{date}**]({name}) ")
 
 def process():
 	global folders
@@ -53,7 +53,7 @@ def process():
 
 def saveData():
 	global data
-	with open('readme.md', 'w', encoding="utf-16") as file:
+	with open('readme.md', 'w', encoding="utf-8") as file:
 		file.writelines(data)
 		print("Calendar updated successfully.")
 
