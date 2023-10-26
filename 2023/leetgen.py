@@ -5,7 +5,7 @@ import json
 import uuid
 import re
 import subprocess
-from datetime import datetime
+from datetime import datetime, date as datex
 
 api_url = 'https://leetcode.com/'
 # Headers will contain AuthCode, Cookie, Token, etc.
@@ -25,6 +25,11 @@ queries = {
 			'titleSlug': 'two-sum'
 		},
 		'operationName': 'questionTitle'
+	},
+	'questionOfToday': {
+		"query": "\n    query questionOfToday {\n  activeDailyCodingChallengeQuestion {\n  link\n  }\n}\n    ",
+		"variables": {},
+		"operationName": "questionOfToday"
 	}
 }
 
@@ -100,22 +105,22 @@ def generate():
 
 	print("Files saved successfully.")
 
-if len(sys.argv)>=3:
-	folder = sys.argv[1]
-	links = sys.argv[2:]
-	try:
+try:
+	if len(sys.argv)>1 and sys.argv[1].lower()=="today":
+		date = datex.today().strftime('%d %b %Y')
+		folder = datex.today().strftime('%Y-%m-%d')
+		res = requests.post(api_url + "graphql", headers = headers, json = queries['questionOfToday'])
+		slug = json.loads(res.text)['data']['activeDailyCodingChallengeQuestion']['link']
+		links.append(api_url[:-1] + slug)
+	elif len(sys.argv)>=3:
+		folder = sys.argv[1]
+		links = sys.argv[2:]
 		toDate()
-		preprocess()
-		generate()
-	except Exception as e:
-		print(e)
-else:
-	folder = input("Enter folder name : ")
-	links = list(input("Paste links space separated: ").split())
-	
-	try:
+	else:
+		folder = input("Enter folder name : ")
+		links = list(input("Paste links space separated: ").split())
 		toDate()
-		preprocess()
-		generate()
-	except Exception as e:
-		print(e)
+	preprocess()
+	generate()
+except Exception as e:
+	print(e)
