@@ -114,13 +114,13 @@ try:
 		slug = json.loads(res.text)['data']['activeDailyCodingChallengeQuestion']['link']
 		links.append(api_url[:-1] + slug)
 	elif len(sys.argv)>=3:
-		folder = datex.strptime(sys.argv[1], '%Y-%m-%d').strftime('%m-%B/%d')
+		folder = datetime.strptime(sys.argv[1], '%Y-%m-%d').strftime('%m-%B/%d')
 		links = sys.argv[2:]
 		toDate(sys.argv[1])
 	else:
 		folder = input("Enter date (Ex. 2000-01-01) : ")
 		toDate(folder)
-		folder = datex.strptime(folder, '%Y-%m-%d').strftime('%m-%B/%d')
+		folder = datetime.strptime(folder, '%Y-%m-%d').strftime('%m-%B/%d')
 		links = list(input("Paste links space separated: ").split())
 	preprocess()
 	generate()

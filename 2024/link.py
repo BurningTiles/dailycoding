@@ -38,7 +38,7 @@ def preProcess():
 	print(folders)
 
 def readData():
-	global data
+	global data, year
 	with open('readme.md', 'r', encoding="utf-8") as file:
 		data = file.readlines()
 		year = int(data[0][:4])
@@ -67,7 +67,7 @@ def updateFolder(name):
 	index = -1
 	tmp = month_readme[month-1]
 	try:
-		index = data.index(f"[{months[month-1]}]({name[:-3]})\n")
+		index = data.index(f"[{months[month-1]}]({name[:-3]}#{months[month-1]})\n")
 	except Exception as e:
 		print(e)
 	
