@@ -7,3 +7,4 @@ I decided to solve one programming question everyday. Also uploading it here so 
 
 ## [2021](2021)
 ## [2023](2023#2023---calendar)
+## [2024](2024#2024---calendar)
