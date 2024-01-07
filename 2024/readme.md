@@ -10,7 +10,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](01-January/01) | [**2**](01-January/02) | [**3**](01-January/03) | [**4**](01-January/04) | [**5**](01-January/05) | [**6**](01-January/06) | 7   |
+| [**1**](01-January/01) | [**2**](01-January/02) | [**3**](01-January/03) | [**4**](01-January/04) | [**5**](01-January/05) | [**6**](01-January/06) | [**7**](01-January/07) |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -174,3 +174,4 @@ Questions
 | [04 January 2024](01-January/04) | [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) |
 | [05 January 2024](01-January/05) | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
 | [06 January 2024](01-January/06) | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) |
+| [07 January 2024](01-January/07) | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) |
