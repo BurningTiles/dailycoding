@@ -3,7 +3,7 @@ January
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
-| [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  | 14  |
+| [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -25,3 +25,4 @@ Questions
 | [08 January 2024](08) | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
 | [09 January 2024](09) | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) |
 | [10 January 2024](10) | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected) |
+| [11 January 2024](11) | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) |
