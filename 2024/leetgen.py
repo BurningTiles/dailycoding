@@ -83,7 +83,8 @@ def generate():
 		
 		res = requests.post(url, headers = headers, json=queries['content'])
 		if res.status_code==200:
-			questions += json.loads(res.text)['data']['question']['content']
+			content = re.sub(r'\n{2,}', '\n', json.loads(res.text)['data']['question']['content'])
+			questions += content
 		
 		for lang in languages:
 			res = requests.get(api_url + f'submissions/latest/?qid={q["questionId"]}&lang={languages[lang]}', headers = headers)
