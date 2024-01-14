@@ -11,7 +11,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01-January/01) | [**2**](01-January/02) | [**3**](01-January/03) | [**4**](01-January/04) | [**5**](01-January/05) | [**6**](01-January/06) | [**7**](01-January/07) |
-| [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | [**11**](01-January/11) | [**12**](01-January/12) | [**13**](01-January/13) | 14  |
+| [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | [**11**](01-January/11) | [**12**](01-January/12) | [**13**](01-January/13) | [**14**](01-January/14) |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -181,3 +181,4 @@ Questions
 | [11 January 2024](01-January/11) | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) |
 | [12 January 2024](01-January/12) | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) |
 | [13 January 2024](01-January/13) | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) |
+| [14 January 2024](01-January/14) | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) |

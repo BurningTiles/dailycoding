@@ -3,7 +3,7 @@ January
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
-| [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | 14  |
+| [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -28,3 +28,4 @@ Questions
 | [11 January 2024](11) | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) |
 | [12 January 2024](12) | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) |
 | [13 January 2024](13) | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) |
+| [14 January 2024](14) | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) |
