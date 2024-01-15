@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01-January/01) | [**2**](01-January/02) | [**3**](01-January/03) | [**4**](01-January/04) | [**5**](01-January/05) | [**6**](01-January/06) | [**7**](01-January/07) |
 | [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | [**11**](01-January/11) | [**12**](01-January/12) | [**13**](01-January/13) | [**14**](01-January/14) |
-| 15  | 16  | 17  | 18  | 19  | 20  | 21  |
+| [**15**](01-January/15) | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -182,3 +182,4 @@ Questions
 | [12 January 2024](01-January/12) | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) |
 | [13 January 2024](01-January/13) | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) |
 | [14 January 2024](01-January/14) | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) |
+| [15 January 2024](01-January/15) | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) |
