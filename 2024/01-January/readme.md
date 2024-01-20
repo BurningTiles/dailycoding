@@ -4,7 +4,7 @@ January
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
-| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  |
+| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -34,3 +34,4 @@ Questions
 | [17 January 2024](17) | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) |
 | [18 January 2024](18) | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |
 | [19 January 2024](19) | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) |
+| [20 January 2024](20) | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) |
