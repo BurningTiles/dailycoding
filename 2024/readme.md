@@ -13,7 +13,7 @@
 | [**1**](01-January/01) | [**2**](01-January/02) | [**3**](01-January/03) | [**4**](01-January/04) | [**5**](01-January/05) | [**6**](01-January/06) | [**7**](01-January/07) |
 | [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | [**11**](01-January/11) | [**12**](01-January/12) | [**13**](01-January/13) | [**14**](01-January/14) |
 | [**15**](01-January/15) | [**16**](01-January/16) | [**17**](01-January/17) | [**18**](01-January/18) | [**19**](01-January/19) | [**20**](01-January/20) | [**21**](01-January/21) |
-| [**22**](01-January/22) | [**23**](01-January/23) | 24  | 25  | 26  | 27  | 28  |
+| [**22**](01-January/22) | [**23**](01-January/23) | [**24**](01-January/24) | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -191,3 +191,4 @@ Questions
 | [21 January 2024](01-January/21) | [198. House Robber](https://leetcode.com/problems/house-robber) |
 | [22 January 2024](01-January/22) | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch) |
 | [23 January 2024](01-January/23) | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [24 January 2024](01-January/24) | [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree) |
