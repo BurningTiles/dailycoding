@@ -5,7 +5,7 @@ January
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
 | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) |
-| [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | 28  |
+| [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -42,3 +42,4 @@ Questions
 | [25 January 2024](25) | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
 | [26 January 2024](26) | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) |
 | [27 January 2024](27) | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array) |
+| [28 January 2024](28) | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) |
