@@ -14,7 +14,7 @@
 | [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | [**11**](01-January/11) | [**12**](01-January/12) | [**13**](01-January/13) | [**14**](01-January/14) |
 | [**15**](01-January/15) | [**16**](01-January/16) | [**17**](01-January/17) | [**18**](01-January/18) | [**19**](01-January/19) | [**20**](01-January/20) | [**21**](01-January/21) |
 | [**22**](01-January/22) | [**23**](01-January/23) | [**24**](01-January/24) | [**25**](01-January/25) | [**26**](01-January/26) | [**27**](01-January/27) | [**28**](01-January/28) |
-| 29  | 30  | 31  |     |     |     |     |
+| [**29**](01-January/29) | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -196,3 +196,4 @@ Questions
 | [26 January 2024](01-January/26) | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) |
 | [27 January 2024](01-January/27) | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array) |
 | [28 January 2024](01-January/28) | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) |
+| [29 January 2024](01-January/29) | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) |
