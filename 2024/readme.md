@@ -23,7 +23,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     | 1   | 2   | 3   | 4   |
+|     |     |     | [**1**](02-February/01) | 2   | 3   | 4   |
 | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
@@ -199,3 +199,4 @@ Questions
 | [29 January 2024](01-January/29) | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) |
 | [30 January 2024](01-January/30) | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
 | [31 January 2024](01-January/31) | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures) |
+| [01 February 2024](02-February/01) | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference) |
