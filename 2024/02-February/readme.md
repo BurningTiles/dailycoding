@@ -4,7 +4,7 @@ February
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
-| 12  | 13  | 14  | 15  | 16  | 17  | 18  |
+| [**12**](12) | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -26,3 +26,4 @@ Questions
 | [09 February 2024](09) | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) |
 | [10 February 2024](10) | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
 | [11 February 2024](11) | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii) |
+| [12 February 2024](12) | [169. Majority Element](https://leetcode.com/problems/majority-element) |
