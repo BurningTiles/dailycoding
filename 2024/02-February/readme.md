@@ -4,7 +4,7 @@ February
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
-| [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | 16  | 17  | 18  |
+| [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -30,3 +30,4 @@ Questions
 | [13 February 2024](13) | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) |
 | [14 February 2024](14) | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) |
 | [15 February 2024](15) | [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) |
+| [16 February 2024](16) | [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) |
