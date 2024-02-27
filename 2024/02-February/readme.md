@@ -6,7 +6,7 @@ February
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) |
 | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) |
-| [**26**](26) | 27  | 28  | 29  |     |     |     |
+| [**26**](26) | [**27**](27) | 28  | 29  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -41,3 +41,4 @@ Questions
 | [24 February 2024](24) | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) |
 | [25 February 2024](25) | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal) |
 | [26 February 2024](26) | [100. Same Tree](https://leetcode.com/problems/same-tree) |
+| [27 February 2024](27) | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
