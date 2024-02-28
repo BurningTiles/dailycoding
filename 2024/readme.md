@@ -27,7 +27,7 @@
 | [**5**](02-February/05) | [**6**](02-February/06) | [**7**](02-February/07) | [**8**](02-February/08) | [**9**](02-February/09) | [**10**](02-February/10) | [**11**](02-February/11) |
 | [**12**](02-February/12) | [**13**](02-February/13) | [**14**](02-February/14) | [**15**](02-February/15) | [**16**](02-February/16) | [**17**](02-February/17) | [**18**](02-February/18) |
 | [**19**](02-February/19) | [**20**](02-February/20) | [**21**](02-February/21) | [**22**](02-February/22) | [**23**](02-February/23) | [**24**](02-February/24) | [**25**](02-February/25) |
-| [**26**](02-February/26) | [**27**](02-February/27) | 28  | 29  |     |     |     |
+| [**26**](02-February/26) | [**27**](02-February/27) | [**28**](02-February/28) | 29  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -226,3 +226,4 @@ Questions
 | [25 February 2024](02-February/25) | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal) |
 | [26 February 2024](02-February/26) | [100. Same Tree](https://leetcode.com/problems/same-tree) |
 | [27 February 2024](02-February/27) | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+| [28 February 2024](02-February/28) | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) |
