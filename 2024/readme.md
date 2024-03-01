@@ -36,7 +36,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     | 1   | 2   | 3   |
+|     |     |     |     | [**1**](03-March/01) | 2   | 3   |
 | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
@@ -228,3 +228,4 @@ Questions
 | [27 February 2024](02-February/27) | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
 | [28 February 2024](02-February/28) | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) |
 | [29 February 2024](02-February/29) | [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree) |
+| [01 March 2024](03-March/01) | [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) |
