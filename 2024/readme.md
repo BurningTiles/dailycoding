@@ -37,7 +37,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](03-March/01) | [**2**](03-March/02) | [**3**](03-March/03) |
-| 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| [**4**](03-March/04) | 5   | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
@@ -231,3 +231,4 @@ Questions
 | [01 March 2024](03-March/01) | [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) |
 | [02 March 2024](03-March/02) | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) |
 | [03 March 2024](03-March/03) | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+| [04 March 2024](03-March/04) | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) |
