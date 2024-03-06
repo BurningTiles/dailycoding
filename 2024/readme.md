@@ -37,7 +37,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](03-March/01) | [**2**](03-March/02) | [**3**](03-March/03) |
-| [**4**](03-March/04) | [**5**](03-March/05) | 6   | 7   | 8   | 9   | 10  |
+| [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
@@ -233,3 +233,4 @@ Questions
 | [03 March 2024](03-March/03) | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 | [04 March 2024](03-March/04) | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) |
 | [05 March 2024](03-March/05) | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) |
+| [06 March 2024](06-March/06) | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
