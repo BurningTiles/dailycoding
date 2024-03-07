@@ -112,6 +112,7 @@ try:
 		# folder = datex.today().strftime('%Y-%m-%d')
 		folder = datex.today().strftime('%m-%B/%d')
 		res = requests.post(api_url + "graphql", headers = headers, json = queries['questionOfToday'])
+		print(res.text)
 		slug = json.loads(res.text)['data']['activeDailyCodingChallengeQuestion']['link']
 		links.append(api_url[:-1] + slug)
 	elif len(sys.argv)>=3:
