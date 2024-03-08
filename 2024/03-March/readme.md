@@ -3,7 +3,7 @@ March
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
-| [**4**](04) | [**5**](05) | [**6**](06)   | [**7**](07) | 8   | 9   | 10  |
+| [**4**](04) | [**5**](05) | [**6**](06)   | [**7**](07) | [**8**](08) | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
@@ -22,3 +22,4 @@ Questions
 | [05 March 2024](05) | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) |
 | [06 March 2024](06) | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
 | [07 March 2024](07) | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) |
+| [08 March 2024](08) | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) |
