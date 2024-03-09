@@ -37,7 +37,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](03-March/01) | [**2**](03-March/02) | [**3**](03-March/03) |
-| [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**08**](03-March/08) | 9   | 10  |
+| [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
@@ -236,3 +236,4 @@ Questions
 | [06 March 2024](03-March/06) | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
 | [07 March 2024](03-March/07) | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) |
 | [08 March 2024](03-March/08) | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) |
+| [09 March 2024](03-March/09) | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value) |
