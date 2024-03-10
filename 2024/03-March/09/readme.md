@@ -3,7 +3,6 @@
 # Questions
 
 ---
-
 ## [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
 
 <div class="elfjS" data-track-load="description_content"><p>Given two integer arrays <code>nums1</code> and <code>nums2</code>, sorted in non-decreasing order, return <em>the <strong>minimum integer common</strong> to both arrays</em>. If there is no common integer amongst <code>nums1</code> and <code>nums2</code>, return <code>-1</code>.</p>
@@ -36,5 +35,4 @@
 </div>
 
 ---
-
 # [Solution](solution.md)

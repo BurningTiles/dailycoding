@@ -3,7 +3,6 @@
 # Questions
 
 ---
-
 ## [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 
 <div class="elfjS" data-track-load="description_content"><p>Given <code>head</code>, the head of a linked list, determine if the linked list has a cycle in it.</p>
@@ -40,5 +39,4 @@
 </div>
 
 ---
-
 # [Solution](solution.md)

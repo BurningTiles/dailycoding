@@ -3,7 +3,6 @@
 # Questions
 
 ---
-
 ## [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 
 <div class="elfjS" data-track-load="description_content"><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
@@ -39,5 +38,4 @@ So the number of elements in the array with maximum frequency is 5.
 </div>
 
 ---
-
 # [Solution](solution.md)
