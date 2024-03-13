@@ -38,7 +38,7 @@ def generate(content):
 
 	lang = soup.find_all(class_='h-full w-full', attrs={'data-mode-id': True})[0].get('data-mode-id')
 	code = [line for line in soup.find_all('div', class_='view-lines')[0].children]
-	code.sort(key=lambda line: int(re.search(r'top:(\d+)', line['style']).group(1)))
+	code.sort(key=lambda line: int(re.search(r'top\s*:\s*(\d+)', line['style']).group(1)))
 	code = '\n'.join([line.text for line in code])
 
 	question = templates['question'].format(title, url) + '\n\n' + description
@@ -59,14 +59,14 @@ def generate(content):
 
 	print("Files saved successfully.")
 
-try:
-	if len(sys.argv) > 1:
-		folder = datetime.strptime(sys.argv[1], '%Y-%m-%d').strftime('%m-%B/%d')
-		toDate(sys.argv[1])
-	else:
-		date = datex.today().strftime('%d %b %Y')
-		folder = datex.today().strftime('%m-%B/%d')
-	preprocess()
-	generate(getContent('today.test.html'))
-except Exception as e:
-	print(e)
+# try:
+if len(sys.argv) > 1:
+	folder = datetime.strptime(sys.argv[1], '%Y-%m-%d').strftime('%m-%B/%d')
+	toDate(sys.argv[1])
+else:
+	date = datex.today().strftime('%d %b %Y')
+	folder = datex.today().strftime('%m-%B/%d')
+preprocess()
+generate(getContent('today.test.html'))
+# except Exception as e:
+# 	print(e)
