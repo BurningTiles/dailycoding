@@ -38,7 +38,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](03-March/01) | [**2**](03-March/02) | [**3**](03-March/03) |
 | [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) | [**10**](03-March/10) |
-| [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | 14  | 15  | 16  | 17  |
+| [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | [**14**](03-March/14) | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -241,3 +241,4 @@ Questions
 | [11 March 2024](03-March/11) | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string) |
 | [12 March 2024](03-March/12) | [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [13 March 2024](03-March/13) | [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) |
+| [14 March 2024](03-March/14) | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) |
