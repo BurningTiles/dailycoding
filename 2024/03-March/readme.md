@@ -5,7 +5,7 @@ March
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
 | [**4**](04) | [**5**](05) | [**6**](06)   | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) |
 | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) |
-| [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | 22  | 23  | 24  |
+| [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -36,3 +36,4 @@ Questions
 | [19 March 2024](19) | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler) |
 | [20 March 2024](20) | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) |
 | [21 March 2024](21) | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
+| [22 March 2024](22) | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
