@@ -40,7 +40,7 @@
 | [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) | [**10**](03-March/10) |
 | [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | [**14**](03-March/14) | [**15**](03-March/15) | [**16**](03-March/16) | [**17**](03-March/17) |
 | [**18**](03-March/18) | [**19**](03-March/19) | [**20**](03-March/20) | [**21**](03-March/21) | [**22**](03-March/22) | [**23**](03-March/23) | [**24**](03-March/24) |
-| 25  | 26  | 27  | 28  | 29  | 30  | 31  |
+| [**25**](03-March/25) | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -252,3 +252,4 @@ Questions
 | [22 March 2024](03-March/22) | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
 | [23 March 2024](03-March/23) | [143. Reorder List](https://leetcode.com/problems/reorder-list) |
 | [24 March 2024](03-March/24) | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) |
+| [25 March 2024](03-March/25) | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |
