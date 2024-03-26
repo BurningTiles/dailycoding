@@ -6,7 +6,7 @@ March
 | [**4**](04) | [**5**](05) | [**6**](06)   | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) |
 | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) |
 | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) |
-| [**25**](25) | 26  | 27  | 28  | 29  | 30  | 31  |
+| [**25**](25) | [**26**](26) | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -40,3 +40,4 @@ Questions
 | [23 March 2024](23) | [143. Reorder List](https://leetcode.com/problems/reorder-list) |
 | [24 March 2024](24) | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) |
 | [25 March 2024](25) | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |
+| [26 March 2024](26) | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) |
