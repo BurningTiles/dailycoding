@@ -49,7 +49,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](04-April/01) | [**2**](04-April/02) | 3   | 4   | 5   | 6   | 7   |
+| [**1**](04-April/01) | [**2**](04-April/02) | [**3**](04-April/03) | 4   | 5   | 6   | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -261,3 +261,4 @@ Questions
 | [31 March 2024](03-March/31) | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) |
 | [01 April 2024](04-April/01) | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) |
 | [02 April 2024](04-April/02) | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| [03 April 2024](04-April/03) | [79. Word Search](https://leetcode.com/problems/word-search) |
