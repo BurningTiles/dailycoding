@@ -49,7 +49,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](04-April/01) | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | 6   | 7   |
+| [**1**](04-April/01) | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -264,3 +264,4 @@ Questions
 | [03 April 2024](04-April/03) | [79. Word Search](https://leetcode.com/problems/word-search) |
 | [04 April 2024](04-April/04) | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) |
 | [05 April 2024](04-April/05) | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great) |
+| [06 April 2024](04-April/06) | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
