@@ -50,7 +50,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](04-April/01) | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) | [**7**](04-April/07) |
-| [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | 11  | 12  | 13  | 14  |
+| [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | [**11**](04-April/11) | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
@@ -269,3 +269,4 @@ Questions
 | [08 April 2024](04-April/08) | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) |
 | [09 April 2024](04-April/09) | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) |
 | [10 April 2024](04-April/10) | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) |
+| [11 April 2024](04-April/11) | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits) |
