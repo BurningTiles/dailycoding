@@ -52,7 +52,7 @@
 | [**1**](04-April/01) | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) | [**7**](04-April/07) |
 | [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | [**11**](04-April/11) | [**12**](04-April/12) | [**13**](04-April/13) | [**14**](04-April/14) |
 | [**15**](04-April/15) | [**16**](04-April/16) | [**17**](04-April/17) | [**18**](04-April/18) | [**19**](04-April/19) | [**20**](04-April/20) | [**21**](04-April/21) |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
+| [**22**](04-April/22) | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -280,3 +280,4 @@ Questions
 | [19 April 2024](04-April/19) | [200. Number of Islands](https://leetcode.com/problems/number-of-islands) |
 | [20 April 2024](04-April/20) | [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland) |
 | [21 April 2024](04-April/21) | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) |
+| [22 April 2024](04-April/22) | [752. Open the Lock](https://leetcode.com/problems/open-the-lock) |
