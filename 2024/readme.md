@@ -53,7 +53,7 @@
 | [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | [**11**](04-April/11) | [**12**](04-April/12) | [**13**](04-April/13) | [**14**](04-April/14) |
 | [**15**](04-April/15) | [**16**](04-April/16) | [**17**](04-April/17) | [**18**](04-April/18) | [**19**](04-April/19) | [**20**](04-April/20) | [**21**](04-April/21) |
 | [**22**](04-April/22) | [**23**](04-April/23) | [**24**](04-April/24) | [**25**](04-April/25) | [**26**](04-April/26) | [**27**](04-April/27) | [**28**](04-April/28) |
-| 29  | 30  |     |     |     |     |     |
+| [**29**](04-April/29) | 30  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -287,3 +287,4 @@ Questions
 | [26 April 2024](04-April/26) | [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii) |
 | [27 April 2024](04-April/27) | [514. Freedom Trail](https://leetcode.com/problems/freedom-trail) |
 | [28 April 2024](04-April/28) | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree) |
+| [29 April 2024](04-April/29) | [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) |
