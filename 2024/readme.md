@@ -63,7 +63,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](05-May/01) | [**2**](05-May/02) | [**3**](05-May/03) | [**4**](05-May/04) | [**5**](05-May/05) |
-| [**6**](05-May/06) | 7   | 8   | 9   | 10  | 11  | 12  |
+| [**6**](05-May/06) | [**7**](05-May/07) | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -295,3 +295,4 @@ Questions
 | [04 May 2024](05-May/04) | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people) |
 | [05 May 2024](05-May/05) | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
 | [06 May 2024](05-May/06) | [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) |
+| [07 May 2024](05-May/07) | [2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) |
