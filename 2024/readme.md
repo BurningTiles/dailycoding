@@ -63,7 +63,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](05-May/01) | [**2**](05-May/02) | [**3**](05-May/03) | [**4**](05-May/04) | [**5**](05-May/05) |
-| [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | 11  | 12  |
+| [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -299,3 +299,4 @@ Questions
 | [08 May 2024](05-May/08) | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks) |
 | [09 May 2024](05-May/09) | [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children) |
 | [10 May 2024](05-May/10) | [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) |
+| [11 May 2024](05-May/11) | [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) |
