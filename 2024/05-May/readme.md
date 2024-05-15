@@ -4,7 +4,7 @@ May
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
-| [**13**](13) | [**14**](14) | 15  | 16  | 17  | 18  | 19  |
+| [**13**](13) | [**14**](14) | [**15**](15) | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -29,3 +29,4 @@ Questions
 | [12 May 2024](12) | [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) |
 | [13 May 2024](13) | [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) |
 | [14 May 2024](14) | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) |
+| [15 May 2024](15) | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) |
