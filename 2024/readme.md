@@ -64,7 +64,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](05-May/01) | [**2**](05-May/02) | [**3**](05-May/03) | [**4**](05-May/04) | [**5**](05-May/05) |
 | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) | [**12**](05-May/12) |
-| [**13**](05-May/13) | [**14**](05-May/14) | [**15**](05-May/15) | [**16**](05-May/16) | 17  | 18  | 19  |
+| [**13**](05-May/13) | [**14**](05-May/14) | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -305,3 +305,4 @@ Questions
 | [14 May 2024](05-May/14) | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) |
 | [15 May 2024](05-May/15) | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) |
 | [16 May 2024](05-May/16) | [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) |
+| [17 May 2024](05-May/17) | [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) |
