@@ -5,7 +5,7 @@ May
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
-| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
+| [**20**](20) | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -34,3 +34,4 @@ Questions
 | [17 May 2024](17) | [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) |
 | [18 May 2024](18) | [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) |
 | [19 May 2024](19) | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) |
+| [20 May 2024](20) | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) |
