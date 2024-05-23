@@ -5,7 +5,7 @@ May
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
-| [**20**](20) | [**21**](21) | [**22**](22) | 23  | 24  | 25  | 26  |
+| [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -37,3 +37,4 @@ Questions
 | [20 May 2024](20) | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) |
 | [21 May 2024](21) | [78. Subsets](https://leetcode.com/problems/subsets) |
 | [22 May 2024](22) | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) |
+| [23 May 2024](23) | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) |
