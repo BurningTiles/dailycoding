@@ -65,7 +65,7 @@
 |     |     | [**1**](05-May/01) | [**2**](05-May/02) | [**3**](05-May/03) | [**4**](05-May/04) | [**5**](05-May/05) |
 | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) | [**12**](05-May/12) |
 | [**13**](05-May/13) | [**14**](05-May/14) | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | [**18**](05-May/18) | [**19**](05-May/19) |
-| [**20**](05-May/20) | [**21**](05-May/21) | [**22**](05-May/22) | [**23**](05-May/23) | 24  | 25  | 26  |
+| [**20**](05-May/20) | [**21**](05-May/21) | [**22**](05-May/22) | [**23**](05-May/23) | [**24**](05-May/24) | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -312,3 +312,4 @@ Questions
 | [21 May 2024](05-May/21) | [78. Subsets](https://leetcode.com/problems/subsets) |
 | [22 May 2024](05-May/22) | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) |
 | [23 May 2024](05-May/23) | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) |
+| [24 May 2024](05-May/24) | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) |
