@@ -6,7 +6,7 @@ May
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
 | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) |
-| [**27**](27) | [**28**](28) | 29  | 30  | 31  |     |     |
+| [**27**](27) | [**28**](28) | [**29**](29) | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -43,3 +43,4 @@ Questions
 | [26 May 2024](26) | [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) |
 | [27 May 2024](27) | [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) |
 | [28 May 2024](28) | [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) |
+| [29 May 2024](29) | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
