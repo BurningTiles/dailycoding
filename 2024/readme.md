@@ -66,7 +66,7 @@
 | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) | [**12**](05-May/12) |
 | [**13**](05-May/13) | [**14**](05-May/14) | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | [**18**](05-May/18) | [**19**](05-May/19) |
 | [**20**](05-May/20) | [**21**](05-May/21) | [**22**](05-May/22) | [**23**](05-May/23) | [**24**](05-May/24) | [**25**](05-May/25) | [**26**](05-May/26) |
-| [**27**](05-May/27) | [**28**](05-May/28) | [**29**](05-May/29) | [**30**](05-May/30) | 31  |     |     |
+| [**27**](05-May/27) | [**28**](05-May/28) | [**29**](05-May/29) | [**30**](05-May/30) | [**31**](05-May/31) |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -319,3 +319,4 @@ Questions
 | [28 May 2024](05-May/28) | [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) |
 | [29 May 2024](05-May/29) | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [30 May 2024](05-May/30) | [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [31 May 2024](05-May/31) | [260. Single Number III](https://leetcode.com/problems/single-number-iii) |
