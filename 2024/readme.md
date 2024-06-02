@@ -75,7 +75,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     | [**1**](06-June/01) | 2   |
+|     |     |     |     |     | [**1**](06-June/01) | [**2**](06-June/02) |
 | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
@@ -321,3 +321,4 @@ Questions
 | [30 May 2024](05-May/30) | [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [31 May 2024](05-May/31) | [260. Single Number III](https://leetcode.com/problems/single-number-iii) |
 | [01 June 2024](06-June/01) | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string) |
+| [02 June 2024](06-June/02) | [344. Reverse String](https://leetcode.com/problems/reverse-string) |
