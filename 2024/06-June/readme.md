@@ -3,7 +3,7 @@ June
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | [**2**](02) |
-| [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | 9   |
+| [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
@@ -23,3 +23,4 @@ Questions
 | [06 June 2024](06) | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
 | [07 June 2024](07) | [648. Replace Words](https://leetcode.com/problems/replace-words) |
 | [08 June 2024](08) | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) |
+| [09 June 2024](09) | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) |
