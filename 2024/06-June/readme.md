@@ -4,7 +4,7 @@ June
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | [**2**](02) |
 | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
-| [**10**](10) | [**11**](11) | 12  | 13  | 14  | 15  | 16  |
+| [**10**](10) | [**11**](11) | [**12**](12) | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -26,3 +26,4 @@ Questions
 | [09 June 2024](09) | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) |
 | [10 June 2024](10) | [1051. Height Checker](https://leetcode.com/problems/height-checker) |
 | [11 June 2024](11) | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array) |
+| [12 June 2024](12) | [75. Sort Colors](https://leetcode.com/problems/sort-colors) |
