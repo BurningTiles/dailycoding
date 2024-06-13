@@ -77,7 +77,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](06-June/01) | [**2**](06-June/02) |
 | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) | [**9**](06-June/09) |
-| [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | 13  | 14  | 15  | 16  |
+| [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | [**13**](06-June/13) | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -332,3 +332,4 @@ Questions
 | [10 June 2024](06-June/10) | [1051. Height Checker](https://leetcode.com/problems/height-checker) |
 | [11 June 2024](06-June/11) | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array) |
 | [12 June 2024](06-June/12) | [75. Sort Colors](https://leetcode.com/problems/sort-colors) |
+| [13 June 2024](06-June/13) | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) |
