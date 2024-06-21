@@ -78,7 +78,7 @@
 |     |     |     |     |     | [**1**](06-June/01) | [**2**](06-June/02) |
 | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) | [**9**](06-June/09) |
 | [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | [**13**](06-June/13) | [**14**](06-June/14) | [**15**](06-June/15) | [**16**](06-June/16) |
-| [**17**](06-June/17) | [**18**](06-June/18) | [**19**](06-June/19) | [**20**](06-June/20) | 21  | 22  | 23  |
+| [**17**](06-June/17) | [**18**](06-June/18) | [**19**](06-June/19) | [**20**](06-June/20) | [**21**](06-June/21) | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -340,3 +340,4 @@ Questions
 | [18 June 2024](06-June/18) | [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) |
 | [19 June 2024](06-June/19) | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) |
 | [20 June 2024](06-June/20) | [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) |
+| [21 June 2024](06-June/21) | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) |
