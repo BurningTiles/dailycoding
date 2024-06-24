@@ -6,7 +6,7 @@ June
 | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
 | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) |
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| [**24**](24) | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -38,3 +38,4 @@ Questions
 | [21 June 2024](21) | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) |
 | [22 June 2024](22) | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
 | [23 June 2024](23) | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [24 June 2024](24) | [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) |
