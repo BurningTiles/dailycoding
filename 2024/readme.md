@@ -79,7 +79,7 @@
 | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) | [**9**](06-June/09) |
 | [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | [**13**](06-June/13) | [**14**](06-June/14) | [**15**](06-June/15) | [**16**](06-June/16) |
 | [**17**](06-June/17) | [**18**](06-June/18) | [**19**](06-June/19) | [**20**](06-June/20) | [**21**](06-June/21) | [**22**](06-June/22) | [**23**](06-June/23) |
-| [**24**](06-June/24) | [**25**](06-June/25) | 26  | 27  | 28  | 29  | 30  |
+| [**24**](06-June/24) | [**25**](06-June/25) | 26  | [**27**](06-June/27) | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -345,3 +345,4 @@ Questions
 | [23 June 2024](06-June/23) | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [24 June 2024](06-June/24) | [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) |
 | [25 June 2024](06-June/25) | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) |
+| [27 June 2024](06-June/27) | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) |
