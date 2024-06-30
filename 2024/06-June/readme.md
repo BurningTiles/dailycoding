@@ -6,7 +6,7 @@ June
 | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
 | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) |
-| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | 30  |
+| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -44,3 +44,4 @@ Questions
 | [27 June 2024](27) | [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) |
 | [28 June 2024](28) | [2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads) |
 | [29 June 2024](29) | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [30 June 2024](30) | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) |
