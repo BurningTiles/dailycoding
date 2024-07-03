@@ -88,7 +88,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](07-July/01) | [**2**](07-July/02) | 3   | 4   | 5   | 6   | 7   |
+| [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | 4   | 5   | 6   | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -352,3 +352,4 @@ Questions
 | [30 June 2024](06-June/30) | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [01 July 2024](07-July/01) | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) |
 | [02 July 2024](07-July/02) | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) |
+| [03 July 2024](07-July/03) | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) |
