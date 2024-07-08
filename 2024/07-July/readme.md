@@ -3,7 +3,7 @@ July
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
-| 8   | 9   | 10  | 11  | 12  | 13  | 14  |
+| [**8**](08) | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -22,3 +22,4 @@ Questions
 | [05 July 2024](05) | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [06 July 2024](06) | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) |
 | [07 July 2024](07) | [1518. Water Bottles](https://leetcode.com/problems/water-bottles) |
+| [08 July 2024](08) | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game) |
