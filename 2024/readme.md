@@ -89,7 +89,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) | [**7**](07-July/07) |
-| [**8**](07-July/08) | [**9**](07-July/09) | 10  | 11  | 12  | 13  | 14  |
+| [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -359,3 +359,4 @@ Questions
 | [07 July 2024](07-July/07) | [1518. Water Bottles](https://leetcode.com/problems/water-bottles) |
 | [08 July 2024](07-July/08) | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game) |
 | [09 July 2024](07-July/09) | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time) |
+| [10 July 2024](07-July/10) | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) |
