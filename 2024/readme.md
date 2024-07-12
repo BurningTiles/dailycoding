@@ -89,7 +89,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) | [**7**](07-July/07) |
-| [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | 12  | 13  | 14  |
+| [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | [**12**](07-July/12) | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -361,3 +361,4 @@ Questions
 | [09 July 2024](07-July/09) | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time) |
 | [10 July 2024](07-July/10) | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) |
 | [11 July 2024](07-July/11) | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) |
+| [12 July 2024](07-July/12) | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) |

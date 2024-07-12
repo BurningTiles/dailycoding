@@ -3,7 +3,7 @@ July
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
-| [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | 12  | 13  | 14  |
+| [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -26,3 +26,4 @@ Questions
 | [09 July 2024](09) | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time) |
 | [10 July 2024](10) | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) |
 | [11 July 2024](11) | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) |
+| [12 July 2024](12) | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) |
