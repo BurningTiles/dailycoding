@@ -90,7 +90,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) | [**7**](07-July/07) |
 | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | [**12**](07-July/12) | [**13**](07-July/13) | [**14**](07-July/14) |
-| [**15**](07-July/15) | 16  | 17  | 18  | 19  | 20  | 21  |
+| [**15**](07-July/15) | [**16**](07-July/16) | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -365,3 +365,4 @@ Questions
 | [13 July 2024](07-July/13) | [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions) |
 | [14 July 2024](07-July/14) | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms) |
 | [15 July 2024](07-July/15) | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) |
+| [16 July 2024](07-July/16) | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another) |
