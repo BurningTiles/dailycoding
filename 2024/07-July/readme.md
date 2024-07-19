@@ -4,7 +4,7 @@ July
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
-| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | 19  | 20  | 21  |
+| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -33,3 +33,4 @@ Questions
 | [16 July 2024](16) | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [17 July 2024](17) | [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) |
 | [18 July 2024](18) | [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) |
+| [19 July 2024](19) | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) |
