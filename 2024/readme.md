@@ -90,7 +90,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) | [**7**](07-July/07) |
 | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | [**12**](07-July/12) | [**13**](07-July/13) | [**14**](07-July/14) |
-| [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | [**20**](07-July/20) | 21  |
+| [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | [**20**](07-July/20) | [**21**](07-July/21) |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -370,3 +370,4 @@ Questions
 | [18 July 2024](07-July/18) | [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) |
 | [19 July 2024](07-July/19) | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) |
 | [20 July 2024](07-July/20) | [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) |
+| [21 July 2024](07-July/21) | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions) |
