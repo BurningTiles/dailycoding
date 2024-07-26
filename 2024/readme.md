@@ -375,4 +375,4 @@ Questions
 | [23 July 2024](07-July/23) | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) |
 | [24 July 2024](07-July/24) | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) |
 | [25 July 2024](07-July/25) | [912. Sort an Array](https://leetcode.com/problems/sort-an-array) |
-| [26 July 2024](07-July/26) | [912. Sort an Array](https://leetcode.com/problems/sort-an-array) |
+| [26 July 2024](07-July/26) | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
