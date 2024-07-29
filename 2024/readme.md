@@ -92,7 +92,7 @@
 | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | [**12**](07-July/12) | [**13**](07-July/13) | [**14**](07-July/14) |
 | [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | [**20**](07-July/20) | [**21**](07-July/21) |
 | [**22**](07-July/22) | [**23**](07-July/23) | [**24**](07-July/24) | [**25**](07-July/25) | [**26**](07-July/26) | [**27**](07-July/27) | [**28**](07-July/28) |
-| 29  | 30  | 31  |     |     |     |     |
+| [**29**](07-July/29) | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -378,3 +378,4 @@ Questions
 | [26 July 2024](07-July/26) | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [27 July 2024](07-July/27) | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) |
 | [28 July 2024](07-July/28) | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) |
+| [29 July 2024](07-July/29) | [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) |
