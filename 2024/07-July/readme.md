@@ -6,7 +6,7 @@ July
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
 | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) |
 | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) |
-| [**29**](29) | [**30**](30) | 31  |     |     |     |     |
+| [**29**](29) | [**30**](30) | [**31**](31) |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -45,3 +45,4 @@ Questions
 | [28 July 2024](28) | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) |
 | [29 July 2024](29) | [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) |
 | [30 July 2024](30) | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) |
+| [31 July 2024](31) | [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) |
