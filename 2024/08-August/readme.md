@@ -3,7 +3,7 @@ August
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) |
-| [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | 9   | 10  | 11  |
+| [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
@@ -23,3 +23,4 @@ Questions
 | [06 August 2024](06) | [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) |
 | [07 August 2024](07) | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words) |
 | [08 August 2024](08) | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) |
+| [09 August 2024](09) | [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) |
