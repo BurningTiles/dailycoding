@@ -102,7 +102,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | [**3**](08-August/03) | [**4**](08-August/04) |
-| [**5**](08-August/05) | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | 10  | 11  |
+| [**5**](08-August/05) | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
@@ -390,3 +390,4 @@ Questions
 | [07 August 2024](08-August/07) | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words) |
 | [08 August 2024](08-August/08) | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) |
 | [09 August 2024](08-August/09) | [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) |
+| [10 August 2024](08-August/10) | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) |
