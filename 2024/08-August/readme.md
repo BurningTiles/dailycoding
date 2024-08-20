@@ -5,7 +5,7 @@ August
 |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) |
-| [**19**](19) | 20  | 21  | 22  | 23  | 24  | 25  |
+| [**19**](19) | [**20**](20) | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -34,3 +34,4 @@ Questions
 | [17 August 2024](17) | [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) |
 | [18 August 2024](18) | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii) |
 | [19 August 2024](19) | [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) |
+| [20 August 2024](20) | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii) |
