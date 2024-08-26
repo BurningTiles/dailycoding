@@ -105,7 +105,7 @@
 | [**5**](08-August/05) | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) | [**11**](08-August/11) |
 | [**12**](08-August/12) | [**13**](08-August/13) | [**14**](08-August/14) | [**15**](08-August/15) | [**16**](08-August/16) | [**17**](08-August/17) | [**18**](08-August/18) |
 | [**19**](08-August/19) | [**20**](08-August/20) | [**21**](08-August/21) | [**22**](08-August/22) | [**23**](08-August/23) | [**24**](08-August/24) | [**25**](08-August/25) |
-| 26  | 27  | 28  | 29  | 30  | 31  |     |
+| [**26**](08-August/26) | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -406,3 +406,4 @@ Questions
 | [23 August 2024](08-August/23) | [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) |
 | [24 August 2024](08-August/24) | [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) |
 | [25 August 2024](08-August/25) | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) |
+| [26 August 2024](08-August/26) | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) |
