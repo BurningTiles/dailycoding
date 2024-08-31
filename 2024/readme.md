@@ -105,7 +105,7 @@
 | [**5**](08-August/05) | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) | [**11**](08-August/11) |
 | [**12**](08-August/12) | [**13**](08-August/13) | [**14**](08-August/14) | [**15**](08-August/15) | [**16**](08-August/16) | [**17**](08-August/17) | [**18**](08-August/18) |
 | [**19**](08-August/19) | [**20**](08-August/20) | [**21**](08-August/21) | [**22**](08-August/22) | [**23**](08-August/23) | [**24**](08-August/24) | [**25**](08-August/25) |
-| [**26**](08-August/26) | [**27**](08-August/27) | [**28**](08-August/28) | [**29**](08-August/29) | [**30**](08-August/30) | 31  |     |
+| [**26**](08-August/26) | [**27**](08-August/27) | [**28**](08-August/28) | [**29**](08-August/29) | [**30**](08-August/30) | [**31**](08-August/31) |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -411,3 +411,4 @@ Questions
 | [28 August 2024](08-August/28) | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands) |
 | [29 August 2024](08-August/29) | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) |
 | [30 August 2024](08-August/30) | [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights) |
+| [31 August 2024](08-August/31) | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) |

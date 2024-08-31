@@ -6,7 +6,7 @@ August
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) |
 | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) |
-| [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | 31  |     |
+| [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | [**31**](31) |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -45,3 +45,4 @@ Questions
 | [28 August 2024](28) | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands) |
 | [29 August 2024](29) | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) |
 | [30 August 2024](30) | [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights) |
+| [31 August 2024](31) | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) |
