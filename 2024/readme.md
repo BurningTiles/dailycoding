@@ -114,7 +114,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     |     | 1   |
+|     |     |     |     |     |     | [**1**](09-September/01) |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
@@ -412,3 +412,4 @@ Questions
 | [29 August 2024](08-August/29) | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) |
 | [30 August 2024](08-August/30) | [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights) |
 | [31 August 2024](08-August/31) | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) |
+| [01 September 2024](09-September/01) | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) |
