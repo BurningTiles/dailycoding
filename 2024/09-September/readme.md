@@ -3,7 +3,7 @@ September
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](01) |
-| [**2**](02) | [**3**](03) | [**4**](04) | 5   | 6   | 7   | 8   |
+| [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
@@ -20,3 +20,4 @@ Questions
 | [02 September 2024](02) | [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) |
 | [03 September 2024](03) | [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) |
 | [04 September 2024](04) | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) |
+| [05 September 2024](05) | [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations) |
