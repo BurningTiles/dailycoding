@@ -4,7 +4,7 @@ September
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
-| 9   | 10  | 11  | 12  | 13  | 14  | 15  |
+| [**9**](09) | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
@@ -24,3 +24,4 @@ Questions
 | [06 September 2024](06) | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) |
 | [07 September 2024](07) | [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree) |
 | [08 September 2024](08) | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) |
+| [09 September 2024](09) | [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) |
