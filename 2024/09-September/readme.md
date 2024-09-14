@@ -4,7 +4,7 @@ September
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
-| [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | 14  | 15  |
+| [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
@@ -29,3 +29,4 @@ Questions
 | [11 September 2024](11) | [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) |
 | [12 September 2024](12) | [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) |
 | [13 September 2024](13) | [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) |
+| [14 September 2024](14) | [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) |
