@@ -117,7 +117,7 @@
 |     |     |     |     |     |     | [**1**](09-September/01) |
 | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) | [**8**](09-September/08) |
 | [**9**](09-September/09) | [**10**](09-September/10) | [**11**](09-September/11) | [**12**](09-September/12) | [**13**](09-September/13) | [**14**](09-September/14) | [**15**](09-September/15) |
-| [**16**](09-September/16) | [**17**](09-September/17) | 18  | 19  | 20  | 21  | 22  |
+| [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -429,3 +429,4 @@ Questions
 | [15 September 2024](09-September/15) | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) |
 | [16 September 2024](09-September/16) | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) |
 | [17 September 2024](09-September/17) | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) |
+| [18 September 2024](09-September/18) | [179. Largest Number](https://leetcode.com/problems/largest-number) |
