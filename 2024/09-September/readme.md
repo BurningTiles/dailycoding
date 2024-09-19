@@ -5,7 +5,7 @@ September
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
-| [**16**](16) | [**17**](17) | [**18**](18) | 19  | 20  | 21  | 22  |
+| [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -34,3 +34,4 @@ Questions
 | [16 September 2024](16) | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) |
 | [17 September 2024](17) | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) |
 | [18 September 2024](18) | [179. Largest Number](https://leetcode.com/problems/largest-number) |
+| [19 September 2024](19) | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) |
