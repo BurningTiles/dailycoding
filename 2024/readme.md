@@ -117,7 +117,7 @@
 |     |     |     |     |     |     | [**1**](09-September/01) |
 | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) | [**8**](09-September/08) |
 | [**9**](09-September/09) | [**10**](09-September/10) | [**11**](09-September/11) | [**12**](09-September/12) | [**13**](09-September/13) | [**14**](09-September/14) | [**15**](09-September/15) |
-| [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | [**19**](09-September/19) | [**20**](09-September/20) | [**21**](09-September/21) | 22  |
+| [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | [**19**](09-September/19) | [**20**](09-September/20) | [**21**](09-September/21) | [**22**](09-September/22) |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -433,3 +433,4 @@ Questions
 | [19 September 2024](09-September/19) | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) |
 | [20 September 2024](09-September/20) | [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
 | [21 September 2024](09-September/21) | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) |
+| [22 September 2024](09-September/22) | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) |
