@@ -6,7 +6,7 @@ September
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
 | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) |
-| 23  | 24  | 25  | 26  | 27  | 28  | 29  |
+| [**23**](23) | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -38,3 +38,4 @@ Questions
 | [20 September 2024](20) | [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
 | [21 September 2024](21) | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) |
 | [22 September 2024](22) | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) |
+| [23 September 2024](23) | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) |
