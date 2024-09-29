@@ -118,7 +118,7 @@
 | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) | [**8**](09-September/08) |
 | [**9**](09-September/09) | [**10**](09-September/10) | [**11**](09-September/11) | [**12**](09-September/12) | [**13**](09-September/13) | [**14**](09-September/14) | [**15**](09-September/15) |
 | [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | [**19**](09-September/19) | [**20**](09-September/20) | [**21**](09-September/21) | [**22**](09-September/22) |
-| [**23**](09-September/23) | [**24**](09-September/24) | [**25**](09-September/25) | [**26**](09-September/26) | [**27**](09-September/27) | [**28**](09-September/28) | 29  |
+| [**23**](09-September/23) | [**24**](09-September/24) | [**25**](09-September/25) | [**26**](09-September/26) | [**27**](09-September/27) | [**28**](09-September/28) | [**29**](09-September/29) |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -440,3 +440,4 @@ Questions
 | [26 September 2024](09-September/26) | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i) |
 | [27 September 2024](09-September/27) | [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii) |
 | [28 September 2024](09-September/28) | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) |
+| [29 September 2024](09-September/29) | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
