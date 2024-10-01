@@ -128,7 +128,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     | 1   | 2   | 3   | 4   | 5   | 6   |
+|     | [**1**](10-October/01) | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
@@ -442,3 +442,4 @@ Questions
 | [28 September 2024](09-September/28) | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) |
 | [29 September 2024](09-September/29) | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
 | [30 September 2024](09-September/30) | [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |
+| [01 October 2024](10-October/01) | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) |
