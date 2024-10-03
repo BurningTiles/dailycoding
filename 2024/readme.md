@@ -128,7 +128,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     | [**1**](10-October/01) | [**2**](10-October/02) | 3   | 4   | 5   | 6   |
+|     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
@@ -444,3 +444,4 @@ Questions
 | [30 September 2024](09-September/30) | [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |
 | [01 October 2024](10-October/01) | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) |
 | [02 October 2024](10-October/02) | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) |
+| [03 October 2024](10-October/03) | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) |
