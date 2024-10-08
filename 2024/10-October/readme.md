@@ -3,7 +3,7 @@ October
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
-| [**7**](07) | 8   | 9   | 10  | 11  | 12  | 13  |
+| [**7**](07) | [**8**](08) | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
@@ -22,3 +22,4 @@ Questions
 | [05 October 2024](05) | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string) |
 | [06 October 2024](06) | [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii) |
 | [07 October 2024](07) | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) |
+| [08 October 2024](08) | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) |
