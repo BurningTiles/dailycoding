@@ -129,7 +129,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) | [**6**](10-October/06) |
-| [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | 10  | 11  | 12  | 13  |
+| [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
@@ -451,3 +451,4 @@ Questions
 | [07 October 2024](10-October/07) | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) |
 | [08 October 2024](10-October/08) | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) |
 | [09 October 2024](10-October/09) | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) |
+| [10 October 2024](10-October/10) | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) |
