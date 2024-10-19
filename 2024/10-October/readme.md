@@ -4,7 +4,7 @@ October
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  |
-| 14  | 15  | 16  | 17  | [**18**](18) | 19  | 20  |
+| 14  | 15  | 16  | 17  | [**18**](18) | [**19**](19) | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -26,3 +26,4 @@ Questions
 | [09 October 2024](09) | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) |
 | [10 October 2024](10) | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) |
 | [18 October 2024](18) | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) |
+| [19 October 2024](19) | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) |
