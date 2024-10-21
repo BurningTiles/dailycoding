@@ -5,7 +5,7 @@ October
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](18) | [**19**](19) | [**20**](20) |
-| 21  | 22  | 23  | 24  | 25  | 26  | 27  |
+| [**21**](21) | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -28,3 +28,4 @@ Questions
 | [18 October 2024](18) | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) |
 | [19 October 2024](19) | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) |
 | [20 October 2024](20) | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) |
+| [21 October 2024](21) | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) |
