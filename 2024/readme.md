@@ -131,7 +131,7 @@
 |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) | [**6**](10-October/06) |
 | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](10-October/18) | [**19**](10-October/19) | [**20**](10-October/20) |
-| [**21**](10-October/21) | 22  | 23  | 24  | 25  | 26  | 27  |
+| [**21**](10-October/21) | [**22**](10-October/22) | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -456,3 +456,4 @@ Questions
 | [19 October 2024](10-October/19) | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) |
 | [20 October 2024](10-October/20) | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) |
 | [21 October 2024](10-October/21) | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) |
+| [22 October 2024](10-October/22) | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) |
