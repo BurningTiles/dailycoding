@@ -131,7 +131,7 @@
 |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) | [**6**](10-October/06) |
 | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](10-October/18) | [**19**](10-October/19) | [**20**](10-October/20) |
-| [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | 26  | 27  |
+| [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -460,3 +460,4 @@ Questions
 | [23 October 2024](10-October/23) | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii) |
 | [24 October 2024](10-October/24) | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
 | [25 October 2024](10-October/25) | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) |
+| [26 October 2024](10-October/26) | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) |
