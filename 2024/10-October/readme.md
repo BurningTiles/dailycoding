@@ -5,7 +5,7 @@ October
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](18) | [**19**](19) | [**20**](20) |
-| [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | 27  |
+| [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -34,3 +34,4 @@ Questions
 | [24 October 2024](24) | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
 | [25 October 2024](25) | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) |
 | [26 October 2024](26) | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) |
+| [27 October 2024](27) | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) |
