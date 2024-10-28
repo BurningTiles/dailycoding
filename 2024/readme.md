@@ -132,7 +132,7 @@
 | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](10-October/18) | [**19**](10-October/19) | [**20**](10-October/20) |
 | [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) | [**27**](10-October/27) |
-| 28  | 29  | 30  | 31  |     |     |     |
+| [**28**](10-October/28) | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -462,3 +462,4 @@ Questions
 | [25 October 2024](10-October/25) | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) |
 | [26 October 2024](10-October/26) | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) |
 | [27 October 2024](10-October/27) | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) |
+| [28 October 2024](10-October/28) | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array) |
