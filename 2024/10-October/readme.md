@@ -6,7 +6,7 @@ October
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](18) | [**19**](19) | [**20**](20) |
 | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) |
-| [**28**](28) | [**29**](29) | 30  | 31  |     |     |     |
+| [**28**](28) | [**29**](29) | [**30**](30) | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -37,3 +37,4 @@ Questions
 | [27 October 2024](27) | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) |
 | [28 October 2024](28) | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array) |
 | [29 October 2024](29) | [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) |
+| [30 October 2024](30) | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) |
