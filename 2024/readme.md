@@ -132,7 +132,7 @@
 | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | [**18**](10-October/18) | [**19**](10-October/19) | [**20**](10-October/20) |
 | [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) | [**27**](10-October/27) |
-| [**28**](10-October/28) | [**29**](10-October/29) | [**30**](10-October/30) | 31  |     |     |     |
+| [**28**](10-October/28) | [**29**](10-October/29) | [**30**](10-October/30) | [**31**](10-October/31) |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -465,3 +465,4 @@ Questions
 | [28 October 2024](10-October/28) | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array) |
 | [29 October 2024](10-October/29) | [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) |
 | [30 October 2024](10-October/30) | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) |
+| [31 October 2024](10-October/31) | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled) |
