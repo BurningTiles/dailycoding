@@ -141,7 +141,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | 3   |
+|     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | [**3**](11-November/03) |
 | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
@@ -468,3 +468,4 @@ Questions
 | [31 October 2024](10-October/31) | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled) |
 | [01 November 2024](11-November/01) | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) |
 | [02 November 2024](11-November/02) | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) |
+| [03 November 2024](11-November/03) | [796. Rotate String](https://leetcode.com/problems/rotate-string) |
