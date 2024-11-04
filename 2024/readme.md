@@ -142,7 +142,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | [**3**](11-November/03) |
-| 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| [**4**](11-November/04) | 5   | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
@@ -469,3 +469,4 @@ Questions
 | [01 November 2024](11-November/01) | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) |
 | [02 November 2024](11-November/02) | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) |
 | [03 November 2024](11-November/03) | [796. Rotate String](https://leetcode.com/problems/rotate-string) |
+| [04 November 2024](11-November/04) | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii) |
