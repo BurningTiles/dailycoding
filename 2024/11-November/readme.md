@@ -3,7 +3,7 @@ November
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
-| [**4**](04) | 5   | 6   | 7   | 8   | 9   | 10  |
+| [**4**](04) | [**5**](05) | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
@@ -19,3 +19,4 @@ Questions
 | [02 November 2024](02) | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) |
 | [03 November 2024](03) | [796. Rotate String](https://leetcode.com/problems/rotate-string) |
 | [04 November 2024](04) | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii) |
+| [05 November 2024](05) | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) |
