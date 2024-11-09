@@ -3,7 +3,7 @@ November
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
-| [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | 9   | 10  |
+| [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
@@ -23,3 +23,4 @@ Questions
 | [06 November 2024](06) | [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted) |
 | [07 November 2024](07) | [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) |
 | [08 November 2024](08) | [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) |
+| [09 November 2024](09) | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end) |
