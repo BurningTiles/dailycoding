@@ -143,7 +143,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | [**3**](11-November/03) |
 | [**4**](11-November/04) | [**5**](11-November/05) | [**6**](11-November/06) | [**7**](11-November/07) | [**8**](11-November/08) | [**9**](11-November/09) | [**10**](11-November/10) |
-| 11  | 12  | 13  | 14  | 15  | 16  | 17  |
+| [**11**](11-November/11) | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -476,3 +476,4 @@ Questions
 | [08 November 2024](11-November/08) | [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) |
 | [09 November 2024](11-November/09) | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end) |
 | [10 November 2024](11-November/10) | [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) |
+| [11 November 2024](11-November/11) | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) |
