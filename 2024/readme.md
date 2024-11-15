@@ -143,7 +143,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | [**3**](11-November/03) |
 | [**4**](11-November/04) | [**5**](11-November/05) | [**6**](11-November/06) | [**7**](11-November/07) | [**8**](11-November/08) | [**9**](11-November/09) | [**10**](11-November/10) |
-| [**11**](11-November/11) | [**12**](11-November/12) | [**13**](11-November/13) | 14  | 15  | 16  | 17  |
+| [**11**](11-November/11) | [**12**](11-November/12) | [**13**](11-November/13) | 14  | [**15**](11-November/15) | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -479,3 +479,4 @@ Questions
 | [11 November 2024](11-November/11) | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) |
 | [12 November 2024](11-November/12) | [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) |
 | [13 November 2024](11-November/13) | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) |
+| [15 November 2024](11-November/15) | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) |
