@@ -144,7 +144,7 @@
 |     |     |     |     | [**1**](11-November/01) | [**2**](11-November/02) | [**3**](11-November/03) |
 | [**4**](11-November/04) | [**5**](11-November/05) | [**6**](11-November/06) | [**7**](11-November/07) | [**8**](11-November/08) | [**9**](11-November/09) | [**10**](11-November/10) |
 | [**11**](11-November/11) | [**12**](11-November/12) | [**13**](11-November/13) | 14  | [**15**](11-November/15) | [**16**](11-November/16) | [**17**](11-November/17) |
-| [**18**](11-November/18) | 19  | 20  | 21  | 22  | 23  | 24  |
+| [**18**](11-November/18) | [**19**](11-November/19) | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -483,3 +483,4 @@ Questions
 | [16 November 2024](11-November/16) | [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) |
 | [17 November 2024](11-November/17) | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
 | [18 November 2024](11-November/18) | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) |
+| [19 November 2024](11-November/19) | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) |
