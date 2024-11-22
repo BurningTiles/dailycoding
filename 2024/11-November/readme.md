@@ -5,7 +5,7 @@ November
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
 | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) |
 | [**11**](11) | [**12**](12) | [**13**](13) | 14  | [**15**](15) | [**16**](16) | [**17**](17) |
-| [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | 22  | 23  | 24  |
+| [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -35,3 +35,4 @@ Questions
 | [19 November 2024](19) | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) |
 | [20 November 2024](20) | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) |
 | [21 November 2024](21) | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) |
+| [22 November 2024](22) | [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) |
