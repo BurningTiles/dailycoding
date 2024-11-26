@@ -145,7 +145,7 @@
 | [**4**](11-November/04) | [**5**](11-November/05) | [**6**](11-November/06) | [**7**](11-November/07) | [**8**](11-November/08) | [**9**](11-November/09) | [**10**](11-November/10) |
 | [**11**](11-November/11) | [**12**](11-November/12) | [**13**](11-November/13) | 14  | [**15**](11-November/15) | [**16**](11-November/16) | [**17**](11-November/17) |
 | [**18**](11-November/18) | [**19**](11-November/19) | [**20**](11-November/20) | [**21**](11-November/21) | [**22**](11-November/22) | 23  | [**24**](11-November/24) |
-| [**25**](11-November/25) | 26  | 27  | 28  | 29  | 30  |     |
+| [**25**](11-November/25) | [**26**](11-November/26) | 27  | 28  | 29  | 30  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -489,3 +489,4 @@ Questions
 | [22 November 2024](11-November/22) | [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) |
 | [24 November 2024](11-November/24) | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) |
 | [25 November 2024](11-November/25) | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) |
+| [26 November 2024](11-November/26) | [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii) |
