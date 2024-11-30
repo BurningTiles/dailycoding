@@ -145,7 +145,7 @@
 | [**4**](11-November/04) | [**5**](11-November/05) | [**6**](11-November/06) | [**7**](11-November/07) | [**8**](11-November/08) | [**9**](11-November/09) | [**10**](11-November/10) |
 | [**11**](11-November/11) | [**12**](11-November/12) | [**13**](11-November/13) | 14  | [**15**](11-November/15) | [**16**](11-November/16) | [**17**](11-November/17) |
 | [**18**](11-November/18) | [**19**](11-November/19) | [**20**](11-November/20) | [**21**](11-November/21) | [**22**](11-November/22) | 23  | [**24**](11-November/24) |
-| [**25**](11-November/25) | [**26**](11-November/26) | [**27**](11-November/27) | [**28**](11-November/28) | [**29**](11-November/29) | 30  |     |
+| [**25**](11-November/25) | [**26**](11-November/26) | [**27**](11-November/27) | [**28**](11-November/28) | [**29**](11-November/29) | [**30**](11-November/30) |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -493,3 +493,4 @@ Questions
 | [27 November 2024](11-November/27) | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) |
 | [28 November 2024](11-November/28) | [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) |
 | [29 November 2024](11-November/29) | [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) |
+| [30 November 2024](11-November/30) | [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) |
