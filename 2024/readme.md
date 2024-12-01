@@ -154,7 +154,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     |     | 1   |
+|     |     |     |     |     |     | [**1**](12-December/01) |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
@@ -494,3 +494,4 @@ Questions
 | [28 November 2024](11-November/28) | [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) |
 | [29 November 2024](11-November/29) | [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) |
 | [30 November 2024](11-November/30) | [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) |
+| [01 December 2024](12-December/01) | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) |
