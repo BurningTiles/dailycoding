@@ -4,7 +4,7 @@ December
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | 6   | [**7**](07) | [**8**](08) |
-| 9   | 10  | 11  | 12  | 13  | 14  | 15  |
+| [**9**](09) | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
@@ -23,3 +23,4 @@ Questions
 | [05 December 2024](05) | [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) |
 | [07 December 2024](07) | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) |
 | [08 December 2024](08) | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) |
+| [09 December 2024](09) | [3152. Special Array II](https://leetcode.com/problems/special-array-ii) |
