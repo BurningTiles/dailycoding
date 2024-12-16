@@ -157,7 +157,7 @@
 |     |     |     |     |     |     | [**1**](12-December/01) |
 | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | 6   | [**7**](12-December/07) | [**8**](12-December/08) |
 | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) | [**15**](12-December/15) |
-| 16  | 17  | 18  | 19  | 20  | 21  | 22  |
+| [**16**](12-December/16) | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -508,3 +508,4 @@ Questions
 | [13 December 2024](12-December/13) | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) |
 | [14 December 2024](12-December/14) | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays) |
 | [15 December 2024](12-December/15) | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) |
+| [16 December 2024](12-December/16) | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) |

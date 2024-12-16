@@ -5,7 +5,7 @@ December
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | 6   | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
-| 16  | 17  | 18  | 19  | 20  | 21  | 22  |
+| [**16**](16) | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -30,3 +30,4 @@ Questions
 | [13 December 2024](13) | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) |
 | [14 December 2024](14) | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays) |
 | [15 December 2024](15) | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) |
+| [16 December 2024](16) | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) |
