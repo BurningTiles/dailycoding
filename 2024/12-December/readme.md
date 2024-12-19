@@ -5,7 +5,7 @@ December
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | 6   | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
-| [**16**](16) | [**17**](17) | [**18**](18) | 19  | 20  | 21  | 22  |
+| [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -33,3 +33,4 @@ Questions
 | [16 December 2024](16) | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) |
 | [17 December 2024](17) | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) |
 | [18 December 2024](18) | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) |
+| [19 December 2024](19) | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) |
