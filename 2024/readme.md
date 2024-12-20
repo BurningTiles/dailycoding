@@ -157,7 +157,7 @@
 |     |     |     |     |     |     | [**1**](12-December/01) |
 | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | 6   | [**7**](12-December/07) | [**8**](12-December/08) |
 | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) | [**15**](12-December/15) |
-| [**16**](12-December/16) | [**17**](12-December/17) | [**18**](12-December/18) | [**19**](12-December/19) | 20  | 21  | 22  |
+| [**16**](12-December/16) | [**17**](12-December/17) | [**18**](12-December/18) | [**19**](12-December/19) | [**20**](12-December/20) | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -512,3 +512,4 @@ Questions
 | [17 December 2024](12-December/17) | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) |
 | [18 December 2024](12-December/18) | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) |
 | [19 December 2024](12-December/19) | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) |
+| [20 December 2024](12-December/20) | [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) |
