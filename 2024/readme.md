@@ -158,7 +158,7 @@
 | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | 6   | [**7**](12-December/07) | [**8**](12-December/08) |
 | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) | [**15**](12-December/15) |
 | [**16**](12-December/16) | [**17**](12-December/17) | [**18**](12-December/18) | [**19**](12-December/19) | [**20**](12-December/20) | 21  | [**22**](12-December/22) |
-| [**23**](12-December/23) | 24  | [**25**](12-December/25) | 26  | 27  | 28  | 29  |
+| [**23**](12-December/23) | 24  | [**25**](12-December/25) | [**26**](12-December/26) | 27  | 28  | 29  |
 | 30  | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -516,3 +516,4 @@ Questions
 | [22 December 2024](12-December/22) | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet) |
 | [23 December 2024](12-December/23) | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [25 December 2024](12-December/25) | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) |
+| [26 December 2024](12-December/26) | [494. Target Sum](https://leetcode.com/problems/target-sum) |
