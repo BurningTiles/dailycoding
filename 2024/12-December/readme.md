@@ -7,7 +7,7 @@ December
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
 | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  | [**22**](22) |
 | [**23**](23) | 24  | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) |
-| 30  | 31  |     |     |     |     |     |
+| [**30**](30) | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -42,3 +42,4 @@ Questions
 | [27 December 2024](27) | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) |
 | [28 December 2024](28) | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 | [29 December 2024](29) | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [30 December 2024](30) | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) |

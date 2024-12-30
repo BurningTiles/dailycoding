@@ -159,7 +159,7 @@
 | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) | [**15**](12-December/15) |
 | [**16**](12-December/16) | [**17**](12-December/17) | [**18**](12-December/18) | [**19**](12-December/19) | [**20**](12-December/20) | 21  | [**22**](12-December/22) |
 | [**23**](12-December/23) | 24  | [**25**](12-December/25) | [**26**](12-December/26) | [**27**](12-December/27) | [**28**](12-December/28) | [**29**](12-December/29) |
-| 30  | 31  |     |     |     |     |     |
+| [**30**](12-December/30) | 31  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -520,3 +520,4 @@ Questions
 | [27 December 2024](12-December/27) | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) |
 | [28 December 2024](12-December/28) | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 | [29 December 2024](12-December/29) | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [30 December 2024](12-December/30) | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) |
