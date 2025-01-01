@@ -15,4 +15,4 @@ Questions
 ---
 | Day | Question |
 | --- | --- |
-| [01 January 2024](01) | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) |
+| [01 January 2025](01) | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) |
