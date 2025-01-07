@@ -11,7 +11,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](01-January/01) | [**2**](01-January/02) | 3   | [**4**](01-January/04) | [**5**](01-January/05) |
-| [**6**](01-January/06) | 7   | 8   | 9   | 10  | 11  | 12  |
+| [**6**](01-January/06) | [**7**](01-January/07) | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -173,3 +173,4 @@ Questions
 | [04 January 2025](01-January/04) | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) |
 | [05 January 2025](01-January/05) | [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) |
 | [06 January 2025](01-January/06) | [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [07 January 2025](01-January/07) | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) |
