@@ -11,7 +11,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](01-January/01) | [**2**](01-January/02) | 3   | [**4**](01-January/04) | [**5**](01-January/05) |
-| [**6**](01-January/06) | [**7**](01-January/07) | [**8**](01-January/08) | [**9**](01-January/09) | 10  | 11  | 12  |
+| [**6**](01-January/06) | [**7**](01-January/07) | [**8**](01-January/08) | [**9**](01-January/09) | [**10**](01-January/10) | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -176,3 +176,4 @@ Questions
 | [07 January 2025](01-January/07) | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) |
 | [08 January 2025](01-January/08) | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) |
 | [09 January 2025](01-January/09) | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) |
+| [10 January 2025](01-January/10) | [916. Word Subsets](https://leetcode.com/problems/word-subsets) |
