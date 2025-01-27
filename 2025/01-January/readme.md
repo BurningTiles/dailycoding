@@ -6,7 +6,7 @@ January
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | 12  |
 | [**13**](13) | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | [**26**](26) |
-| 27  | 28  | 29  | 30  | 31  |     |     |
+| [**27**](27) | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -27,3 +27,4 @@ Questions
 | [11 January 2025](11) | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) |
 | [13 January 2025](13) | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) |
 | [26 January 2025](26) | [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) |
+| [27 January 2025](27) | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) |
