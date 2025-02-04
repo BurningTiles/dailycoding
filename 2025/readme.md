@@ -24,7 +24,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | 1   | 2   |
-| [**3**](02-February/03) | 4   | 5   | 6   | 7   | 8   | 9   |
+| [**3**](02-February/03) | [**4**](02-February/04) | 5   | 6   | 7   | 8   | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  |     |     |
@@ -184,3 +184,4 @@ Questions
 | [28 January 2025](01-January/28) | [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) |
 | [30 January 2025](01-January/30) | [2493. Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups) |
 | [03 February 2025](02-February/03) | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [04 February 2025](02-February/04) | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) |
