@@ -25,7 +25,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | 1   | 2   |
 | [**3**](02-February/03) | [**4**](02-February/04) | [**5**](02-February/05) | 6   | [**7**](02-February/07) | 8   | 9   |
-| 10  | [**11**](02-February/11) | [**12**](02-February/12) | 13  | 14  | 15  | 16  |
+| 10  | [**11**](02-February/11) | [**12**](02-February/12) | [**13**](02-February/13) | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -189,3 +189,4 @@ Questions
 | [07 February 2025](02-February/07) | [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) |
 | [11 February 2025](02-February/11) | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) |
 | [12 February 2025](02-February/12) | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [13 February 2025](02-February/13) | [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) |
