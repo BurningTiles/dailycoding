@@ -26,7 +26,7 @@
 |     |     |     |     |     | 1   | 2   |
 | [**3**](02-February/03) | [**4**](02-February/04) | [**5**](02-February/05) | 6   | [**7**](02-February/07) | 8   | 9   |
 | 10  | [**11**](02-February/11) | [**12**](02-February/12) | [**13**](02-February/13) | [**14**](02-February/14) | 15  | 16  |
-| [**17**](02-February/17) | [**18**](02-February/18) | 19  | 20  | 21  | 22  | 23  |
+| [**17**](02-February/17) | [**18**](02-February/18) | [**19**](02-February/19) | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -193,3 +193,4 @@ Questions
 | [14 February 2025](02-February/14) | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) |
 | [17 February 2025](02-February/17) | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) |
 | [18 February 2025](02-February/18) | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string) |
+| [19 February 2025](02-February/19) | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
