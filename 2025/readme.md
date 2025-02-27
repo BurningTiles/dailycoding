@@ -27,7 +27,7 @@
 | [**3**](02-February/03) | [**4**](02-February/04) | [**5**](02-February/05) | 6   | [**7**](02-February/07) | 8   | 9   |
 | 10  | [**11**](02-February/11) | [**12**](02-February/12) | [**13**](02-February/13) | [**14**](02-February/14) | 15  | 16  |
 | [**17**](02-February/17) | [**18**](02-February/18) | [**19**](02-February/19) | 20  | [**21**](02-February/21) | 22  | [**23**](02-February/23) |
-| 24  | [**25**](02-February/25) | [**26**](02-February/26) | 27  | 28  |     |     |
+| 24  | [**25**](02-February/25) | [**26**](02-February/26) | [**27**](02-February/27) | 28  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -198,3 +198,4 @@ Questions
 | [23 February 2025](02-February/23) | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [25 February 2025](02-February/25) | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) |
 | [26 February 2025](02-February/26) | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) |
+| [27 February 2025](02-February/27) | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) |
