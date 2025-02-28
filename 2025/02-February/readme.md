@@ -6,7 +6,7 @@ February
 | [**3**](03) | [**4**](04) | [**5**](05) | 6   | [**7**](07) | 8   | 9   |
 | 10  | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | 15  | 16  |
 | [**17**](17) | [**18**](18) | [**19**](19) | 20  | [**21**](21) | 22  | [**23**](23) |
-| 24  | [**25**](25) | [**26**](26) | [**27**](27) | 28  |     |     |
+| 24  | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -31,3 +31,4 @@ Questions
 | [25 February 2025](25) | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) |
 | [26 February 2025](26) | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) |
 | [27 February 2025](27) | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) |
+| [28 February 2025](28) | [1092. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) |
