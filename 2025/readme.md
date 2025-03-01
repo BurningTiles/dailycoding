@@ -36,7 +36,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     | 1   | 2   |
+|     |     |     |     |     | [**1**](03-March/01) | 2   |
 | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
@@ -200,3 +200,4 @@ Questions
 | [26 February 2025](02-February/26) | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) |
 | [27 February 2025](02-February/27) | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) |
 | [28 February 2025](02-February/28) | [1092. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) |
+| [01 March 2025](03-March/01) | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) |
