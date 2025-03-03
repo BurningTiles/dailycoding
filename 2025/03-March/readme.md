@@ -3,7 +3,7 @@ March
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | [**2**](02) |
-| 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| [**3**](03) | 4   | 5   | 6   | 7   | 8   | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
@@ -18,3 +18,4 @@ Questions
 | --- | --- |
 | [01 March 2025](01) | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) |
 | [02 March 2025](02) | [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) |
+| [03 March 2025](03) | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) |
