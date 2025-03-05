@@ -2,7 +2,7 @@ import sys
 import os
 import re
 import subprocess
-from datetime import datetime, date as datex
+from datetime import datetime, date as datex, timedelta
 from bs4 import BeautifulSoup
 
 templates = {
@@ -64,8 +64,8 @@ if len(sys.argv) > 1:
 	folder = datetime.strptime(sys.argv[1], '%Y-%m-%d').strftime('%m-%B/%d')
 	toDate(sys.argv[1])
 else:
-	date = datex.today().strftime('%d %b %Y')
-	folder = datex.today().strftime('%m-%B/%d')
+	date = (datetime.now() - timedelta(hours=5, minutes=30)).strftime('%d %b %Y')
+	folder = (datetime.now() - timedelta(hours=5, minutes=30)).strftime('%m-%B/%d')
 preprocess()
 generate(getContent('today.test.html'))
 # except Exception as e:
