@@ -3,7 +3,7 @@ March
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | [**2**](02) |
-| [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | 8   | 9   |
+| [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
@@ -23,3 +23,4 @@ Questions
 | [05 March 2025](05) | [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) |
 | [06 March 2025](06) | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) |
 | [07 March 2025](07) | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range) |
+| [08 March 2025](08) | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) |
