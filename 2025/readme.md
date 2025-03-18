@@ -39,7 +39,7 @@
 |     |     |     |     |     | [**1**](03-March/01) | [**2**](03-March/02) |
 | [**3**](03-March/03) | [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) |
 | [**10**](03-March/10) | [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | [**14**](03-March/14) | [**15**](03-March/15) | [**16**](03-March/16) |
-| [**17**](03-March/17) | 18  | 19  | 20  | 21  | 22  | 23  |
+| [**17**](03-March/17) | [**18**](03-March/18) | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -217,3 +217,4 @@ Questions
 | [15 March 2025](03-March/15) | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv) |
 | [16 March 2025](03-March/16) | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars) |
 | [17 March 2025](03-March/17) | [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) |
+| [18 March 2025](03-March/18) | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) |
