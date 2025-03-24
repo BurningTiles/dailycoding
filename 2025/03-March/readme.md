@@ -6,7 +6,7 @@ March
 | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
 | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  | [**22**](22) | 23  |
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| [**24**](24) | 25  | 26  | 27  | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -37,3 +37,4 @@ Questions
 | [19 March 2025](19) | [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [20 March 2025](20) | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) |
 | [22 March 2025](22) | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) |
+| [24 March 2025](24) | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) |

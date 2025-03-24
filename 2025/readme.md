@@ -40,7 +40,7 @@
 | [**3**](03-March/03) | [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) |
 | [**10**](03-March/10) | [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | [**14**](03-March/14) | [**15**](03-March/15) | [**16**](03-March/16) |
 | [**17**](03-March/17) | [**18**](03-March/18) | [**19**](03-March/19) | [**20**](03-March/20) | 21  | [**22**](03-March/22) | 23  |
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| [**24**](03-March/24) | 25  | 26  | 27  | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -221,3 +221,4 @@ Questions
 | [19 March 2025](03-March/19) | [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [20 March 2025](03-March/20) | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) |
 | [22 March 2025](03-March/22) | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) |
+| [24 March 2025](03-March/24) | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) |
