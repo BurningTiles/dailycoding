@@ -40,7 +40,7 @@
 | [**3**](03-March/03) | [**4**](03-March/04) | [**5**](03-March/05) | [**6**](03-March/06) | [**7**](03-March/07) | [**8**](03-March/08) | [**9**](03-March/09) |
 | [**10**](03-March/10) | [**11**](03-March/11) | [**12**](03-March/12) | [**13**](03-March/13) | [**14**](03-March/14) | [**15**](03-March/15) | [**16**](03-March/16) |
 | [**17**](03-March/17) | [**18**](03-March/18) | [**19**](03-March/19) | [**20**](03-March/20) | 21  | [**22**](03-March/22) | 23  |
-| [**24**](03-March/24) | [**25**](03-March/25) | [**26**](03-March/26) | 27  | 28  | 29  | 30  |
+| [**24**](03-March/24) | [**25**](03-March/25) | [**26**](03-March/26) | [**27**](03-March/27) | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -224,3 +224,4 @@ Questions
 | [24 March 2025](03-March/24) | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) |
 | [25 March 2025](03-March/25) | [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) |
 | [26 March 2025](03-March/26) | [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) |
+| [27 March 2025](03-March/27) | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) |
