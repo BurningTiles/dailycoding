@@ -6,7 +6,7 @@ March
 | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) |
 | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  | [**22**](22) | 23  |
-| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | 30  |
+| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) |
 | 31  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -43,3 +43,4 @@ Questions
 | [27 March 2025](27) | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) |
 | [28 March 2025](28) | [2503. Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) |
 | [29 March 2025](29) | [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score) |
+| [30 March 2025](30) | [763. Partition Labels](https://leetcode.com/problems/partition-labels) |
