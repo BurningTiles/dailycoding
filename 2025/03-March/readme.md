@@ -7,7 +7,7 @@ March
 | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  | [**22**](22) | 23  |
 | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) |
-| 31  |     |     |     |     |     |     |
+| [**31**](31) |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -44,3 +44,4 @@ Questions
 | [28 March 2025](28) | [2503. Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) |
 | [29 March 2025](29) | [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score) |
 | [30 March 2025](30) | [763. Partition Labels](https://leetcode.com/problems/partition-labels) |
+| [31 March 2025](31) | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags) |
