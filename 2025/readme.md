@@ -50,7 +50,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     | 1   | 2   | 3   | 4   | 5   | 6   |
+|     | 1   | [**2**](04-April/02) | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
@@ -229,3 +229,4 @@ Questions
 | [29 March 2025](03-March/29) | [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score) |
 | [30 March 2025](03-March/30) | [763. Partition Labels](https://leetcode.com/problems/partition-labels) |
 | [31 March 2025](03-March/31) | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags) |
+| [02 April 2025](04-April/02) | [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) |
