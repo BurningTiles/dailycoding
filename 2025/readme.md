@@ -51,7 +51,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | 1   | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) |
-| 7   | 8   | 9   | 10  | 11  | 12  | 13  |
+| [**7**](04-April/07) | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
@@ -234,3 +234,4 @@ Questions
 | [04 April 2025](04-April/04) | [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) |
 | [05 April 2025](04-April/05) | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) |
 | [06 April 2025](04-April/06) | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) |
+| [07 April 2025](04-April/07) | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) |
