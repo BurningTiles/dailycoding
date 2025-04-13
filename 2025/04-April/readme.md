@@ -3,7 +3,7 @@ April
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | 1   | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
-| [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | [**12**](12) | 13  |
+| [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | [**12**](12) | [**13**](13) |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
@@ -25,3 +25,4 @@ Questions
 | [09 April 2025](09) | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) |
 | [10 April 2025](10) | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) |
 | [12 April 2025](12) | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers) |
+| [13 April 2025](13) | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers) |
