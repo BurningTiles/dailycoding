@@ -52,7 +52,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | 1   | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) |
 | [**7**](04-April/07) | [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | 11  | [**12**](04-April/12) | [**13**](04-April/13) |
-| [**14**](04-April/14) | [**15**](04-April/15) | 16  | 17  | 18  | 19  | 20  |
+| [**14**](04-April/14) | [**15**](04-April/15) | [**16**](04-April/16) | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -242,3 +242,4 @@ Questions
 | [13 April 2025](04-April/13) | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers) |
 | [14 April 2025](04-April/14) | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets) |
 | [15 April 2025](04-April/15) | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array) |
+| [16 April 2025](04-April/16) | [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays) |
