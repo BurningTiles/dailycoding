@@ -52,7 +52,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | 1   | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) |
 | [**7**](04-April/07) | [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | 11  | [**12**](04-April/12) | [**13**](04-April/13) |
-| [**14**](04-April/14) | [**15**](04-April/15) | [**16**](04-April/16) | [**17**](04-April/17) | [**18**](04-April/18) | [**19**](04-April/19) | 20  |
+| [**14**](04-April/14) | [**15**](04-April/15) | [**16**](04-April/16) | [**17**](04-April/17) | [**18**](04-April/18) | [**19**](04-April/19) | [**20**](04-April/20) |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -246,3 +246,4 @@ Questions
 | [17 April 2025](04-April/17) | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) |
 | [18 April 2025](04-April/18) | [38. Count and Say](https://leetcode.com/problems/count-and-say) |
 | [19 April 2025](04-April/19) | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) |
+| [20 April 2025](04-April/20) | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) |
