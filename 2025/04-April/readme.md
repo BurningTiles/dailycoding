@@ -5,7 +5,7 @@ April
 |     | 1   | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  | [**12**](12) | [**13**](13) |
 | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) |
-| [**21**](21) | [**22**](22) | [**23**](23) | 24  | 25  | 26  | 27  |
+| [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -36,3 +36,4 @@ Questions
 | [21 April 2025](21) | [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences) |
 | [22 April 2025](22) | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) |
 | [23 April 2025](23) | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group) |
+| [24 April 2025](24) | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) |
