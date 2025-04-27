@@ -53,7 +53,7 @@
 |     | 1   | [**2**](04-April/02) | [**3**](04-April/03) | [**4**](04-April/04) | [**5**](04-April/05) | [**6**](04-April/06) |
 | [**7**](04-April/07) | [**8**](04-April/08) | [**9**](04-April/09) | [**10**](04-April/10) | 11  | [**12**](04-April/12) | [**13**](04-April/13) |
 | [**14**](04-April/14) | [**15**](04-April/15) | [**16**](04-April/16) | [**17**](04-April/17) | [**18**](04-April/18) | [**19**](04-April/19) | [**20**](04-April/20) |
-| [**21**](04-April/21) | [**22**](04-April/22) | [**23**](04-April/23) | [**24**](04-April/24) | [**25**](04-April/25) | [**26**](04-April/26) | 27  |
+| [**21**](04-April/21) | [**22**](04-April/22) | [**23**](04-April/23) | [**24**](04-April/24) | [**25**](04-April/25) | [**26**](04-April/26) | [**27**](04-April/27) |
 | 28  | 29  | 30  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -253,3 +253,4 @@ Questions
 | [24 April 2025](04-April/24) | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) |
 | [25 April 2025](04-April/25) | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays) |
 | [26 April 2025](04-April/26) | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) |
+| [27 April 2025](04-April/27) | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) |
