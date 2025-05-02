@@ -63,7 +63,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     | 1   | 2   | 3   | 4   |
+|     |     |     | 1   | [**2**](05-May/02) | 3   | 4   |
 | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
@@ -255,3 +255,4 @@ Questions
 | [26 April 2025](04-April/26) | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) |
 | [27 April 2025](04-April/27) | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) |
 | [28 April 2025](04-April/28) | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) |
+| [02 May 2025](05-May/02) | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes) |
