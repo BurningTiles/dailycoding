@@ -3,7 +3,7 @@ May
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | 1   | [**2**](02) | 3   | [**4**](04) |
-| [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | 10  | 11  |
+| [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
@@ -22,3 +22,4 @@ Questions
 | [07 May 2025](07) | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) |
 | [08 May 2025](08) | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) |
 | [09 May 2025](09) | [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations) |
+| [10 May 2025](10) | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
