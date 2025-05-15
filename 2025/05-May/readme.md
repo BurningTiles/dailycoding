@@ -4,7 +4,7 @@ May
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | 1   | [**2**](02) | 3   | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
-| [**12**](12) | 13  | 14  | 15  | 16  | 17  | 18  |
+| [**12**](12) | 13  | 14  | [**15**](15) | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -25,3 +25,4 @@ Questions
 | [10 May 2025](10) | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [11 May 2025](11) | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) |
 | [12 May 2025](12) | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) |
+| [15 May 2025](15) | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) |
