@@ -4,7 +4,7 @@ May
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | 1   | [**2**](02) | 3   | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
-| [**12**](12) | 13  | 14  | [**15**](15) | [**16**](16) | 17  | 18  |
+| [**12**](12) | 13  | 14  | [**15**](15) | [**16**](16) | [**17**](17) | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -27,3 +27,4 @@ Questions
 | [12 May 2025](12) | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) |
 | [15 May 2025](15) | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) |
 | [16 May 2025](16) | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii) |
+| [17 May 2025](17) | [75. Sort Colors](https://leetcode.com/problems/sort-colors) |

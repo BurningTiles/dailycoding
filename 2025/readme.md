@@ -65,7 +65,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | 1   | [**2**](05-May/02) | 3   | [**4**](05-May/04) |
 | [**5**](05-May/05) | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) |
-| [**12**](05-May/12) | 13  | 14  | [**15**](05-May/15) | [**16**](05-May/16) | 17  | 18  |
+| [**12**](05-May/12) | 13  | 14  | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -267,3 +267,4 @@ Questions
 | [12 May 2025](05-May/12) | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) |
 | [15 May 2025](05-May/15) | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) |
 | [16 May 2025](05-May/16) | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii) |
+| [17 May 2025](05-May/17) | [75. Sort Colors](https://leetcode.com/problems/sort-colors) |
