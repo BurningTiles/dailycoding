@@ -5,7 +5,7 @@ May
 |     |     |     | 1   | [**2**](02) | 3   | [**4**](04) |
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | 13  | 14  | [**15**](15) | [**16**](16) | [**17**](17) | 18  |
-| 19  | 20  | 21  | [**22**](22) | [**23**](23) | 24  | 25  |
+| 19  | 20  | 21  | [**22**](22) | [**23**](23) | [**24**](24) | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -30,3 +30,4 @@ Questions
 | [17 May 2025](17) | [75. Sort Colors](https://leetcode.com/problems/sort-colors) |
 | [22 May 2025](22) | [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii) |
 | [23 May 2025](23) | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) |
+| [24 May 2025](24) | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) |
