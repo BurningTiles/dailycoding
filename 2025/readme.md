@@ -66,7 +66,7 @@
 |     |     |     | 1   | [**2**](05-May/02) | 3   | [**4**](05-May/04) |
 | [**5**](05-May/05) | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) |
 | [**12**](05-May/12) | 13  | 14  | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | 18  |
-| 19  | 20  | 21  | [**22**](05-May/22) | [**23**](05-May/23) | [**24**](05-May/24) | 25  |
+| 19  | 20  | 21  | [**22**](05-May/22) | [**23**](05-May/23) | [**24**](05-May/24) | [**25**](05-May/25) |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -271,3 +271,4 @@ Questions
 | [22 May 2025](05-May/22) | [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii) |
 | [23 May 2025](05-May/23) | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) |
 | [24 May 2025](05-May/24) | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) |
+| [25 May 2025](05-May/25) | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) |
