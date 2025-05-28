@@ -6,7 +6,7 @@ May
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | 13  | 14  | [**15**](15) | [**16**](16) | [**17**](17) | 18  |
 | 19  | 20  | 21  | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) |
-| [**26**](26) | [**27**](27) | 28  | 29  | 30  | 31  |     |
+| [**26**](26) | [**27**](27) | [**28**](28) | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -34,3 +34,4 @@ Questions
 | [25 May 2025](25) | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) |
 | [26 May 2025](26) | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) |
 | [27 May 2025](27) | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) |
+| [28 May 2025](28) | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) |
