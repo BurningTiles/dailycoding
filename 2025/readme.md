@@ -67,7 +67,7 @@
 | [**5**](05-May/05) | [**6**](05-May/06) | [**7**](05-May/07) | [**8**](05-May/08) | [**9**](05-May/09) | [**10**](05-May/10) | [**11**](05-May/11) |
 | [**12**](05-May/12) | 13  | 14  | [**15**](05-May/15) | [**16**](05-May/16) | [**17**](05-May/17) | 18  |
 | 19  | 20  | 21  | [**22**](05-May/22) | [**23**](05-May/23) | [**24**](05-May/24) | [**25**](05-May/25) |
-| [**26**](05-May/26) | [**27**](05-May/27) | [**28**](05-May/28) | 29  | 30  | 31  |     |
+| [**26**](05-May/26) | [**27**](05-May/27) | [**28**](05-May/28) | [**29**](05-May/29) | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -275,3 +275,4 @@ Questions
 | [26 May 2025](05-May/26) | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) |
 | [27 May 2025](05-May/27) | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) |
 | [28 May 2025](05-May/28) | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [29 May 2025](05-May/29) | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
