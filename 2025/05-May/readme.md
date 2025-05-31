@@ -6,7 +6,7 @@ May
 | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) |
 | [**12**](12) | 13  | 14  | [**15**](15) | [**16**](16) | [**17**](17) | 18  |
 | 19  | 20  | 21  | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) |
-| [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | 31  |     |
+| [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | [**31**](31) |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -37,3 +37,4 @@ Questions
 | [28 May 2025](28) | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [29 May 2025](29) | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [30 May 2025](30) | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) |
+| [31 May 2025](31) | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) |
