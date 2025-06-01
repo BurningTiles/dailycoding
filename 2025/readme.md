@@ -76,7 +76,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     |     | 1   |
+|     |     |     |     |     |     | [**1**](06-June/01) |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
@@ -278,3 +278,4 @@ Questions
 | [29 May 2025](05-May/29) | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [30 May 2025](05-May/30) | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) |
 | [31 May 2025](05-May/31) | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) |
+| [01 June 2025](06-June/01) | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii) |
