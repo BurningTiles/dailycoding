@@ -77,7 +77,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](06-June/01) |
-| [**2**](06-June/02) | 3   | 4   | 5   | 6   | 7   | 8   |
+| [**2**](06-June/02) | [**3**](06-June/03) | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
@@ -280,3 +280,4 @@ Questions
 | [31 May 2025](05-May/31) | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) |
 | [01 June 2025](06-June/01) | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii) |
 | [02 June 2025](06-June/02) | [135. Candy](https://leetcode.com/problems/candy) |
+| [03 June 2025](06-June/03) | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) |
