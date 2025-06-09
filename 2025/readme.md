@@ -78,7 +78,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     | [**1**](06-June/01) |
 | [**2**](06-June/02) | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) |
-| 9   | 10  | 11  | 12  | 13  | 14  | 15  |
+| [**9**](06-June/09) | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
@@ -286,3 +286,4 @@ Questions
 | [06 June 2025](06-June/06) | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [07 June 2025](06-June/07) | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) |
 | [08 June 2025](06-June/08) | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) |
+| [09 June 2025](06-June/09) | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) |
