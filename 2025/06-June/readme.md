@@ -5,7 +5,7 @@ June
 |     |     |     |     |     |     | [**1**](01) |
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
-| 16  | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  | 22  |
+| 16  | [**17**](17) | [**18**](18) | [**19**](19) | 20  | [**21**](21) | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -34,3 +34,4 @@ Questions
 | [17 June 2025](17) | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [18 June 2025](18) | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference) |
 | [19 June 2025](19) | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) |
+| [21 June 2025](21) | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special) |
