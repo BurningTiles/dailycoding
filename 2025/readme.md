@@ -80,7 +80,7 @@
 | [**2**](06-June/02) | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) |
 | [**9**](06-June/09) | [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | [**13**](06-June/13) | [**14**](06-June/14) | [**15**](06-June/15) |
 | 16  | [**17**](06-June/17) | [**18**](06-June/18) | [**19**](06-June/19) | 20  | [**21**](06-June/21) | [**22**](06-June/22) |
-| 23  | 24  | 25  | 26  | 27  | 28  | 29  |
+| [**23**](06-June/23) | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -298,3 +298,4 @@ Questions
 | [19 June 2025](06-June/19) | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) |
 | [21 June 2025](06-June/21) | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special) |
 | [22 June 2025](06-June/22) | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) |
+| [23 June 2025](06-June/23) | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) |
