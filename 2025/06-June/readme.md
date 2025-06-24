@@ -6,7 +6,7 @@ June
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
 | 16  | [**17**](17) | [**18**](18) | [**19**](19) | 20  | [**21**](21) | [**22**](22) |
-| [**23**](23) | 24  | 25  | 26  | 27  | 28  | 29  |
+| [**23**](23) | [**24**](24) | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -37,3 +37,4 @@ Questions
 | [21 June 2025](21) | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special) |
 | [22 June 2025](22) | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) |
 | [23 June 2025](23) | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) |
+| [24 June 2025](24) | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) |
