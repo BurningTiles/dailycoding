@@ -80,7 +80,7 @@
 | [**2**](06-June/02) | [**3**](06-June/03) | [**4**](06-June/04) | [**5**](06-June/05) | [**6**](06-June/06) | [**7**](06-June/07) | [**8**](06-June/08) |
 | [**9**](06-June/09) | [**10**](06-June/10) | [**11**](06-June/11) | [**12**](06-June/12) | [**13**](06-June/13) | [**14**](06-June/14) | [**15**](06-June/15) |
 | 16  | [**17**](06-June/17) | [**18**](06-June/18) | [**19**](06-June/19) | 20  | [**21**](06-June/21) | [**22**](06-June/22) |
-| [**23**](06-June/23) | [**24**](06-June/24) | [**25**](06-June/25) | 26  | 27  | 28  | 29  |
+| [**23**](06-June/23) | [**24**](06-June/24) | [**25**](06-June/25) | [**26**](06-June/26) | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -301,3 +301,4 @@ Questions
 | [23 June 2025](06-June/23) | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) |
 | [24 June 2025](06-June/24) | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) |
 | [25 June 2025](06-June/25) | [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) |
+| [26 June 2025](06-June/26) | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) |
