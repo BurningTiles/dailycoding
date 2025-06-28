@@ -6,7 +6,7 @@ June
 | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) | [**8**](08) |
 | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) |
 | 16  | [**17**](17) | [**18**](18) | [**19**](19) | 20  | [**21**](21) | [**22**](22) |
-| [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | 28  | 29  |
+| [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | 29  |
 | 30  |     |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -41,3 +41,4 @@ Questions
 | [25 June 2025](25) | [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) |
 | [26 June 2025](26) | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) |
 | [27 June 2025](27) | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times) |
+| [28 June 2025](28) | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) |
