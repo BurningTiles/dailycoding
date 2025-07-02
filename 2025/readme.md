@@ -90,7 +90,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     | [**1**](07-July/01) | 2   | 3   | 4   | 5   | 6   |
+|     | [**1**](07-July/01) | [**2**](07-July/02) | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
@@ -306,3 +306,4 @@ Questions
 | [28 June 2025](06-June/28) | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) |
 | [29 June 2025](06-June/29) | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [01 July 2025](07-July/01) | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) |
+| [02 July 2025](07-July/02) | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii) |
