@@ -4,7 +4,7 @@ July
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | 12  | [**13**](13) |
-| 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| [**14**](14) | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -27,3 +27,4 @@ Questions
 | [10 July 2025](10) | [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii) |
 | [11 July 2025](11) | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii) |
 | [13 July 2025](13) | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) |
+| [14 July 2025](14) | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) |
