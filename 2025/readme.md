@@ -92,7 +92,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) |
 | [**7**](07-July/07) | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | 12  | [**13**](07-July/13) |
-| [**14**](07-July/14) | 15  | 16  | 17  | 18  | 19  | 20  |
+| [**14**](07-July/14) | [**15**](07-July/15) | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -318,3 +318,4 @@ Questions
 | [11 July 2025](07-July/11) | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii) |
 | [13 July 2025](07-July/13) | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) |
 | [14 July 2025](07-July/14) | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) |
+| [15 July 2025](07-July/15) | [3136. Valid Word](https://leetcode.com/problems/valid-word) |
