@@ -4,7 +4,7 @@ July
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) |
 | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | 12  | [**13**](13) |
-| [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | 19  | 20  |
+| [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -32,3 +32,4 @@ Questions
 | [16 July 2025](16) | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) |
 | [17 July 2025](17) | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) |
 | [18 July 2025](18) | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) |
+| [19 July 2025](19) | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) |
