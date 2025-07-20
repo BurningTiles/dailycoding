@@ -92,7 +92,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) |
 | [**7**](07-July/07) | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | 12  | [**13**](07-July/13) |
-| [**14**](07-July/14) | [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | 20  |
+| [**14**](07-July/14) | [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | [**20**](07-July/20) |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -323,3 +323,4 @@ Questions
 | [17 July 2025](07-July/17) | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) |
 | [18 July 2025](07-July/18) | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) |
 | [19 July 2025](07-July/19) | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) |
+| [20 July 2025](07-July/20) | [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system) |
