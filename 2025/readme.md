@@ -93,7 +93,7 @@
 |     | [**1**](07-July/01) | [**2**](07-July/02) | [**3**](07-July/03) | [**4**](07-July/04) | [**5**](07-July/05) | [**6**](07-July/06) |
 | [**7**](07-July/07) | [**8**](07-July/08) | [**9**](07-July/09) | [**10**](07-July/10) | [**11**](07-July/11) | 12  | [**13**](07-July/13) |
 | [**14**](07-July/14) | [**15**](07-July/15) | [**16**](07-July/16) | [**17**](07-July/17) | [**18**](07-July/18) | [**19**](07-July/19) | [**20**](07-July/20) |
-| [**21**](07-July/21) | [**22**](07-July/22) | [**23**](07-July/23) | 24  | 25  | 26  | 27  |
+| [**21**](07-July/21) | [**22**](07-July/22) | [**23**](07-July/23) | [**24**](07-July/24) | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -327,3 +327,4 @@ Questions
 | [21 July 2025](07-July/21) | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) |
 | [22 July 2025](07-July/22) | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) |
 | [23 July 2025](07-July/23) | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) |
+| [24 July 2025](07-July/24) | [2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) |
