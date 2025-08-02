@@ -103,7 +103,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     | [**1**](08-August/01) | 2   | 3   |
+|     |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | 3   |
 | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
@@ -336,3 +336,4 @@ Questions
 | [30 July 2025](07-July/30) | [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) |
 | [31 July 2025](07-July/31) | [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) |
 | [01 August 2025](08-August/01) | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) |
+| [02 August 2025](08-August/02) | [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits) |
