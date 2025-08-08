@@ -104,7 +104,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | [**3**](08-August/03) |
-| [**4**](08-August/04) | 5   | [**6**](08-August/06) | [**7**](08-August/07) | 8   | 9   | 10  |
+| [**4**](08-August/04) | 5   | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | 9   | 10  |
 | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
@@ -341,3 +341,4 @@ Questions
 | [04 August 2025](08-August/04) | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) |
 | [06 August 2025](08-August/06) | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii) |
 | [07 August 2025](08-August/07) | [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected) |
+| [08 August 2025](08-August/08) | [808. Soup Servings](https://leetcode.com/problems/soup-servings) |
