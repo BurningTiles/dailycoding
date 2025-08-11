@@ -105,7 +105,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | [**3**](08-August/03) |
 | [**4**](08-August/04) | 5   | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) |
-| 11  | 12  | 13  | 14  | 15  | 16  | 17  |
+| [**11**](08-August/11) | 12  | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -344,3 +344,4 @@ Questions
 | [08 August 2025](08-August/08) | [808. Soup Servings](https://leetcode.com/problems/soup-servings) |
 | [09 August 2025](08-August/09) | [231. Power of Two](https://leetcode.com/problems/power-of-two) |
 | [10 August 2025](08-August/10) | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) |
+| [11 August 2025](08-August/11) | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) |
