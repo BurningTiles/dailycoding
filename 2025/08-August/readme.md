@@ -4,7 +4,7 @@ August
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](01) | [**2**](02) | [**3**](03) |
 | [**4**](04) | 5   | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) |
-| [**11**](11) | 12  | 13  | 14  | 15  | 16  | 17  |
+| [**11**](11) | [**12**](12) | 13  | 14  | 15  | 16  | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -25,3 +25,4 @@ Questions
 | [09 August 2025](09) | [231. Power of Two](https://leetcode.com/problems/power-of-two) |
 | [10 August 2025](10) | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) |
 | [11 August 2025](11) | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) |
+| [12 August 2025](12) | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers) |
