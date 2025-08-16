@@ -105,7 +105,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | [**3**](08-August/03) |
 | [**4**](08-August/04) | 5   | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) |
-| [**11**](08-August/11) | [**12**](08-August/12) | [**13**](08-August/13) | [**14**](08-August/14) | [**15**](08-August/15) | 16  | 17  |
+| [**11**](08-August/11) | [**12**](08-August/12) | [**13**](08-August/13) | [**14**](08-August/14) | [**15**](08-August/15) | [**16**](08-August/16) | 17  |
 | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -349,3 +349,4 @@ Questions
 | [13 August 2025](08-August/13) | [326. Power of Three](https://leetcode.com/problems/power-of-three) |
 | [14 August 2025](08-August/14) | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) |
 | [15 August 2025](08-August/15) | [342. Power of Four](https://leetcode.com/problems/power-of-four) |
+| [16 August 2025](08-August/16) | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) |
