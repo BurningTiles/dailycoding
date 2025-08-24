@@ -106,7 +106,7 @@
 |     |     |     |     | [**1**](08-August/01) | [**2**](08-August/02) | [**3**](08-August/03) |
 | [**4**](08-August/04) | 5   | [**6**](08-August/06) | [**7**](08-August/07) | [**8**](08-August/08) | [**9**](08-August/09) | [**10**](08-August/10) |
 | [**11**](08-August/11) | [**12**](08-August/12) | [**13**](08-August/13) | [**14**](08-August/14) | [**15**](08-August/15) | [**16**](08-August/16) | [**17**](08-August/17) |
-| [**18**](08-August/18) | [**19**](08-August/19) | [**20**](08-August/20) | [**21**](08-August/21) | [**22**](08-August/22) | [**23**](08-August/23) | 24  |
+| [**18**](08-August/18) | [**19**](08-August/19) | [**20**](08-August/20) | [**21**](08-August/21) | [**22**](08-August/22) | [**23**](08-August/23) | [**24**](08-August/24) |
 | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -357,3 +357,4 @@ Questions
 | [21 August 2025](08-August/21) | [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones) |
 | [22 August 2025](08-August/22) | [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) |
 | [23 August 2025](08-August/23) | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) |
+| [24 August 2025](08-August/24) | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) |
