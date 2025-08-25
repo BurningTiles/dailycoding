@@ -6,7 +6,7 @@ August
 | [**4**](04) | 5   | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) |
 | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) |
 | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) |
-| 25  | 26  | 27  | 28  | 29  | 30  | 31  |
+| [**25**](25) | 26  | 27  | 28  | 29  | 30  | 31  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -38,3 +38,4 @@ Questions
 | [22 August 2025](22) | [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) |
 | [23 August 2025](23) | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) |
 | [24 August 2025](24) | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) |
+| [25 August 2025](25) | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse) |
