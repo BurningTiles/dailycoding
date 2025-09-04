@@ -116,7 +116,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](09-September/01) | [**2**](09-September/02) | [**3**](09-September/03) | 4   | 5   | 6   | 7   |
+| [**1**](09-September/01) | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | 5   | 6   | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -368,3 +368,4 @@ Questions
 | [01 September 2025](09-September/01) | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) |
 | [02 September 2025](09-September/02) | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i) |
 | [03 September 2025](09-September/03) | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii) |
+| [04 September 2025](09-September/04) | [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person) |
