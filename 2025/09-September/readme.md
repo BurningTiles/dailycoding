@@ -2,7 +2,7 @@ September
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | 6   | 7   |
+| [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -20,3 +20,4 @@ Questions
 | [03 September 2025](03) | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii) |
 | [04 September 2025](04) | [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person) |
 | [05 September 2025](05) | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero) |
+| [06 September 2025](06) | [3495. Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero) |
