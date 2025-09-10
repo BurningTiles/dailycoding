@@ -117,7 +117,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](09-September/01) | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) |
-| [**8**](09-September/08) | [**9**](09-September/09) | 10  | 11  | 12  | 13  | 14  |
+| [**8**](09-September/08) | [**9**](09-September/09) | [**10**](09-September/10) | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
@@ -374,3 +374,4 @@ Questions
 | [07 September 2025](09-September/07) | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) |
 | [08 September 2025](09-September/08) | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [09 September 2025](09-September/09) | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret) |
+| [10 September 2025](09-September/10) | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) |
