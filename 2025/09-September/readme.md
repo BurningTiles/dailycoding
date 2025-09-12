@@ -3,7 +3,7 @@ September
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
-| [**8**](08) | [**9**](09) | [**10**](10) | 11  | 12  | 13  | 14  |
+| [**8**](08) | [**9**](09) | [**10**](10) | 11  | [**12**](12) | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
@@ -25,3 +25,4 @@ Questions
 | [08 September 2025](08) | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [09 September 2025](09) | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret) |
 | [10 September 2025](10) | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) |
+| [12 September 2025](12) | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string) |
