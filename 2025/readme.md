@@ -117,7 +117,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](09-September/01) | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) |
-| [**8**](09-September/08) | [**9**](09-September/09) | [**10**](09-September/10) | 11  | [**12**](09-September/12) | 13  | 14  |
+| [**8**](09-September/08) | [**9**](09-September/09) | [**10**](09-September/10) | 11  | [**12**](09-September/12) | [**13**](09-September/13) | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
@@ -376,3 +376,4 @@ Questions
 | [09 September 2025](09-September/09) | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret) |
 | [10 September 2025](09-September/10) | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) |
 | [12 September 2025](09-September/12) | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string) |
+| [13 September 2025](09-September/13) | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) |
