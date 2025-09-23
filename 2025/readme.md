@@ -119,7 +119,7 @@
 | [**1**](09-September/01) | [**2**](09-September/02) | [**3**](09-September/03) | [**4**](09-September/04) | [**5**](09-September/05) | [**6**](09-September/06) | [**7**](09-September/07) |
 | [**8**](09-September/08) | [**9**](09-September/09) | [**10**](09-September/10) | 11  | [**12**](09-September/12) | [**13**](09-September/13) | [**14**](09-September/14) |
 | [**15**](09-September/15) | [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | [**19**](09-September/19) | [**20**](09-September/20) | [**21**](09-September/21) |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
+| 22  | [**23**](09-September/23) | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -385,3 +385,4 @@ Questions
 | [19 September 2025](09-September/19) | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) |
 | [20 September 2025](09-September/20) | [3508. Implement Router](https://leetcode.com/problems/implement-router) |
 | [21 September 2025](09-September/21) | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system) |
+| [23 September 2025](09-September/23) | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) |
