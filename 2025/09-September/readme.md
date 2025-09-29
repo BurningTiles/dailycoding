@@ -6,7 +6,7 @@ September
 | [**8**](08) | [**9**](09) | [**10**](10) | 11  | [**12**](12) | [**13**](13) | [**14**](14) |
 | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) |
 | 22  | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) |
-| 29  | 30  |     |     |     |     |     |
+| [**29**](29) | 30  |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -41,3 +41,4 @@ Questions
 | [26 September 2025](26) | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 | [27 September 2025](27) | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) |
 | [28 September 2025](28) | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) |
+| [29 September 2025](29) | [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) |
