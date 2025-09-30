@@ -120,7 +120,7 @@
 | [**8**](09-September/08) | [**9**](09-September/09) | [**10**](09-September/10) | 11  | [**12**](09-September/12) | [**13**](09-September/13) | [**14**](09-September/14) |
 | [**15**](09-September/15) | [**16**](09-September/16) | [**17**](09-September/17) | [**18**](09-September/18) | [**19**](09-September/19) | [**20**](09-September/20) | [**21**](09-September/21) |
 | 22  | [**23**](09-September/23) | [**24**](09-September/24) | [**25**](09-September/25) | [**26**](09-September/26) | [**27**](09-September/27) | [**28**](09-September/28) |
-| [**29**](09-September/29) | 30  |     |     |     |     |     |
+| [**29**](09-September/29) | [**30**](09-September/30) |     |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -392,3 +392,4 @@ Questions
 | [27 September 2025](09-September/27) | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) |
 | [28 September 2025](09-September/28) | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) |
 | [29 September 2025](09-September/29) | [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) |
+| [30 September 2025](09-September/30) | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) |
