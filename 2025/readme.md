@@ -129,7 +129,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     | [**1**](10-October/01) | [**2**](10-October/02) | 3   | 4   | 5   |
+|     |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | 4   | 5   |
 | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
@@ -395,3 +395,4 @@ Questions
 | [30 September 2025](09-September/30) | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) |
 | [01 October 2025](10-October/01) | [1518. Water Bottles](https://leetcode.com/problems/water-bottles) |
 | [02 October 2025](10-October/02) | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii) |
+| [03 October 2025](10-October/03) | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) |
