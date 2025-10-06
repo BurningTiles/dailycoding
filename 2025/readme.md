@@ -130,7 +130,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) |
-| 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| [**6**](10-October/06) | 7   | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -398,3 +398,4 @@ Questions
 | [03 October 2025](10-October/03) | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) |
 | [04 October 2025](10-October/04) | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
 | [05 October 2025](10-October/05) | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
+| [06 October 2025](10-October/06) | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) |
