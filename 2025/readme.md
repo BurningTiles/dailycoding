@@ -130,7 +130,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) |
-| [**6**](10-October/06) | [**7**](10-October/07) | 8   | 9   | 10  | 11  | 12  |
+| [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
@@ -400,3 +400,4 @@ Questions
 | [05 October 2025](10-October/05) | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
 | [06 October 2025](10-October/06) | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) |
 | [07 October 2025](10-October/07) | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city) |
+| [08 October 2025](10-October/08) | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) |
