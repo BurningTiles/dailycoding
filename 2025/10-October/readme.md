@@ -4,7 +4,7 @@ October
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
-| [**13**](13) | [**14**](14) | 15  | 16  | 17  | 18  | 19  |
+| [**13**](13) | [**14**](14) | [**15**](15) | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -29,3 +29,4 @@ Questions
 | [12 October 2025](12) | [3539. Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences) |
 | [13 October 2025](13) | [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) |
 | [14 October 2025](14) | [3349. Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i) |
+| [15 October 2025](15) | [3350. Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii) |
