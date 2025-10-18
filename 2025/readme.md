@@ -131,7 +131,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) |
 | [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | [**11**](10-October/11) | [**12**](10-October/12) |
-| [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | 18  | 19  |
+| [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | [**18**](10-October/18) | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -410,3 +410,4 @@ Questions
 | [15 October 2025](10-October/15) | [3350. Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii) |
 | [16 October 2025](10-October/16) | [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations) |
 | [17 October 2025](10-October/17) | [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) |
+| [18 October 2025](10-October/18) | [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations) |
