@@ -5,7 +5,7 @@ October
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
-| [**20**](20) | 21  | 22  | 23  | 24  | 25  | 26  |
+| [**20**](20) | [**21**](21) | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -35,3 +35,4 @@ Questions
 | [18 October 2025](18) | [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations) |
 | [19 October 2025](19) | [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) |
 | [20 October 2025](20) | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) |
+| [21 October 2025](21) | [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i) |
