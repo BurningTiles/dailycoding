@@ -132,7 +132,7 @@
 |     |     | [**1**](10-October/01) | [**2**](10-October/02) | [**3**](10-October/03) | [**4**](10-October/04) | [**5**](10-October/05) |
 | [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | [**11**](10-October/11) | [**12**](10-October/12) |
 | [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | [**18**](10-October/18) | [**19**](10-October/19) |
-| [**20**](10-October/20) | [**21**](10-October/21) | 22  | 23  | 24  | 25  | 26  |
+| [**20**](10-October/20) | [**21**](10-October/21) | [**22**](10-October/22) | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -414,3 +414,4 @@ Questions
 | [19 October 2025](10-October/19) | [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) |
 | [20 October 2025](10-October/20) | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) |
 | [21 October 2025](10-October/21) | [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i) |
+| [22 October 2025](10-October/22) | [3347. Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii) |
