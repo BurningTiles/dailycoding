@@ -5,7 +5,7 @@ October
 |     |     | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) |
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
-| [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | 26  |
+| [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -40,3 +40,4 @@ Questions
 | [23 October 2025](23) | [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) |
 | [24 October 2025](24) | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) |
 | [25 October 2025](25) | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) |
+| [26 October 2025](26) | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system) |
