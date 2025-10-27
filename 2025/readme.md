@@ -133,7 +133,7 @@
 | [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | [**11**](10-October/11) | [**12**](10-October/12) |
 | [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | [**18**](10-October/18) | [**19**](10-October/19) |
 | [**20**](10-October/20) | [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) |
-| 27  | 28  | 29  | 30  | 31  |     |     |
+| [**27**](10-October/27) | 28  | 29  | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -419,3 +419,4 @@ Questions
 | [24 October 2025](10-October/24) | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) |
 | [25 October 2025](10-October/25) | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) |
 | [26 October 2025](10-October/26) | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system) |
+| [27 October 2025](10-October/27) | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) |
