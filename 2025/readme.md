@@ -133,7 +133,7 @@
 | [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | [**11**](10-October/11) | [**12**](10-October/12) |
 | [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | [**18**](10-October/18) | [**19**](10-October/19) |
 | [**20**](10-October/20) | [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) |
-| [**27**](10-October/27) | [**28**](10-October/28) | 29  | 30  | 31  |     |     |
+| [**27**](10-October/27) | [**28**](10-October/28) | [**29**](10-October/29) | 30  | 31  |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -421,3 +421,4 @@ Questions
 | [26 October 2025](10-October/26) | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system) |
 | [27 October 2025](10-October/27) | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) |
 | [28 October 2025](10-October/28) | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) |
+| [29 October 2025](10-October/29) | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) |
