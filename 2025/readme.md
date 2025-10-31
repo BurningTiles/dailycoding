@@ -133,7 +133,7 @@
 | [**6**](10-October/06) | [**7**](10-October/07) | [**8**](10-October/08) | [**9**](10-October/09) | [**10**](10-October/10) | [**11**](10-October/11) | [**12**](10-October/12) |
 | [**13**](10-October/13) | [**14**](10-October/14) | [**15**](10-October/15) | [**16**](10-October/16) | [**17**](10-October/17) | [**18**](10-October/18) | [**19**](10-October/19) |
 | [**20**](10-October/20) | [**21**](10-October/21) | [**22**](10-October/22) | [**23**](10-October/23) | [**24**](10-October/24) | [**25**](10-October/25) | [**26**](10-October/26) |
-| [**27**](10-October/27) | [**28**](10-October/28) | [**29**](10-October/29) | [**30**](10-October/30) | 31  |     |     |
+| [**27**](10-October/27) | [**28**](10-October/28) | [**29**](10-October/29) | [**30**](10-October/30) | [**31**](10-October/31) |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -423,3 +423,4 @@ Questions
 | [28 October 2025](10-October/28) | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) |
 | [29 October 2025](10-October/29) | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) |
 | [30 October 2025](10-October/30) | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [31 October 2025](10-October/31) | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) |

@@ -6,7 +6,7 @@ October
 | [**6**](06) | [**7**](07) | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) |
 | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) |
 | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) | [**24**](24) | [**25**](25) | [**26**](26) |
-| [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | 31  |     |     |
+| [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) | [**31**](31) |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -45,3 +45,4 @@ Questions
 | [28 October 2025](28) | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) |
 | [29 October 2025](29) | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) |
 | [30 October 2025](30) | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [31 October 2025](31) | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) |
