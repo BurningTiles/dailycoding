@@ -142,7 +142,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     | 1   | 2   |
+|     |     |     |     |     | [**1**](11-November/01) | 2   |
 | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
@@ -424,3 +424,4 @@ Questions
 | [29 October 2025](10-October/29) | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) |
 | [30 October 2025](10-October/30) | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [31 October 2025](10-October/31) | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) |
+| [01 November 2025](11-November/01) | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) |
