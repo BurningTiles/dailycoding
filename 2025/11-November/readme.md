@@ -4,7 +4,7 @@ November
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | 2   |
 | [**3**](03) | 4   | [**5**](05) | 6   | 7   | 8   | 9   |
-| [**10**](10) | 11  | 12  | [**13**](13) | 14  | 15  | 16  |
+| [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -20,3 +20,4 @@ Questions
 | [05 November 2025](05) | [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii) |
 | [10 November 2025](10) | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero) |
 | [13 November 2025](13) | [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end) |
+| [14 November 2025](14) | [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one) |
