@@ -144,7 +144,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](11-November/01) | 2   |
 | [**3**](11-November/03) | 4   | [**5**](11-November/05) | 6   | 7   | 8   | 9   |
-| [**10**](11-November/10) | 11  | 12  | [**13**](11-November/13) | [**14**](11-November/14) | 15  | 16  |
+| [**10**](11-November/10) | 11  | 12  | [**13**](11-November/13) | [**14**](11-November/14) | [**15**](11-November/15) | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -430,3 +430,4 @@ Questions
 | [10 November 2025](11-November/10) | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero) |
 | [13 November 2025](11-November/13) | [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end) |
 | [14 November 2025](11-November/14) | [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one) |
+| [15 November 2025](11-November/15) | [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones) |
