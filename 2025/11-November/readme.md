@@ -4,7 +4,7 @@ November
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     | [**1**](01) | 2   |
 | [**3**](03) | 4   | [**5**](05) | 6   | 7   | 8   | 9   |
-| [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | [**15**](15) | 16  |
+| [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -22,3 +22,4 @@ Questions
 | [13 November 2025](13) | [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end) |
 | [14 November 2025](14) | [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one) |
 | [15 November 2025](15) | [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones) |
+| [16 November 2025](16) | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) |
