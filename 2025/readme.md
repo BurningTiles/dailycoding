@@ -145,7 +145,7 @@
 |     |     |     |     |     | [**1**](11-November/01) | 2   |
 | [**3**](11-November/03) | 4   | [**5**](11-November/05) | 6   | 7   | 8   | 9   |
 | [**10**](11-November/10) | 11  | 12  | [**13**](11-November/13) | [**14**](11-November/14) | [**15**](11-November/15) | [**16**](11-November/16) |
-| [**17**](11-November/17) | [**18**](11-November/18) | 19  | 20  | 21  | 22  | 23  |
+| [**17**](11-November/17) | [**18**](11-November/18) | [**19**](11-November/19) | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -434,3 +434,4 @@ Questions
 | [16 November 2025](11-November/16) | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) |
 | [17 November 2025](11-November/17) | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) |
 | [18 November 2025](11-November/18) | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) |
+| [19 November 2025](11-November/19) | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) |
