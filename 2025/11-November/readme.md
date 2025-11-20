@@ -5,7 +5,7 @@ November
 |     |     |     |     |     | [**1**](01) | 2   |
 | [**3**](03) | 4   | [**5**](05) | 6   | 7   | 8   | 9   |
 | [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
-| [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  | 22  | 23  |
+| [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -26,3 +26,4 @@ Questions
 | [17 November 2025](17) | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) |
 | [18 November 2025](18) | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) |
 | [19 November 2025](19) | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) |
+| [20 November 2025](20) | [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two) |
