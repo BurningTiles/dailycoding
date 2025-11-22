@@ -145,7 +145,7 @@
 |     |     |     |     |     | [**1**](11-November/01) | 2   |
 | [**3**](11-November/03) | 4   | [**5**](11-November/05) | 6   | 7   | 8   | 9   |
 | [**10**](11-November/10) | 11  | 12  | [**13**](11-November/13) | [**14**](11-November/14) | [**15**](11-November/15) | [**16**](11-November/16) |
-| [**17**](11-November/17) | [**18**](11-November/18) | [**19**](11-November/19) | [**20**](11-November/20) | [**21**](11-November/21) | 22  | 23  |
+| [**17**](11-November/17) | [**18**](11-November/18) | [**19**](11-November/19) | [**20**](11-November/20) | [**21**](11-November/21) | [**22**](11-November/22) | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -437,3 +437,4 @@ Questions
 | [19 November 2025](11-November/19) | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) |
 | [20 November 2025](11-November/20) | [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two) |
 | [21 November 2025](11-November/21) | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) |
+| [22 November 2025](11-November/22) | [3190. Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) |
