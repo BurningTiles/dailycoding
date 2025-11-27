@@ -6,7 +6,7 @@ November
 | [**3**](03) | 4   | [**5**](05) | 6   | 7   | 8   | 9   |
 | [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) |
-| [**24**](24) | [**25**](25) | [**26**](26) | 27  | 28  | 29  | 30  |
+| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | 28  | 29  | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -33,3 +33,4 @@ Questions
 | [24 November 2025](24) | [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) |
 | [25 November 2025](25) | [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) |
 | [26 November 2025](26) | [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [27 November 2025](27) | [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k) |
