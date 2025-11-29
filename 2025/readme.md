@@ -146,7 +146,7 @@
 | [**3**](11-November/03) | 4   | [**5**](11-November/05) | 6   | 7   | 8   | 9   |
 | [**10**](11-November/10) | 11  | 12  | [**13**](11-November/13) | [**14**](11-November/14) | [**15**](11-November/15) | [**16**](11-November/16) |
 | [**17**](11-November/17) | [**18**](11-November/18) | [**19**](11-November/19) | [**20**](11-November/20) | [**21**](11-November/21) | [**22**](11-November/22) | [**23**](11-November/23) |
-| [**24**](11-November/24) | [**25**](11-November/25) | [**26**](11-November/26) | [**27**](11-November/27) | [**28**](11-November/28) | 29  | 30  |
+| [**24**](11-November/24) | [**25**](11-November/25) | [**26**](11-November/26) | [**27**](11-November/27) | [**28**](11-November/28) | [**29**](11-November/29) | 30  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -444,3 +444,4 @@ Questions
 | [26 November 2025](11-November/26) | [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [27 November 2025](11-November/27) | [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k) |
 | [28 November 2025](11-November/28) | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components) |
+| [29 November 2025](11-November/29) | [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) |
