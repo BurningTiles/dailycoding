@@ -6,7 +6,7 @@ November
 | [**3**](03) | 4   | [**5**](05) | 6   | 7   | 8   | 9   |
 | [**10**](10) | 11  | 12  | [**13**](13) | [**14**](14) | [**15**](15) | [**16**](16) |
 | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) | [**22**](22) | [**23**](23) |
-| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | 30  |
+| [**24**](24) | [**25**](25) | [**26**](26) | [**27**](27) | [**28**](28) | [**29**](29) | [**30**](30) |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -36,3 +36,4 @@ Questions
 | [27 November 2025](27) | [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k) |
 | [28 November 2025](28) | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components) |
 | [29 November 2025](29) | [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) |
+| [30 November 2025](30) | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) |
