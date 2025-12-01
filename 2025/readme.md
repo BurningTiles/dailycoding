@@ -155,7 +155,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+| [**1**](12-December/01) | 2   | 3   | 4   | 5   | 6   | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -446,3 +446,4 @@ Questions
 | [28 November 2025](11-November/28) | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components) |
 | [29 November 2025](11-November/29) | [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) |
 | [30 November 2025](11-November/30) | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) |
+| [01 December 2025](12-December/01) | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers) |
