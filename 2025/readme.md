@@ -156,7 +156,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](12-December/01) | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | [**6**](12-December/06) | [**7**](12-December/07) |
-| 8   | 9   | 10  | 11  | 12  | 13  | 14  |
+| [**8**](12-December/08) | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -453,3 +453,4 @@ Questions
 | [05 December 2025](12-December/05) | [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) |
 | [06 December 2025](12-December/06) | [3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k) |
 | [07 December 2025](12-December/07) | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) |
+| [08 December 2025](12-December/08) | [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) |
