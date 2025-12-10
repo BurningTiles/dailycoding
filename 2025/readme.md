@@ -156,7 +156,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](12-December/01) | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | [**6**](12-December/06) | [**7**](12-December/07) |
-| [**8**](12-December/08) | [**9**](12-December/09) | 10  | 11  | 12  | 13  | 14  |
+| [**8**](12-December/08) | [**9**](12-December/09) | [**10**](12-December/10) | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
@@ -455,3 +455,4 @@ Questions
 | [07 December 2025](12-December/07) | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) |
 | [08 December 2025](12-December/08) | [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) |
 | [09 December 2025](12-December/09) | [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets) |
+| [10 December 2025](12-December/10) | [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations) |
