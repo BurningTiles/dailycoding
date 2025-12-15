@@ -4,7 +4,7 @@ December
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
-| 15  | 16  | 17  | 18  | 19  | 20  | 21  |
+| [**15**](15) | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -29,3 +29,4 @@ Questions
 | [12 December 2025](12) | [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user) |
 | [13 December 2025](13) | [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator) |
 | [14 December 2025](14) | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) |
+| [15 December 2025](15) | [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock) |
