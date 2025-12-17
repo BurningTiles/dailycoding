@@ -157,7 +157,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](12-December/01) | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | [**6**](12-December/06) | [**7**](12-December/07) |
 | [**8**](12-December/08) | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) |
-| [**15**](12-December/15) | [**16**](12-December/16) | 17  | 18  | 19  | 20  | 21  |
+| [**15**](12-December/15) | [**16**](12-December/16) | [**17**](12-December/17) | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -462,3 +462,4 @@ Questions
 | [14 December 2025](12-December/14) | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) |
 | [15 December 2025](12-December/15) | [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock) |
 | [16 December 2025](12-December/16) | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts) |
+| [17 December 2025](12-December/17) | [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v) |
