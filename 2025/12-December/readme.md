@@ -4,7 +4,7 @@ December
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
-| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | 19  | 20  | 21  |
+| [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -33,3 +33,4 @@ Questions
 | [16 December 2025](16) | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts) |
 | [17 December 2025](17) | [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v) |
 | [18 December 2025](18) | [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy) |
+| [19 December 2025](19) | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) |
