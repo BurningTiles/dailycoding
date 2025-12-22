@@ -158,7 +158,7 @@
 | [**1**](12-December/01) | [**2**](12-December/02) | [**3**](12-December/03) | [**4**](12-December/04) | [**5**](12-December/05) | [**6**](12-December/06) | [**7**](12-December/07) |
 | [**8**](12-December/08) | [**9**](12-December/09) | [**10**](12-December/10) | [**11**](12-December/11) | [**12**](12-December/12) | [**13**](12-December/13) | [**14**](12-December/14) |
 | [**15**](12-December/15) | [**16**](12-December/16) | [**17**](12-December/17) | [**18**](12-December/18) | [**19**](12-December/19) | [**20**](12-December/20) | [**21**](12-December/21) |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
+| [**22**](12-December/22) | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -467,3 +467,4 @@ Questions
 | [19 December 2025](12-December/19) | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) |
 | [20 December 2025](12-December/20) | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) |
 | [21 December 2025](12-December/21) | [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) |
+| [22 December 2025](12-December/22) | [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) |
