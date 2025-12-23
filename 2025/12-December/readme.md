@@ -5,7 +5,7 @@ December
 | [**1**](01) | [**2**](02) | [**3**](03) | [**4**](04) | [**5**](05) | [**6**](06) | [**7**](07) |
 | [**8**](08) | [**9**](09) | [**10**](10) | [**11**](11) | [**12**](12) | [**13**](13) | [**14**](14) |
 | [**15**](15) | [**16**](16) | [**17**](17) | [**18**](18) | [**19**](19) | [**20**](20) | [**21**](21) |
-| [**22**](22) | 23  | 24  | 25  | 26  | 27  | 28  |
+| [**22**](22) | [**23**](23) | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |     |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
@@ -37,3 +37,4 @@ Questions
 | [20 December 2025](20) | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) |
 | [21 December 2025](21) | [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) |
 | [22 December 2025](22) | [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) |
+| [23 December 2025](23) | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) |
