@@ -11,7 +11,7 @@
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     | 1   | 2   | [**3**](01-January/03) | [**4**](01-January/04) |
-| 5   | 6   | 7   | 8   | 9   | 10  | 11  |
+| 5   | [**6**](01-January/06) | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
@@ -171,3 +171,4 @@ Questions
 | --- | --- |
 | [03 January 2026](01-January/03) | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid) |
 | [04 January 2026](01-January/04) | [1390. Four Divisors](https://leetcode.com/problems/four-divisors) |
+| [06 January 2026](01-January/06) | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) |
