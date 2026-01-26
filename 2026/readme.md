@@ -14,7 +14,7 @@
 | 5   | [**6**](01-January/06) | [**7**](01-January/07) | [**8**](01-January/08) | 9   | [**10**](01-January/10) | 11  |
 | 12  | 13  | 14  | 15  | 16  | [**17**](01-January/17) | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | [**25**](01-January/25) |
-| 26  | 27  | 28  | 29  | 30  | 31  |     |
+| [**26**](01-January/26) | 27  | 28  | 29  | 30  | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -177,3 +177,4 @@ Questions
 | [10 January 2026](01-January/10) | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) |
 | [17 January 2026](01-January/17) | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) |
 | [25 January 2026](01-January/25) | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [26 January 2026](01-January/26) | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) |
