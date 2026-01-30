@@ -6,7 +6,7 @@ January
 | 5   | [**6**](06) | [**7**](07) | [**8**](08) | 9   | [**10**](10) | 11  |
 | 12  | 13  | 14  | 15  | 16  | [**17**](17) | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | [**25**](25) |
-| [**26**](26) | 27  | 28  | 29  | 30  | 31  |     |
+| [**26**](26) | 27  | 28  | 29  | [**30**](30) | 31  |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -24,3 +24,4 @@ Questions
 | [17 January 2026](17) | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) |
 | [25 January 2026](25) | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [26 January 2026](26) | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) |
+| [30 January 2026](30) | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) |
