@@ -14,7 +14,7 @@
 | 5   | [**6**](01-January/06) | [**7**](01-January/07) | [**8**](01-January/08) | 9   | [**10**](01-January/10) | 11  |
 | 12  | 13  | 14  | 15  | 16  | [**17**](01-January/17) | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | [**25**](01-January/25) |
-| [**26**](01-January/26) | 27  | 28  | 29  | [**30**](01-January/30) | 31  |     |
+| [**26**](01-January/26) | 27  | 28  | 29  | [**30**](01-January/30) | [**31**](01-January/31) |     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 ---
@@ -179,3 +179,4 @@ Questions
 | [25 January 2026](01-January/25) | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [26 January 2026](01-January/26) | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) |
 | [30 January 2026](01-January/30) | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) |
+| [31 January 2026](01-January/31) | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
