@@ -23,7 +23,7 @@
 ---
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     |     |     |     |     |     | 1   |
+|     |     |     |     |     |     | [**1**](02-February/01) |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
@@ -180,3 +180,4 @@ Questions
 | [26 January 2026](01-January/26) | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) |
 | [30 January 2026](01-January/30) | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) |
 | [31 January 2026](01-January/31) | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
+| [01 February 2026](02-February/01) | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) |
